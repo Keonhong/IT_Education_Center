@@ -1,0 +1,8 @@
+5 10
+dfdf dfdf
+15 10
+dfdf dfdf
+25 10
+dfdf dfdf
+30 10
+10 2

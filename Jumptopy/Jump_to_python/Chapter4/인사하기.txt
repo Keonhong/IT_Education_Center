@@ -1,0 +1,6 @@
+janny,hannah,margot,kevin,min
+Hello, Janny!
+Hello, Hannah!
+Hello, Margot!
+Hello, Kevin!
+Hello, Min!
