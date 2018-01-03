@@ -6,3 +6,4 @@ def GuGu(number):
         a = a + 1
     return result
 print(GuGu(2))
+#
