@@ -31,3 +31,4 @@ while True:
                break
            star_count -= 2
            blank_count += 1
+           #
