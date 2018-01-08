@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1514965799406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515395404278">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515395986080">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="35" />
         <mark key="^" line="24" column="0" />
@@ -21,17 +21,20 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515396471825">
+        <mark key="^" line="9" column="3" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
         <text encoding="base64">U3ViRWxlbWVudChub3RlLCAidG8iKS50ZXh0ID0gIrHoseLBpCIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U3ViRWxlbWVudChub3RlLCAidG8iKS50ZXh0ID0gIrHoseLBpCIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text encoding="base64">IyA=</text>
       </register>
     </registers>
     <search>
@@ -45,7 +48,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
