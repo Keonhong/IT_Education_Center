@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1514965799406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515388583050">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515390437429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
@@ -28,6 +28,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
