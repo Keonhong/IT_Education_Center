@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1514965799406">
+      <file name="/Dummy.txt" timestamp="1515399587895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515395986080">
@@ -21,20 +21,22 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515396471825">
-        <mark key="^" line="9" column="3" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515399564230">
+        <mark key="^" line="37" column="9" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="43" column="25" filename="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">U3ViRWxlbWVudChub3RlLCAidG8iKS50ZXh0ID0gIrHoseLBpCIK</text>
+        <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>ubElement(blog, &quot;age&quot;).text = &quot;5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>ubElement(blog, &quot;age&quot;).text = &quot;5</text>
       </register>
     </registers>
     <search>
@@ -59,6 +61,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
