@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1515399587895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515395986080">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="35" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
         <mark key="^" line="24" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="56" column="15" />
       </file>
       <file name="/Python Console" timestamp="1515393676028">
         <mark key="[" line="0" column="0" />
@@ -21,8 +21,11 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515399564230">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515473563811">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
         <mark key="^" line="37" column="9" />
+        <mark key="." line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -32,11 +35,27 @@
       <register name="0" type="2">
         <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
+      <register name="1" type="4">
+        <text>for parent in blog.getiterator():
+    for child in parent:
+        print(child.text)</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>ubElement(blog, &quot;age&quot;).text = &quot;5</text>
+        <text>for parent in blog.getiterator():
+    for child in parent:
+        print(child.text)</text>
+      </register>
+      <register name="2" type="4">
+        <text>etiterator()
+childs = n</text>
+      </register>
+      <register name="3" type="4">
+        <text>Element(note, &quot;to&quot;).text = &quot;김기정&quot;
+# SubElement(note, &quot;to&quot;).text = &quot;김인한&quot;
+# SubElement(note, &quot;to&quot;).text = &quot;김건홍&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ubElement(blog, &quot;age&quot;).text = &quot;5</text>
+        <text>author&quot;</text>
       </register>
     </registers>
     <search>
