@@ -15,11 +15,16 @@
       <file name="/Python Console" timestamp="1515393676028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/NeNeChicken.py" timestamp="1515546062620">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/NeNeChicken.py" timestamp="1515547836080">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515547696811">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
@@ -44,9 +49,7 @@
         print(child.text)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>for parent in blog.getiterator():
-    for child in parent:
-        print(child.text)</text>
+        <text>t</text>
       </register>
       <register name="2" type="4">
         <text>etiterator()
@@ -58,7 +61,7 @@ childs = n</text>
 # SubElement(note, &quot;to&quot;).text = &quot;김건홍&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>author&quot;</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
