@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1515399587895">
+      <file name="/Dummy.txt" timestamp="1515559563418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
@@ -15,16 +15,14 @@
       <file name="/Python Console" timestamp="1515393676028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/NeNeChicken.py" timestamp="1515553348651">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/NeNeChicken.py" timestamp="1515559277113">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="23" column="11" />
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515558239501">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515561073229">
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
@@ -50,65 +48,33 @@
         <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
       <register name="1" type="4">
-        <text>import glob
-
-import time
-
-import os
-
-import shutil
-
-filelist = glob.glob('D:\python_workspace\Jumptopy\Python_XML\V1_Bigdata')
-
-k = 0
-
-for i in filelist:
-
-    t =  os.path.getmtime(i)  #파일의 수정시간 가져오기 11231234 형태
-
-    tc = time.ctime(t)
-
-    timestr = time.strptime(tc)
-
-    directoryName = time.strftime(&quot;%Y-%m-%d&quot;,timestr) #yyyy-mm-dd 형태의 폴더
-
-    filePath =  os.path.split(i)[0]
-
-    fileName =  os.path.split(i)[1]
-
-    changePathFile =  os.path.join(filePath,directoryName,fileName)
-
-    targetPath =  os.path.join(filePath,directoryName)
-
-
-    if os.path.isdir(i):  # 디렉토리면디렉토리 복사
-
-        if os.path.exists(targetPath): #해당 날짜 디렉토리가 있을때
-
-            shutil.copytree(i,os.path.join(targetPath,fileName))
-
-        else: #해당 날짜 디렉토리가 없을때
-
-            os.mkdir(targetPath)
-
-            shutil.copytree(i,os.path.join(targetPath,fileName))
-
-
-
-    else:
-
-        if os.path.exists(targetPath): #날짜별 디렉토리가 있는지 체크없으면 false
-
-            shutil.copyfile(i, changePathFile) # 파일복사(이동 move)
-
-        else:
-
-            os.mkdir(targetPath) # 디렉토리생성 및 권한부여
-
-
-            shutil.copyfile(i, changePathFile)</text>
+        <text>def mkdir_if_not(filepath):
+    dirpath, filename = os.path.split(filepath)
+    print('Directory Path :' , dirpath)
+    print('File Name    :', filename)
+    if not dirpath:
+        return filepath
+    if not os.path.exists(dirpath):
+        os.makedirs(dirpath)
+    return dirpath, filename</text>
       </register>
       <register name="&quot;" type="4">
+        <text>def mkdir_if_not(filepath):
+    dirpath, filename = os.path.split(filepath)
+    print('Directory Path :' , dirpath)
+    print('File Name    :', filename)
+    if not dirpath:
+        return filepath
+    if not os.path.exists(dirpath):
+        os.makedirs(dirpath)
+    return dirpath, filename</text>
+      </register>
+      <register name="2" type="4">
+        <text>import os
+
+os.system(&quot;mkdir V1_Bigdata&quot;)</text>
+      </register>
+      <register name="3" type="4">
         <text>import glob
 
 import time
@@ -167,22 +133,22 @@ for i in filelist:
 
             shutil.copyfile(i, changePathFile)</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>for parent in blog.getiterator():
     for child in parent:
         print(child.text)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>etiterator()
 childs = n</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>Element(note, &quot;to&quot;).text = &quot;김기정&quot;
 # SubElement(note, &quot;to&quot;).text = &quot;김인한&quot;
 # SubElement(note, &quot;to&quot;).text = &quot;김건홍&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
