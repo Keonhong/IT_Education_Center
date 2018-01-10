@@ -21,8 +21,10 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515561073229">
-        <mark key="^" line="22" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515563748164">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
@@ -30,6 +32,8 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515550974355">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/nene.py" timestamp="1515562430943" />
+      <file name="$USER_HOME$/Downloads/Nene_chicken_ver1.py" timestamp="1515562692550" />
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
@@ -48,17 +52,12 @@
         <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
       <register name="1" type="4">
-        <text>def mkdir_if_not(filepath):
-    dirpath, filename = os.path.split(filepath)
-    print('Directory Path :' , dirpath)
-    print('File Name    :', filename)
-    if not dirpath:
-        return filepath
-    if not os.path.exists(dirpath):
-        os.makedirs(dirpath)
-    return dirpath, filename</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB1cmxsaWIucmVxdWVzdApmcm9tIHBhbmRhcyBpbXBvcnQgRGF0YUZyYW1lCgpyZXN1bHQgPSBbXQoKaW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBFVApyZXNwb25zZSA9IHVybGxpYi5yZXF1ZXN0LnVybG9wZW4oJ2h0dHA6Ly9uZW5lY2hpY2tlbi5jb20vc3VicGFnZS93aGVyZV9saXN0LmFzcD90YXJnZXRfc3RlcDI9JXMmcHJvY190eXBlPXN0ZXAxJnRhcmdldF9zdGVwMT0lcyclKHVybGxpYi5wYXJzZS5xdW90ZSgnwPzDvCcpLHVybGxpYi5wYXJzZS5xdW90ZSgnwPzDvCcpKSkKCnhtbCA9IHJlc3BvbnNlLnJlYWQoKS5kZWNvZGUoJ1VURi04JykKcm9vdCA9IEVULmZyb21zdHJpbmcoeG1sKQoKZm9yIGVsZW1lbnQgaW4gcm9vdC5maW5kYWxsKCdpdGVtJyk6CiAgICBzdG9yZV9uYW1lID0gZWxlbWVudC5maW5kdGV4dCgnYW5hbWUxJykKICAgIHN0b3JlX3NpZG8gPSBlbGVtZW50LmZpbmR0ZXh0KCdhbmFtZTInKQogICAgc3RvcmVfZ3VuZ3UgPSBlbGVtZW50LmZpbmR0ZXh0KCdhbmFtZTMnKQogICAgc3RvcmVfYWRkcmVzcyA9IGVsZW1lbnQuZmluZHRleHQoJ2FuYW1lNScpCgogICAgcmVzdWx0LmFwcGVuZChbc3RvcmVfbmFtZV0rW3N0b3JlX3NpZG9dK1tzdG9yZV9ndW5ndV0rW3N0b3JlX2FkZHJlc3NdKQoKbmVuZV90YWJsZSA9IERhdGFGcmFtZShyZXN1bHQsY29sdW1ucz0oJ3NvdHJlJywnc2lkbycsJ2d1bmd1Jywnc3RvcmVfYWRkcmVzcycpKQpuZW5lX3RhYmxlLnRvX2NzdignbmVuZS5jc3YnLGVuY29kaW5nPSJjcDk0OSIsbW9kZT0ndycsaW5kZXg9VHJ1ZSkKCnRyeToKICAgIGlmIG5vdChvcy5wYXRoLmlzZGlyKCduZW5lLmNzdicpKToKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oJ25lbmUuY3N2JykpCmV4Y2VwdCBPU0Vycm9yIGFzIGU6CiAgICBpZiBlLmVycm5vICE9IGUuZXJybm8uRUVYSVNUOgogICAgICAgIHByaW50KCJGYWlsZWQgdG8gY3JlYXRlIGRpcmVjdG9yeSEhIikKICAgICAgICByYWlzZQoKIyBvcy53YWxrKCdEOlxweXRob25fd29ya3NwYWNlXEp1bXB0b3B5XFB5dGhvbl9YTUxcVjFfQmlnZGF0YScpLm5leHQoKVsxMF0KcHJpbnQoIkVuZCIp</text>
       </register>
       <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="4">
         <text>def mkdir_if_not(filepath):
     dirpath, filename = os.path.split(filepath)
     print('Directory Path :' , dirpath)
@@ -69,12 +68,12 @@
         os.makedirs(dirpath)
     return dirpath, filename</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>import os
 
 os.system(&quot;mkdir V1_Bigdata&quot;)</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>import glob
 
 import time
@@ -133,22 +132,22 @@ for i in filelist:
 
             shutil.copyfile(i, changePathFile)</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>for parent in blog.getiterator():
     for child in parent:
         print(child.text)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>etiterator()
 childs = n</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Element(note, &quot;to&quot;).text = &quot;김기정&quot;
 # SubElement(note, &quot;to&quot;).text = &quot;김인한&quot;
 # SubElement(note, &quot;to&quot;).text = &quot;김건홍&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -176,6 +175,12 @@ childs = n</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
