@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Test.py" timestamp="1515565226985">
+        <mark key="[" line="7" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1515559563418">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="15" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="56" column="15" />
       </file>
       <file name="/Python Console" timestamp="1515393676028">
         <mark key="[" line="0" column="0" />
@@ -21,21 +18,31 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515563748164">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-      </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515550974355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/nene.py" timestamp="1515562430943" />
-      <file name="$USER_HOME$/Downloads/Nene_chicken_ver1.py" timestamp="1515562692550" />
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="56" column="15" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515563748164">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/V1_Bigdata/Ver1.py" timestamp="1515564080922" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Ver2.py" timestamp="1515564415146">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515543875365">
         <mark key="[" line="57" column="0" />
@@ -55,7 +62,7 @@
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB1cmxsaWIucmVxdWVzdApmcm9tIHBhbmRhcyBpbXBvcnQgRGF0YUZyYW1lCgpyZXN1bHQgPSBbXQoKaW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBFVApyZXNwb25zZSA9IHVybGxpYi5yZXF1ZXN0LnVybG9wZW4oJ2h0dHA6Ly9uZW5lY2hpY2tlbi5jb20vc3VicGFnZS93aGVyZV9saXN0LmFzcD90YXJnZXRfc3RlcDI9JXMmcHJvY190eXBlPXN0ZXAxJnRhcmdldF9zdGVwMT0lcyclKHVybGxpYi5wYXJzZS5xdW90ZSgnwPzDvCcpLHVybGxpYi5wYXJzZS5xdW90ZSgnwPzDvCcpKSkKCnhtbCA9IHJlc3BvbnNlLnJlYWQoKS5kZWNvZGUoJ1VURi04JykKcm9vdCA9IEVULmZyb21zdHJpbmcoeG1sKQoKZm9yIGVsZW1lbnQgaW4gcm9vdC5maW5kYWxsKCdpdGVtJyk6CiAgICBzdG9yZV9uYW1lID0gZWxlbWVudC5maW5kdGV4dCgnYW5hbWUxJykKICAgIHN0b3JlX3NpZG8gPSBlbGVtZW50LmZpbmR0ZXh0KCdhbmFtZTInKQogICAgc3RvcmVfZ3VuZ3UgPSBlbGVtZW50LmZpbmR0ZXh0KCdhbmFtZTMnKQogICAgc3RvcmVfYWRkcmVzcyA9IGVsZW1lbnQuZmluZHRleHQoJ2FuYW1lNScpCgogICAgcmVzdWx0LmFwcGVuZChbc3RvcmVfbmFtZV0rW3N0b3JlX3NpZG9dK1tzdG9yZV9ndW5ndV0rW3N0b3JlX2FkZHJlc3NdKQoKbmVuZV90YWJsZSA9IERhdGFGcmFtZShyZXN1bHQsY29sdW1ucz0oJ3NvdHJlJywnc2lkbycsJ2d1bmd1Jywnc3RvcmVfYWRkcmVzcycpKQpuZW5lX3RhYmxlLnRvX2NzdignbmVuZS5jc3YnLGVuY29kaW5nPSJjcDk0OSIsbW9kZT0ndycsaW5kZXg9VHJ1ZSkKCnRyeToKICAgIGlmIG5vdChvcy5wYXRoLmlzZGlyKCduZW5lLmNzdicpKToKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oJ25lbmUuY3N2JykpCmV4Y2VwdCBPU0Vycm9yIGFzIGU6CiAgICBpZiBlLmVycm5vICE9IGUuZXJybm8uRUVYSVNUOgogICAgICAgIHByaW50KCJGYWlsZWQgdG8gY3JlYXRlIGRpcmVjdG9yeSEhIikKICAgICAgICByYWlzZQoKIyBvcy53YWxrKCdEOlxweXRob25fd29ya3NwYWNlXEp1bXB0b3B5XFB5dGhvbl9YTUxcVjFfQmlnZGF0YScpLm5leHQoKVsxMF0KcHJpbnQoIkVuZCIp</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>:python_workspace</text>
       </register>
       <register name="2" type="4">
         <text>def mkdir_if_not(filepath):
@@ -147,7 +154,7 @@ childs = n</text>
 # SubElement(note, &quot;to&quot;).text = &quot;김건홍&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>:python_workspace</text>
       </register>
     </registers>
     <search>
