@@ -37,7 +37,7 @@
         <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver4.py" timestamp="1515637464101">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver4.py" timestamp="1515638664182">
         <mark key="[" line="23" column="123" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
@@ -71,10 +71,10 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515636628584">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515638609392">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -85,13 +85,33 @@
       <register name="0" type="2">
         <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGF0ZQo=</text>
+      <register name="1" type="4">
+        <text>import openpyxl
+
+wb = openpyxl.load_workbook('nene.csv')
+
+ws = wb.active
+
+print(type(wb))</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>import openpyxl
+
+wb = openpyxl.load_workbook('nene.csv')
+
+ws = wb.active
+
+print(type(wb))</text>
       </register>
       <register name="2" type="4">
+        <text>now=datetime.now()
+print(now)
+#.strtime(&quot;%Y%m%d %H:%M:%S&quot;)</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGF0ZQo=</text>
+      </register>
+      <register name="4" type="4">
         <text># cft=datetime.datetime.fromtimestamp(os.path.getctime('D:\C_SW'))
 nowDatetime = time.localtime('%Y-%m-%d %H:%:%S')
 print(nowDatetime)
@@ -99,16 +119,16 @@ print(nowDatetime)
 # nowtime = now.strftime('%Y-%m-%d %H:%:%S')
 # print(nowtime)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgpmaWxlc3RhdCA9IG9zLnN0YXQoJ0Q6XFwnKQoKcHJpbnQodGltZS5zdHJmdGltZSgnJXkuJW0uJWQnLCB0aW1lLmxvY2FsdGltZShmaWxlc3RhdC5zdF9tdGltZSkpKQojIMGisdnH0SCzr8KlIDogc3RfYXRpbWUKIyC89sGkx9Egs6/CpSA6IHN0X210aW1lCiMguLi15yCzr8KlIDogc3RfY3RpbWU=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIGZpbGVfaW5kZXggPSBmaWxlX2luZGV4Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cmV0dXJuIE5vbmUKCmRlZiBtYWtlX25lbmUoaW5kZXgpOgogICAgbmVuZSA9ICJuZW5lIgogICAgY3N2ID0gIi5jc3YiCiAgICBuZW5lX3RhYmxlLnRvX2NzdihuZW5lICsgaW5kZXggKyBjc3YsIGVuY29kaW5nPSJjcDk0OSIsIG1vZGU9J3cnLCBpbmRleD1UcnVlKQogICAgcmV0dXJuIE5vbmUK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>try:
     with open(&quot;Nene_idex.txt&quot;,'r') as file:
         index = file.readline()
@@ -138,20 +158,11 @@ except FileNotFoundError:
         make_nene('1')
 print(&quot;End&quot;)</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmZyb20gcGFuZGFzIGltcG9ydCBEYXRhRnJhbWUKaW1wb3J0IG9zCmltcG9ydCB4bWwuZXRyZWUuRWxlbWVudFRyZWUgYXMgRVQKcHJpbnQob3MuZ2V0Y3dkKCkpCnJlc3VsdCA9IFtdCnJlc3BvbnNlID0gdXJsbGliLnJlcXVlc3QudXJsb3BlbignaHR0cDovL25lbmVjaGlja2VuLmNvbS9zdWJwYWdlL3doZXJlX2xpc3QuYXNwP3RhcmdldF9zdGVwMj0lcyZwcm9jX3R5cGU9c3RlcDEmdGFyZ2V0X3N0ZXAxPSVzJyUodXJsbGliLnBhcnNlLnF1b3RlKCfA/MO8JyksdXJsbGliLnBhcnNlLnF1b3RlKCfA/MO8JykpKQoKeG1sID0gcmVzcG9uc2UucmVhZCgpLmRlY29kZSgnVVRGLTgnKQpyb290ID0gRVQuZnJvbXN0cmluZyh4bWwpCgpmb3IgZWxlbWVudCBpbiByb290LmZpbmRhbGwoJ2l0ZW0nKToKICAgIHN0b3JlX25hbWUgPSBlbGVtZW50LmZpbmR0ZXh0KCdhbmFtZTEnKQogICAgc3RvcmVfc2lkbyA9IGVsZW1lbnQuZmluZHRleHQoJ2FuYW1lMicpCiAgICBzdG9yZV9ndW5ndSA9IGVsZW1lbnQuZmluZHRleHQoJ2FuYW1lMycpCiAgICBzdG9yZV9hZGRyZXNzID0gZWxlbWVudC5maW5kdGV4dCgnYW5hbWU1JykKCiAgICByZXN1bHQuYXBwZW5kKFtzdG9yZV9uYW1lXStbc3RvcmVfc2lkb10rW3N0b3JlX2d1bmd1XStbc3RvcmVfYWRkcmVzc10pCgpuZW5lX3RhYmxlID0gRGF0YUZyYW1lKHJlc3VsdCxjb2x1bW5zPSgnc290cmUnLCdzaWRvJywnZ3VuZ3UnLCdzdG9yZV9hZGRyZXNzJykpCgppZiBvcy5wYXRoLmlzZmlsZSgiRDpcXHB5dGhvbl93b3Jrc3BhY2VcXEp1bXB0b3B5XFxQeXRob25fWE1MXFxWMl9CaWdkYXRhXFxuZW5lLmNzdiIpOgogICAgaWYgb3MucGF0aC5pc2ZpbGUoIkQ6XFxweXRob25fd29ya3NwYWNlXFxKdW1wdG9weVxcUHl0aG9uX1hNTFxcVjJfQmlnZGF0YVxcY291bnQudHh0Iik6CiAgICAgICAgY291bnRfbnVtYmVyID0gb3BlbigiRDpcXHB5dGhvbl93b3Jrc3BhY2VcXEp1bXB0b3B5XFxQeXRob25fWE1MXFxWMl9CaWdkYXRhXFxjb3VudC50eHQiLCAncicpCiAgICAgICAgY291bnQgPSBzdHIoY291bnRfbnVtYmVyLnJlYWRsaW5lKCkpCiAgICAgICAgY291bnRfbnVtYmVyLmNsb3NlKCkKICAgICAgICBuZW5lX3RhYmxlLnRvX2NzdignbmVuZSVzLmNzdicgJSBjb3VudCwgZW5jb2Rpbmc9ImNwOTQ5IiwgbW9kZT0ndycsIGluZGV4PVRydWUpCiAgICAgICAgY291bnQgPSBpbnQoY291bnQpICsgMQogICAgICAgIGNvdW50ID0gc3RyKGNvdW50KQogICAgICAgIGNvdW50X251bWJlcl9uZXcgPSBvcGVuKCJEOlxccHl0aG9uX3dvcmtzcGFjZVxcSnVtcHRvcHlcXFB5dGhvbl9YTUxcXFYyX0JpZ2RhdGFcXGNvdW50LnR4dCIsICd3JykKICAgICAgICBjb3VudF9udW1iZXJfbmV3LndyaXRlKGNvdW50KQogICAgICAgIGNvdW50X251bWJlcl9uZXcuY2xvc2UoKQogICAgZWxzZToKICAgICAgICBtYWtlX2NvdW50ID0gb3BlbigiRDpcXHB5dGhvbl93b3Jrc3BhY2VcXEp1bXB0b3B5XFxQeXRob25fWE1MXFxWMl9CaWdkYXRhXFxjb3VudC50eHQiLCdhJykKICAgICAgICBkYXRhID0gJzEnCiAgICAgICAgbWFrZV9jb3VudC53cml0ZShkYXRhKQogICAgICAgIG1ha2VfY291bnQuY2xvc2UoKQogICAgICAgIGNvdW50X251bWJlciA9IG9wZW4oIkQ6XFxweXRob25fd29ya3NwYWNlXFxKdW1wdG9weVxcUHl0aG9uX1hNTFxcVjJfQmlnZGF0YVxcY291bnQudHh0IiwgJ3InKQogICAgICAgIGNvdW50ID0gc3RyKGNvdW50X251bWJlci5yZWFkbGluZSgpKQogICAgICAgIGNvdW50X251bWJlci5jbG9zZSgpCiAgICAgICAgbmVuZV90YWJsZS50b19jc3YoJ25lbmUlcy5jc3YnICUgY291bnQsIGVuY29kaW5nPSJjcDk0OSIsIG1vZGU9J3cnLCBpbmRleD1UcnVlKQogICAgICAgIGNvdW50ID0gaW50KGNvdW50KSArIDEKICAgICAgICBjb3VudCA9IHN0cihjb3VudCkKICAgICAgICBjb3VudF9udW1iZXJfbmV3ID0gb3BlbigiRDpcXHB5dGhvbl93b3Jrc3BhY2VcXEp1bXB0b3B5XFxQeXRob25fWE1MXFxWMTJCaWdkYXRhXFxjb3VudC50eHQiLCAndycpCiAgICAgICAgY291bnRfbnVtYmVyX25ldy53cml0ZShjb3VudCkKICAgICAgICBjb3VudF9udW1iZXJfbmV3LmNsb3NlKCkKCmVsc2U6CiAgICBuZW5lX3RhYmxlLnRvX2NzdignRDpcXHB5</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bGlzdGRpcigiRDpccHl0aG9uX3dvcmtzcGFjZVxKdW1wdG9weVxQeXRob25fWE1MXFYxX0JpZ2RhdGEiKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>dirname = 'D:\python_workspace\Jumptopy\Python_XML\V2_Bigdata'
-
-if not os.path.isdir('D:\python_workspace\Jumptopy\Python_XML\V2_Bigdata'):
-    os.mkdir('D:\python_workspace\Jumptopy\Python_XML\V2_Bigdata')</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text>from _datetime import datetime</text>
       </register>
     </registers>
     <search>
