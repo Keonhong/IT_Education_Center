@@ -11,13 +11,13 @@
       <file name="/Python Console" timestamp="1515393676028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/NeNeChicken.py" timestamp="1515559277113">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/NeNeChicken.py" timestamp="1515651052374">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="23" column="11" />
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650069912">
+      <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
         <mark key="[" line="2" column="47" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
@@ -73,14 +73,19 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="50" column="8" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_rank.py" timestamp="1515651535142">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515633046842">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="37" column="9" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML2/cheogajip.py" timestamp="1515649896030">
-        <mark key="[" line="27" column="1" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML2/cheogajip.py" timestamp="1515650571314">
+        <mark key="[" line="5" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -92,20 +97,23 @@
         <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICByZXNwb25zZSA9IHVybGxpYi5yZXF1ZXN0LnVybG9wZW4oTmF2ZXJfTW92aWVfVVJMKQogICAgc291cERhdGEgPSBCZWF1dGlmdWxTb3VwKHJlc3BvbnNlLnJlYWQoKS5kZWNvZGUoJ0NQOTQ5JyksJ2h0bWwucGFyc2VyJykK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICByZXNwb25zZSA9IHVybGxpYi5yZXF1ZXN0LnVybG9wZW4oTmF2ZXJfTW92aWVfVVJMKQogICAgc291cERhdGEgPSBCZWF1dGlmdWxTb3VwKHJlc3BvbnNlLnJlYWQoKS5kZWNvZGUoJ0NQOTQ5JyksJ2h0bWwucGFyc2VyJykK</text>
+      </register>
+      <register name="2" type="4">
         <text># def getCurrentStrTime():
 #     return time.strftime(&quot;_%Y-%m-%d %H'%M''%S'''&quot;)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>import pandas as pd
 
 testCSV = &quot;D:\\python_workspace\\Jumptopy\\Python_XML\\nene.csv&quot;
 nene=pd.read_csv(testCSV, nenesize=100)
 nene.to_csv(&quot;D:\\python_workspace\\Jum</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>import openpyxl
 
 wb = openpyxl.load_workbook('nene.csv')
@@ -114,15 +122,15 @@ ws = wb.active
 
 print(type(wb))</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>now=datetime.now()
 print(now)
 #.strtime(&quot;%Y%m%d %H:%M:%S&quot;)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZGF0ZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text># cft=datetime.datetime.fromtimestamp(os.path.getctime('D:\C_SW'))
 nowDatetime = time.localtime('%Y-%m-%d %H:%:%S')
 print(nowDatetime)
@@ -130,14 +138,11 @@ print(nowDatetime)
 # nowtime = now.strftime('%Y-%m-%d %H:%:%S')
 # print(nowtime)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgpmaWxlc3RhdCA9IG9zLnN0YXQoJ0Q6XFwnKQoKcHJpbnQodGltZS5zdHJmdGltZSgnJXkuJW0uJWQnLCB0aW1lLmxvY2FsdGltZShmaWxlc3RhdC5zdF9tdGltZSkpKQojIMGisdnH0SCzr8KlIDogc3RfYXRpbWUKIyC89sGkx9Egs6/CpSA6IHN0X210aW1lCiMguLi15yCzr8KlIDogc3RfY3RpbWU=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAjIGZpbGVfaW5kZXggPSBmaWxlX2luZGV4Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuIE5vbmUKCmRlZiBtYWtlX25lbmUoaW5kZXgpOgogICAgbmVuZSA9ICJuZW5lIgogICAgY3N2ID0gIi5jc3YiCiAgICBuZW5lX3RhYmxlLnRvX2NzdihuZW5lICsgaW5kZXggKyBjc3YsIGVuY29kaW5nPSJjcDk0OSIsIG1vZGU9J3cnLCBpbmRleD1UcnVlKQogICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
