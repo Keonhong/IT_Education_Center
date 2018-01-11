@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1515572421295">
+      <file name="/Dummy.txt" timestamp="1515643706265">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1515393676028">
         <mark key="[" line="0" column="0" />
@@ -71,7 +73,7 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515641831700" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515644089702" />
     </filemarks>
     <jumps>
       <jump line="43" column="25" filename="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" />
@@ -86,8 +88,7 @@
 #     return time.strftime(&quot;_%Y-%m-%d %H'%M''%S'''&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text># def getCurrentStrTime():
-#     return time.strftime(&quot;_%Y-%m-%d %H'%M''%S'''&quot;)</text>
+        <text>T</text>
       </register>
       <register name="2" type="4">
         <text>import pandas as pd
@@ -131,7 +132,7 @@ print(nowDatetime)
         <text encoding="base64">cmV0dXJuIE5vbmUKCmRlZiBtYWtlX25lbmUoaW5kZXgpOgogICAgbmVuZSA9ICJuZW5lIgogICAgY3N2ID0gIi5jc3YiCiAgICBuZW5lX3RhYmxlLnRvX2NzdihuZW5lICsgaW5kZXggKyBjc3YsIGVuY29kaW5nPSJjcDk0OSIsIG1vZGU9J3cnLCBpbmRleD1UcnVlKQogICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="-" type="4">
-        <text># import time</text>
+        <text>T</text>
       </register>
     </registers>
     <search>
