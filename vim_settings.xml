@@ -32,7 +32,9 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver3.py" timestamp="1515632970127" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver3.py" timestamp="1515634030393">
+        <mark key="[" line="21" column="127" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
         <mark key="[" line="56" column="15" />
         <mark key="]" line="56" column="15" />
@@ -64,7 +66,12 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515633608381" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515634354226">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="43" column="25" filename="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" />
