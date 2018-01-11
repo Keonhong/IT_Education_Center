@@ -37,8 +37,8 @@
         <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver4.py" timestamp="1515638664182">
-        <mark key="[" line="23" column="123" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver4.py" timestamp="1515641110837">
+        <mark key="^" line="36" column="1" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
         <mark key="[" line="56" column="15" />
@@ -71,7 +71,7 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515639319838">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515640370894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -86,20 +86,21 @@
         <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
       <register name="1" type="4">
-        <text>import pandas as pd
-
-testCSV = &quot;D:\\python_workspace\\Jumptopy\\Python_XML\\nene.csv&quot;
-nene=pd.read_csv(testCSV, nenesize=100)
-nene.to_csv(&quot;D:\\python_workspace\\Jum</text>
+        <text># def getCurrentStrTime():
+#     return time.strftime(&quot;_%Y-%m-%d %H'%M''%S'''&quot;)</text>
       </register>
       <register name="&quot;" type="4">
+        <text># def getCurrentStrTime():
+#     return time.strftime(&quot;_%Y-%m-%d %H'%M''%S'''&quot;)</text>
+      </register>
+      <register name="2" type="4">
         <text>import pandas as pd
 
 testCSV = &quot;D:\\python_workspace\\Jumptopy\\Python_XML\\nene.csv&quot;
 nene=pd.read_csv(testCSV, nenesize=100)
 nene.to_csv(&quot;D:\\python_workspace\\Jum</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>import openpyxl
 
 wb = openpyxl.load_workbook('nene.csv')
@@ -108,15 +109,15 @@ ws = wb.active
 
 print(type(wb))</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>now=datetime.now()
 print(now)
 #.strtime(&quot;%Y%m%d %H:%M:%S&quot;)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZGF0ZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text># cft=datetime.datetime.fromtimestamp(os.path.getctime('D:\C_SW'))
 nowDatetime = time.localtime('%Y-%m-%d %H:%:%S')
 print(nowDatetime)
@@ -124,47 +125,17 @@ print(nowDatetime)
 # nowtime = now.strftime('%Y-%m-%d %H:%:%S')
 # print(nowtime)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgpmaWxlc3RhdCA9IG9zLnN0YXQoJ0Q6XFwnKQoKcHJpbnQodGltZS5zdHJmdGltZSgnJXkuJW0uJWQnLCB0aW1lLmxvY2FsdGltZShmaWxlc3RhdC5zdF9tdGltZSkpKQojIMGisdnH0SCzr8KlIDogc3RfYXRpbWUKIyC89sGkx9Egs6/CpSA6IHN0X210aW1lCiMguLi15yCzr8KlIDogc3RfY3RpbWU=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIGZpbGVfaW5kZXggPSBmaWxlX2luZGV4Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cmV0dXJuIE5vbmUKCmRlZiBtYWtlX25lbmUoaW5kZXgpOgogICAgbmVuZSA9ICJuZW5lIgogICAgY3N2ID0gIi5jc3YiCiAgICBuZW5lX3RhYmxlLnRvX2NzdihuZW5lICsgaW5kZXggKyBjc3YsIGVuY29kaW5nPSJjcDk0OSIsIG1vZGU9J3cnLCBpbmRleD1UcnVlKQogICAgcmV0dXJuIE5vbmUK</text>
       </register>
-      <register name="9" type="4">
-        <text>try:
-    with open(&quot;Nene_idex.txt&quot;,'r') as file:
-        index = file.readline()
-        make_Nene(index)
-        index = int(index)
-        index += 1
-        index = str(index)
-    with open(&quot;Nene_idex.txt&quot;,'w') as file:
-        file.write('2')
-except FileNotFoundError:
-    with open(&quot;Nene_index.txt&quot;,'w') as file:
-        file.write('2')
-        make_Nene('1')
-
-try:
-    with open(&quot;nene_index.txt&quot;, 'r') as file:
-        index = file.readline()
-        make_nene(index)
-        index = int(index)
-        index += 1
-        index = str(index)
-    with open(&quot;nene_index.txt&quot;, 'w') as file:
-        file.write(index)
-except FileNotFoundError:
-    with open(&quot;nene_index.txt&quot;, 'w') as file:
-        file.write('2')
-        make_nene('1')
-print(&quot;End&quot;)</text>
-      </register>
       <register name="-" type="4">
-        <text>from _datetime import datetime</text>
+        <text># import time</text>
       </register>
     </registers>
     <search>
