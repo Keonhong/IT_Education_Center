@@ -3,9 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Test.py" timestamp="1515567072211" />
-      <file name="/Dummy.txt" timestamp="1515559563418">
+      <file name="/Dummy.txt" timestamp="1515572421295">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="56" column="15" />
       </file>
       <file name="/Python Console" timestamp="1515393676028">
         <mark key="[" line="0" column="0" />
@@ -16,32 +21,26 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515563748164">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
-        <mark key="[" line="7" column="14" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="15" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="56" column="15" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver1.py" timestamp="1515563748164">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/V1_Bigdata/Ver1.py" timestamp="1515571499825">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Ver2.py" timestamp="1515572341545">
+      <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
+        <mark key="[" line="7" column="14" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Ver2.py" timestamp="1515629524817">
         <mark key="[" line="58" column="15" />
         <mark key="]" line="58" column="15" />
         <mark key="." line="58" column="15" />
