@@ -3,14 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1515737140103">
+      <file name="/Python Console" timestamp="1515738093705">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/NeNeChicken.py" timestamp="1515655497065">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
         <mark key="[" line="2" column="47" />
@@ -26,8 +20,11 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/빅데이터 저장 평가과제.txt" timestamp="1515724921653">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="D:/python_workspace/Test/김건홍_naver_realtime_movie_ranking.py" timestamp="1515737532899">
-        <mark key="[" line="34" column="0" />
+      <file name="D:/python_workspace/Test/김건홍_naver_realtime_movie_ranking.py" timestamp="1515738933487">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/Ver3.py" timestamp="1515730743664">
         <mark key="[" line="24" column="37" />
@@ -48,20 +45,9 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_Rank.py" timestamp="1515731791810">
         <mark key="[" line="23" column="11" />
       </file>
+      <file name="D:/python_workspace/Test/김건홍_nene_ver1.py" timestamp="1515739109169" />
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Ver2.py" timestamp="1515629524817">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="50" column="8" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML2/cheogajip.py" timestamp="1515658672840">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
       </file>
       <file name="D:/python_workspace/Test/기본코드_for__nene치킨시험문제.py" timestamp="1515734691498">
         <mark key="[" line="2" column="0" />
@@ -83,12 +69,6 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/xml_example.py" timestamp="1515472880139">
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="15" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="56" column="15" />
-      </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="43" column="33" />
@@ -100,19 +80,10 @@
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_rank.py" timestamp="1515658449242">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="22" column="41" />
+      <file name="D:/python_workspace/Test/김건홍_nene_ver4.py" timestamp="1515739195154">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Test/빅데이터 저장 평가과제.txt" timestamp="1515732483252" />
-      <file name="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" timestamp="1515633046842">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="37" column="9" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515717761189">
         <mark key="[" line="7" column="23" />
       </file>
@@ -153,20 +124,7 @@ except FileNotFoundError:
 print(&quot;End&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'r') as file:
-        file.index = file.readline()
-        file.index = int(file_index)
-        index = int(index)
-        index += 1
-        index = str(index)
-    with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'w') as file:
-        file.write(str(index))
-except FileNotFoundError:
-    with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'w') as file:
-        file.write('2')
-        make_dir(1)
-        make_nene(1, 1)
-print(&quot;End&quot;)</text>
+        <text encoding="base64">IHByaW50KHJlc3VsdCk=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">cmFuZ2VfdHJzID0gc291cC5maW5kQWxsKCd0ZCcsIGF0dHJzPXsnc3JjJzonaHR0cDovL2ltZ21vdmllLm5hdmVyLm5ldC8yMDA3L2ltZy9jb21tb24vaWNvbl9uYV8xLmdpZid9KQo=</text>
@@ -208,7 +166,7 @@ print(&quot;End&quot;)</text>
         <text encoding="base64">b3IgcGFnZV9pZHggaW4gcmFuZ2UoMSxtYXhfcmFuaysxKToKICAgIF9VUkwgPSAnaHR0cDovL3d3dy5jaGVvZ2FqaXAuY28ua3IvZXN0YWJsaXNoMDJfMDIuaHRtbD9wYWdlPSVzJnNlYXJjaD0ma2V5d29yZD0nJXN0cihwYWdlX2lkeCkKICAgIHByaW50KENoZW9nYWppcF9VUkwpCgogICAgcmVzcG9uc2UgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKENoZW9nYWppcF9VUkwpCiAgICBzb3VwRGF0YSA9IEJlYXV0aWZ1bFNvdXAocmVzcG9uc2UucmVhZCgpLmRlY29kZSgnQ1A5NDknKSwnaHRtbC5wYXJzZXInKQoKICAgIHN0b3JlX3RycyA9IHNvdXBEYXRhLmZpbmRfYWxsKCd0cicsYXR0cnM9eydhbGlnbic6J2NlbnRlcicsJ2JnY29sb3InOicjRkZGRkZGJ30pCiAgICBwcmludCgiRW5kIik=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aSA=</text>
+        <text encoding="base64">IHByaW50KHJlc3VsdCk=</text>
       </register>
     </registers>
     <search>
