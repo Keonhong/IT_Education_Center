@@ -66,8 +66,11 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516157224061">
-        <mark key="^" line="19" column="14" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516159867357">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="22" />
+        <mark key="." line="34" column="11" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
         <mark key="[" line="7" column="88" />
@@ -118,7 +121,7 @@
         <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>print(student_find(input()))</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKXw==</text>
@@ -173,7 +176,7 @@ print(&quot;End&quot;)</text>
         <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBFVAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>print(student_find(input()))</text>
       </register>
     </registers>
     <search>
