@@ -51,6 +51,9 @@
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1516156552573">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/python_workspace/Test/기본코드_for__nene치킨시험문제.py" timestamp="1515734691498">
         <mark key="[" line="2" column="0" />
       </file>
@@ -63,11 +66,8 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516154221498">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="17" column="14" />
-        <mark key="^" line="17" column="14" />
-        <mark key="." line="17" column="14" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516157224061">
+        <mark key="^" line="19" column="14" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
         <mark key="[" line="7" column="88" />
@@ -115,6 +115,18 @@
         <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKXw==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgogICAgCgoKCiAgICA=</text>
+      </register>
+      <register name="4" type="4">
         <text>with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'r') as file:
         file.index = file.readline()
         file.index = int(file_index)
@@ -130,21 +142,18 @@ except FileNotFoundError:
         make_nene(1, 1)
 print(&quot;End&quot;)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHByaW50KHJlc3VsdCk=</text>
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cmFuZ2VfdHJzID0gc291cC5maW5kQWxsKCd0ZCcsIGF0dHJzPXsnc3JjJzonaHR0cDovL2ltZ21vdmllLm5hdmVyLm5ldC8yMDA3L2ltZy9jb21tb24vaWNvbl9uYV8xLmdpZid9KQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LnJlYWQoKS5kZWNvZGUoJ1VURi04JykKcm9vdCA9IEVULmZyb21zdHJpbmcoeG1sKQoKZm9yIGVsZW1lbnQgaW4gcm9vdC5maW5kYWxsKCdpdGVtJyk6CiAgICBzdG9yZV9uYW1lIA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>def make_nene(index):
     destination_csv = (dir_name + dir_delimiter + nene_file + index + csv)
     nene_table.to_csv(destination_csv, encoding=&quot;cp949&quot;, mode='w', index=True)</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>try:
     with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'r') as file:
         index = file.readline()
@@ -160,20 +169,11 @@ except FileNotFoundError:
         make_nene('1')
 print(&quot;End&quot;)</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBFVAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aHR0cDovL25lbmVjaGlja2VuLmNvbS9zdWJwYWdlL3doZXJlL3doZXJlX2xpc3QuYXNwP3RhcmdldF9zdGVwMT0lRUMlQTAlODQlRUMlQjIlQjQmdGFyZ2V0X3N0ZXAyPSVFQyVBMCU4NCVFQyVCMiVCNCZwcm9jX3R5cGU9c3RlcDEKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCBvcwpmcm9tIHBhbmRhcyBpbXBvcnQgRGF0YUZyYW1lCmltcG9ydCB4bWwuZXRyZWUuRWxlbWVudFRyZWUgYXMgRVQKCnJlc3VsdCA9IFtdCmRpcl9uYW1lID0gIlY0X0JpZ0RhdGEiCmRpcl9kZWxpbWl0ZXIgPSAiXFwiICAjIGRlbGltaXRlcj0nsbi60MDaJwpuZW5lX2RpciA9ICJOZW5lX0RhdGEiCm5lbmVfZmlsZSA9ICJuZW5lIgpjc3YgPSAiLmNzdiIKcmVjb3JkX2xpbWl0ID0gMwoKZGVmIG1ha2VfZGlyKGluZGV4KToKICAgIG9zLm1rZGlyKGRpcl9uYW1lICsgZGlyX2RlbGltaXRlciArIG5lbmVfZGlyK3N0cihpbmRleCkpCiAgICByZXR1cm4gTm9uZQoKZGVmIG1ha2VfbmVuZShkaXJfaW5kZXgsIGZpbGVfaW5kZXgpOgogICAgZGVzdGluYXRpb25fY3N2ID0gZGlyX25hbWUgKyBkaXJfZGVsaW1pdGVyICsgbmVuZV9kaXIgKyBzdHIoZGlyX2luZGV4KSArIGRpcl9kZWxpbWl0ZXIgKyBuZW5lX2ZpbGUgKyBzdHIoZmlsZV9pbmRleCkgKyBjc3YKICAgIG5lbmVfdGFibGUudG9fY3N2KGRlc3RpbmF0aW9uX2NzdixlbmNvZGluZz0iY3A5NDkiLCBtb2RlPSd3JywgaW5kZXg9VHJ1ZSkKICAgIHJldHVybiBOb25lCgpyZXNwb25zZSA9IHVybGxpYi5yZXF1ZXN0LnVybG9wZW4oJ2h0dHA6Ly9uZW5lY2hpY2tlbi5jb20vc3VicGFnZS93aGVyZV9saXN0LmFzcD90YXJnZXRfc3RlcDI9JXMmcHJvY190eXBlPXN0ZXAxJnRhcmdldF9zdGVwMT0lcyclKHVybGxpYi5wYXJzZS5xdW90ZSgnwPzDvCcpLHVybGxpYi5wYXJzZS5xdW90ZSgnwPzDvCcpKSkKeG1sID0gcmVzcG9uc2UucmVhZCgpLmRlY29kZSgnVVRGLTgnKQpyb290ID0gRVQuZnJvbXN0cmluZyh4bWwpCgpmb3IgZWxlbWVudCBpbiByb290LmZpbmRhbGwoJ2l0ZW0nKToKICAgIHN0b3JlX25hbWUgPSBlbGVtZW50LmZpbmR0ZXh0KCdhbmFtZTEnKQogICAgc3RvcmVfc2lkbyA9IGVsZW1lbnQuZmluZHRleHQoJ2FuYW1lMicpCiAgICBzdG9yZV9ndW5ndSA9ZWxlbWVudC5maW5kdGV4dCgnYW5hbWUzJykKICAgIHN0b3JlX2FkZHJlc3MgPSBlbGVtZW50LmZpbmR0ZXh0KCdhbmFtZTUnKQogICAgcmVzdWx0LmFwcGVuZChbc3RvcmVfbmFtZV0rW3N0b3JlX3NpZG9dK1tzdG9yZV9ndW5ndV0rW3N0b3JlX2FkZHJlc3NdKQoKbmVuZV90YWJsZSA9IERhdGFGcmFtZShyZXN1bHQsY29sdW1ucz0oJ3NvdHJlJywnc2lkbycsJ2d1bmd1Jywnc3RvcmVfYWRkcmVzcycpKQoKZm9yIGkgaW4gcmFuZ2UoMTE3NCk6CiAgICBpZiBpICUgMTAwID09IDA6CiAgICAgICAgcHJpbnQoaSkKCnRyeTogb3MubWtkaXIoZGlyX25hbWUpCmV4Y2VwdDogcGFzcwp0cnk6CiAgICB3aXRoIG9wZW4oZGlyX25hbWUgKyBkaXJfZGVsaW1pdGVyICsgIm5lbmVfaW5kZXgudHh0IiwgJ3InKSBhcyBmaWxlOgogICAgICAgIGZpbGVfaW5kZXggPSBmaWxlLnJlYWRsaW5lKCkgICAgICAgICAgICAgICAjIHRleHTAxyCwqsC7IMDQsO0KICAgICAgICBmaWxlX2luZGV4ID0gaW50KGZpbGVfaW5kZXgpICAgICAgICAgICAgICAgIyCx1yCwqsC7IGludLfOIMD8yK8ov6y76sC7IMCnx9gpCiAgICAgICAgZGlyX2luZGV4ID0gaW50KGZpbGVfaW5kZXggLyByZWNvcmRfbGltaXQpICMgdGV4dMDHILCqsPogcmVjb2RlX2xpbWl0wMcgsKrAuyCzqrSuCiAgICAgICAgaWYgZmlsZV9pbmRleCAlIHJlY29yZF9saW1pdCAhPSAwOiAgICAgICAgICMgs6q0qbTCILCqwMwgMMDMIL7GtNIgtqcKICAgICAgICAgICAgZGlyX2luZGV4ID0gZGlyX2luZGV4KzEgICAgICAgICAgICAgICAgIyAxIMH1sKG9w8TRwdwKICAgICAgICBpZiBmaWxlX2luZGV4ICUgcmVjb3JkX2xpbWl0ID09IDE6ICAgICAgICAgIyCzqrSptMIgsKrAzCAxwM8gtqcKICAgICAgICAgICAgbWFrZV9kaXIoZGlyX2luZGV4KSAgICAgICAgICAgICAgICAgICAgIyAzsLO+vyC16b7usKGw7SCzqrjTwfa0wiC02cC9xvq09b+hIMD6wOUKCiAgICAgICAgbWFrZV9uZW5lKGRpcl9pbmRleCwgZmlsZV9pbmRleCkKICAgICAgICBmaWxlX2luZGV4ICs9IDEKICAgIHdpdGggb3BlbihkaXJfbmFtZSArIGRpcl9kZWxpbWl0ZXIgKyAibmVuZV9pbmRleC50eHQiLCAndycpIGFzIGZpbGU6CiAgICAgICAgZmlsZS53cml0ZShzdHIoZmlsZV9pbmRleCkpCmV4Y2VwdCBGaWxlTm90Rm91bmRFcnJvcjoKICAgIHdpdGggb3BlbihkaXJfbmFtZSArIGRpcl9kZWxpbWl0ZXIgKyAibmVuZV9pbmRleC50eHQiLCAndycpIGFzIGZpbGU6CiAgICAgICAgZmlsZS53cml0ZSgnMicpCiAgICBtYWtlX2RpcigxKQogICAgbWFrZV9uZW5lKDEsIDEpCnByaW50KCJFbmQiKQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBmb3IgaSBpbiA1MDoKICAgICAgICAgICAgICAgIHJhbmsgPSBp</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">b3IgcGFnZV9pZHggaW4gcmFuZ2UoMSxtYXhfcmFuaysxKToKICAgIF9VUkwgPSAnaHR0cDovL3d3dy5jaGVvZ2FqaXAuY28ua3IvZXN0YWJsaXNoMDJfMDIuaHRtbD9wYWdlPSVzJnNlYXJjaD0ma2V5d29yZD0nJXN0cihwYWdlX2lkeCkKICAgIHByaW50KENoZW9nYWppcF9VUkwpCgogICAgcmVzcG9uc2UgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKENoZW9nYWppcF9VUkwpCiAgICBzb3VwRGF0YSA9IEJlYXV0aWZ1bFNvdXAocmVzcG9uc2UucmVhZCgpLmRlY29kZSgnQ1A5NDknKSwnaHRtbC5wYXJzZXInKQoKICAgIHN0b3JlX3RycyA9IHNvdXBEYXRhLmZpbmRfYWxsKCd0cicsYXR0cnM9eydhbGlnbic6J2NlbnRlcicsJ2JnY29sb3InOicjRkZGRkZGJ30pCiAgICBwcmludCgiRW5kIik=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByaW50KHJlc3VsdCk=</text>
+        <text />
       </register>
     </registers>
     <search>
