@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1515738093705">
+      <file name="/Python Console" timestamp="1516165637393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -66,11 +66,11 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516159867357">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="11" />
-        <mark key="^" line="34" column="22" />
-        <mark key="." line="34" column="11" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516169567303">
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="15" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
         <mark key="[" line="7" column="88" />
@@ -115,13 +115,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">U3ViRWxlbWVudChibG9nLCAiYWdlIikudGV4dCA9ICI1OCIK</text>
+        <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>print(student_find(input()))</text>
+        <text>learning_course_info[</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKXw==</text>
@@ -176,7 +176,7 @@ print(&quot;End&quot;)</text>
         <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBFVAo=</text>
       </register>
       <register name="-" type="4">
-        <text>print(student_find(input()))</text>
+        <text>learning_course_info[</text>
       </register>
     </registers>
     <search>
