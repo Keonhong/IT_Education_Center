@@ -66,11 +66,11 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516169567303">
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="15" />
-        <mark key="^" line="49" column="15" />
-        <mark key="." line="49" column="15" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516173117476">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="15" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
         <mark key="[" line="7" column="88" />
@@ -80,6 +80,7 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516175858696" />
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="43" column="33" />
@@ -118,18 +119,35 @@
         <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
+        <text>[
+            {
+                    'student_class2':'IB171106',
+                    'student_class3':'IoT 빅데이터 실무',
+                    'student_teacher':'이현구',
+                    'start':'2017-11-06',
+                    'finish':'2018-09-05'
+            }
+        ]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>learning_course_info[</text>
+        <text>p</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKXw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnbnVtX29mX2NvdXJzZV9sZWFybmVkJzowLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgogICAgCgoKCiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKXw==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgogICAgCgoKCiAgICA=</text>
+      </register>
+      <register name="7" type="4">
         <text>with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'r') as file:
         file.index = file.readline()
         file.index = int(file_index)
@@ -145,38 +163,14 @@ except FileNotFoundError:
         make_nene(1, 1)
 print(&quot;End&quot;)</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cmFuZ2VfdHJzID0gc291cC5maW5kQWxsKCd0ZCcsIGF0dHJzPXsnc3JjJzonaHR0cDovL2ltZ21vdmllLm5hdmVyLm5ldC8yMDA3L2ltZy9jb21tb24vaWNvbl9uYV8xLmdpZid9KQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LnJlYWQoKS5kZWNvZGUoJ1VURi04JykKcm9vdCA9IEVULmZyb21zdHJpbmcoeG1sKQoKZm9yIGVsZW1lbnQgaW4gcm9vdC5maW5kYWxsKCdpdGVtJyk6CiAgICBzdG9yZV9uYW1lIA==</text>
       </register>
-      <register name="7" type="4">
-        <text>def make_nene(index):
-    destination_csv = (dir_name + dir_delimiter + nene_file + index + csv)
-    nene_table.to_csv(destination_csv, encoding=&quot;cp949&quot;, mode='w', index=True)</text>
-      </register>
-      <register name="8" type="4">
-        <text>try:
-    with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'r') as file:
-        index = file.readline()
-        make_nene(index)
-        index = int(index)
-        index += 1
-        index = str(index)
-    with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'w') as file:
-        file.write(str(index))
-except FileNotFoundError:
-    with open(dir_name + dir_delimiter + &quot;nene_index.txt&quot;, 'w') as file:
-        file.write('2')
-        make_nene('1')
-print(&quot;End&quot;)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBFVAo=</text>
-      </register>
       <register name="-" type="4">
-        <text>learning_course_info[</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
