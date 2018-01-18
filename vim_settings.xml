@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1516235623280">
+      <file name="/Python Console" timestamp="1516240319037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
         <mark key="[" line="2" column="47" />
       </file>
-      <file name="/fragment.py" timestamp="1516235639457">
+      <file name="/fragment.py" timestamp="1516241526017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1516150887219">
@@ -69,7 +69,7 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516237826125">
+      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516242025937">
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="15" />
         <mark key="^" line="23" column="16" />
@@ -83,8 +83,10 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516237639292">
-        <mark key="[" line="43" column="39" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516242143468">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="87" column="70" />
+        <mark key="." line="87" column="70" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -135,7 +137,7 @@
         ]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>course_name</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAnbnVtX29mX2NvdXJzZV9sZWFybmVkJzowLAo=</text>
@@ -175,7 +177,7 @@ print(&quot;End&quot;)</text>
         <text encoding="base64">LnJlYWQoKS5kZWNvZGUoJ1VURi04JykKcm9vdCA9IEVULmZyb21zdHJpbmcoeG1sKQoKZm9yIGVsZW1lbnQgaW4gcm9vdC5maW5kYWxsKCdpdGVtJyk6CiAgICBzdG9yZV9uYW1lIA==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>course_name</text>
       </register>
     </registers>
     <search>
