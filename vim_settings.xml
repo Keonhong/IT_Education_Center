@@ -15,7 +15,7 @@
       <file name="/a.dummy" timestamp="1516150887219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver2T.py" timestamp="1515732119747">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver2T.py" timestamp="1516257779342">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="49" column="33" />
         <mark key="." line="49" column="33" />
@@ -66,9 +66,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516255279034">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516256481477" />
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
@@ -86,11 +84,11 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516255314686">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="54" />
-        <mark key="." line="18" column="54" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516258633180">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="18" column="55" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -131,136 +129,44 @@
         <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
       <register name="1" type="4">
-        <text>import csv
-
-with open('Demographic_Statistics_By_Zip_Code.csv',newline='')as infile:
-    data = list(csv.reader(infile))
-
-def get_csv_rowInstance(row_name):
-    row_instance = []
-    row_index = data[0].index(row_name)
-    for row in data[1:]:
-        row_instance.append(int(row[row_index]))
-    return row_instance
-
-def print_row(row_instance, type = 'int'):
-    if type == 'int':
-        for i in row_instance:
-            print(int(i))
-    elif type == 'float':
-        for i in row_instance:
-            print(float(i))
-    elif type == 'str':
-        for i in row_instance:
-            print(i)
-
-def print_col(col_instance):
-    for i in col_instance:
-        print(i, end=' ')
-
-row_instance = input(&quot;write title: &quot;)
-print_row(row_instance)
-
-
-
-
-
-
-# countParticipantsIndex = data[0].index(&quot;COUNT PARTICIPANTS&quot;)
-# print(&quot;The index of 'COUNT PARTICIPANTS': &quot;+str(countParticipantsIndex))
-
-# countParticipants = []
-# index = 0
-
-# for row in data[1:]:
-#     countParticipants.append(int(row[countParticipantsIndex]))
-
-
-# colum = 열(가로) // row = 행(세로)
-# get_csv_rowInstance(row_index)
-# 입력:row_index
-# 출력:row_instance</text>
+        <text># except:
+#     with open('ITT_Student.json','a',encoding='UTF8') as outfile:
+#         readable_result = json.dumps(student_ITT, indent=4, sort_keys=True, ensure_ascii=False)
+#         outfile.write(readable_result)
+#         print('ITT_Student.json SAVED')</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import csv
-
-with open('Demographic_Statistics_By_Zip_Code.csv',newline='')as infile:
-    data = list(csv.reader(infile))
-
-def get_csv_rowInstance(row_name):
-    row_instance = []
-    row_index = data[0].index(row_name)
-    for row in data[1:]:
-        row_instance.append(int(row[row_index]))
-    return row_instance
-
-def print_row(row_instance, type = 'int'):
-    if type == 'int':
-        for i in row_instance:
-            print(int(i))
-    elif type == 'float':
-        for i in row_instance:
-            print(float(i))
-    elif type == 'str':
-        for i in row_instance:
-            print(i)
-
-def print_col(col_instance):
-    for i in col_instance:
-        print(i, end=' ')
-
-row_instance = input(&quot;write title: &quot;)
-print_row(row_instance)
-
-
-
-
-
-
-# countParticipantsIndex = data[0].index(&quot;COUNT PARTICIPANTS&quot;)
-# print(&quot;The index of 'COUNT PARTICIPANTS': &quot;+str(countParticipantsIndex))
-
-# countParticipants = []
-# index = 0
-
-# for row in data[1:]:
-#     countParticipants.append(int(row[countParticipantsIndex]))
-
-
-# colum = 열(가로) // row = 행(세로)
-# get_csv_rowInstance(row_index)
-# 입력:row_index
-# 출력:row_instance</text>
+        <text># except:
+#     with open('ITT_Student.json','a',encoding='UTF8') as outfile:
+#         readable_result = json.dumps(student_ITT, indent=4, sort_keys=True, ensure_ascii=False)
+#         outfile.write(readable_result)
+#         print('ITT_Student.json SAVED')</text>
       </register>
       <register name="2" type="4">
-        <text>student_ITT = ()
-student_ITT = ()
-student_ITT = ()
-student_ITT = ()
-student_ITT = ()
-student_ITT = ()
-student_ITT = ()</text>
+        <text encoding="base64">x9i6uLy8v+QuCiMgc3R1ZGVudF9JVFTAxyC48LXnILCqwLsgw+K3wsfPtMIgx8G3zrHXt6UgwNu8usfYuri8vL/kLgojIHN0dWRlbnRfSVRULmFwcGVuZCgpIDw9IHZhbHVlv6Egtem+7rChtMIgsM3AuyC757/rwNogwNS3wsC7ILnevsa8rSC6r7z2v6EgwPrA5cfPv6kgYXBwZW5kx9i6uLy8v+QuCgojIHByaW50KCJFbmQpCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3N0dWRlbnRfaWQnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsnc3R1ZGVudF9uYW1lJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3N0dWRlbnRfYWdlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3N0dWRlbnRfYWRkcmVzcyddKQojIHByaW50KHN0dWRlbnRfSVRUWzBdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX2NvZGUnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX25hbWUnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsndGVhY2hlciddKQojIHByaW50KHN0dWRlbnRfSVRUWzBdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydsZWFybmluZ19jb3Vyc2VfaW5mbyddWzBdWydzdGFydF9kYXRlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3N0dWRlbnRfaWQnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsnc3R1ZGVudF9uYW1lJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3N0dWRlbnRfYWdlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3N0dWRlbnRfYWRkcmVzcyddKQojIHByaW50KHN0dWRlbnRfSVRUWzFdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX2NvZGUnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX25hbWUnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsndGVhY2hlciddKQojIHByaW50KHN0dWRlbnRfSVRUWzFdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydsZWFybmluZ19jb3Vyc2VfaW5mbyddWzBdWydzdGFydF9kYXRlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10p</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aW1wb3J0IGNzdgoKd2l0aCBvcGVuKCdEZW1vZ3JhcGhpY19TdGF0aXN0aWNzX0J5X1ppcF9Db2RlLmNzdicsbmV3bGluZT0nJylhcyBpbmZpbGU6CiAgICBkYXRhID0gbGlzdChjc3YucmVhZGVyKGluZmlsZSkpCgpkZWYgZ2V0X2Nzdl9yb3dJbnN0YW5jZShyb3dfbmFtZSk6CiAgICByb3dfaW5zdGFuY2UgPSBbXQogICAgcm93X2luZGV4ID0gZGF0YVswXS5pbmRleChyb3dfbmFtZSkKICAgIGZvciByb3cgaW4gZGF0YVsxOl06CiAgICAgICAgcm93X2luc3RhbmNlLmFwcGVuZChpbnQocm93W3Jvd19pbmRleF0pKQoKCgoKCgoKIyBjb3VudFBhcnRpY2lwYW50c0luZGV4ID0gZGF0YVswXS5pbmRleCgiQ09VTlQgUEFSVElDSVBBTlRTIikKIyBwcmludCgiVGhlIGluZGV4IG9mICdDT1VOVCBQQVJUSUNJUEFOVFMnOiAiK3N0cihjb3VudFBhcnRpY2lwYW50c0luZGV4KSkKCiMgY291bnRQYXJ0aWNpcGFudHMgPSBbXQojIGluZGV4ID0gMAoKIyBmb3Igcm93IGluIGRhdGFbMTpdOgojICAgICBjb3VudFBhcnRpY2lwYW50cy5hcHBlbmQoaW50KHJvd1tjb3VudFBhcnRpY2lwYW50c0luZGV4XSkpCgoKIyBjb2x1bSA9IL+tKLCht84pIC8vIHJvdyA9IMfgKLy8t84pCiMgZ2V0X2Nzdl9yb3dJbnN0YW5jZShyb3dfaW5kZXgpCiMgwNS3wjpyb3dfaW5kZXgKIyDD4rfCOnJvd19pbnN0YW5jZQo=</text>
+        <text encoding="base64">CiIiIiBzdHVkZW50X0lUVCA9IFsKICAgIHsKICAgICAgICAnc3R1ZGVudF9pZCc6ICJJVFQiICsgJ3s6MD0zfScuZm9ybWF0KGxlbihzdHVkZW50X0lUVCkrMSksCiAgICAgICAgJ3N0dWRlbnRfbmFtZSc6J7HosMfIqycsCiAgICAgICAgJ3N0dWRlbnRfYWdlJzonMjgnLAogICAgICAgICdzdHVkZW50X2FkZHJlc3MnOie067G4JywKICAgICAgICAndG90YWxfY291cnNlX2luZm8nOnsKICAgICAgICAgICAgJ251bV9vZl9jb3Vyc2VfbGVhcm5lZCc6JzAnLAogICAgICAgICAgICAnbGVhcm5pbmdfY291cnNlX2luZm8nOlsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnY291cnNlX2NvZGUnOidJQjE3MTEwNicsCiAgICAgICAgICAgICAgICAgICAgJ2NvdXJzZV9uYW1lJzonSW9UILrytaXAzMXNIL3HuasnLAogICAgICAgICAgICAgICAgICAgICd0ZWFjaGVyJzonwMzH9rG4JywKICAgICAgICAgICAgICAgICAgICAnc3RhcnRfZGF0ZSc6JzIwMTctMTEtMDYnLAogICAgICAgICAgICAgICAgICAgICdmaW5pc2hfZGF0ZSc6JzIwMTgtMDktMDUnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9CiAgICB9LAoKICAgIHsKICAgICAgICAnc3R1ZGVudF9pZCc6IklUVCIgKyAnezowPTN9Jy5mb3JtYXQobGVuKGRhdGEpKzEpLAogICAgICAgICdzdHVkZW50X25hbWUnOiex6Lvzv7EnLAogICAgICAgICdzdHVkZW50X2FnZSc6JzMwJywKICAgICAgICAnc3R1ZGVudF9hZGRyZXNzJzontOuxuCCw5rvqJywKICAgICAgICAndG90YWxfY291cnNlX2luZm8nOnsKICAgICAgICAgICAgJ251bV9vZl9jb3Vyc2VfbGVhcm5lZCc6JzEnLAogICAgICAgICAgICAnbGVhcm5pbmdfY291cnNlX2luZm8nOlsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnY291cnNlX2NvZGUnOidJQjE3MTEwNicsCiAgICAgICAgICAgICAgICAgICAgJ2NvdXJzZV9uYW1lJzonSW9UILrytaXAzMXNIL3HuasnLAogICAgICAgICAgICAgICAgICAgICd0ZWFjaGVyJzonwMzH9rG4JywKICAgICAgICAgICAgICAgICAgICAnc3RhcnRfZGF0ZSc6JzIwMTctMTEtMDYnLAogICAgICAgICAgICAgICAgICAgICdmaW5pc2hfZGF0ZSc6JzIwMTgtMDktMDUnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9CiAgICB9Cl0iIiI=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHJldHVybiByb3dfaW5zdGFuY2UKCmRlZiBwcmludF9yb3cocm93X2luc3RhbmNlLCB0eXBlID0gJ2ludCcpOgogICAgaWYgdHlwZSA9PSAnaW50JzoKICAgICAgICBmb3IgaSBpbiByb3dfaW5zdGFuY2U6CiAgICAgICAgICAgIHByaW50KGludChpKSkKICAgIGVsaWYgdHlwZSA9PSAnZmxvYXQnOgogICAgICAgIGZvciBpIGluIHJvd19pbnN0YW5jZToKICAgICAgICAgICAgcHJpbnQoZmxvYXQoaSkpCiAgICBlbGlmIHR5cGUgPT0gJ3N0cic6CiAgICAgICAgZm9yIGkgaW4gcm93X2luc3RhbmNlOgogICAgICAgICAgICBwcmludChpKQoKZGVmIHByaW50X2NvbChjb2xfaW5zdGFuY2UpOgogICAgZm9yIGkgaW4gY29sX2luc3RhbmNlOgogICAgICAgIHByaW50KGksIGVuZD0nICcpCgpyb3dfaW5zdGFuY2UgPSBpbnB1dCgid3JpdGUgdGl0bGU6ICIpCnByaW50X3Jvdyhyb3dfaW5zdGFuY2Up</text>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoYSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RvdGFsX2NvdXJzZV9pbmZvJzp7Cg==</text>
+        <text encoding="base64">YSA9IHsnc3R1ZGVudF9pZCc6ICJJVFQiICsgJ3s6MD0zfScuZm9ybWF0KGxlbihzdHVkZW50X0lUVCkrMyl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfYWRkcmVzcyc6IGlucHV0KCLB1rzSuKYgwNS3wsfYwda8vL/kOiAiKSwK</text>
+        <text encoding="base64">c3R1ZGVudF9JVFQgPSAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfYWdlJzogaW5wdXQoIrOqwMy4piDA1LfCx9jB1ry8v+Q6ICIpLAo=</text>
+        <text encoding="base64">cHJpbnQoYSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfbmFtZSc6IGlucHV0KCLAzLinwLsgwNS3wsfYwda8vL/kOiAiKSwK</text>
+        <text encoding="base64">ID0geydzdHVkZW50X2lkJzogIklUVCIgKyAnezowPTN9Jy5mb3JtYXQobGVuKHN0dWRlbnRfSVRUKSsyKX0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfaWQnOiAiSVRUIiArICd7OjA9M30nLmZvcm1hdChsZW4oc3R1ZGVudF9JVFQpKzEwKSwK</text>
+      <register name="9" type="4">
+        <text>print(a)
+student_ITT = ()
+a</text>
       </register>
       <register name="-" type="4">
         <text />
