@@ -3,11 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1516165637393">
+      <file name="/Python Console" timestamp="1516235623280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
         <mark key="[" line="2" column="47" />
+      </file>
+      <file name="/fragment.py" timestamp="1516235639457">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1516150887219">
         <mark key="[" line="0" column="0" />
@@ -80,7 +83,7 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516234841831">
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516235849340">
         <mark key="[" line="43" column="39" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
