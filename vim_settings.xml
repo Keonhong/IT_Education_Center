@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1516252100253">
+      <file name="/Python Console" timestamp="1516253060131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -14,6 +14,12 @@
       </file>
       <file name="/a.dummy" timestamp="1516150887219">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/CSV_test.py" timestamp="1516254560303">
+        <mark key="'" line="1" column="39" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/Ver2T.py" timestamp="1515732119747">
         <mark key="[" line="15" column="43" />
@@ -32,7 +38,7 @@
         <mark key="^" line="35" column="11" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver3.py" timestamp="1515730743664">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver3.py" timestamp="1516254225717">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
@@ -83,7 +89,7 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516252350524">
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516254247145">
         <mark key="[" line="18" column="54" />
         <mark key="]" line="18" column="54" />
         <mark key="." line="18" column="54" />
@@ -121,52 +127,56 @@
     <jumps>
       <jump line="43" column="25" filename="D:/python_workspace/Jumptopy/Python_XML/연습문제.py" />
       <jump line="4" column="71" filename="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Test.py" />
+      <jump line="1" column="39" filename="D:/python_workspace/Jumptopy/Data_science/CSV_test.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RvdGFsX2NvdXJzZV9pbmZvJzp7Cg==</text>
+      <register name="1" type="4">
+        <text>student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>learning</text>
+        <text>student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()
+student_ITT = ()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfYWRkcmVzcyc6IGlucHV0KCLB1rzSuKYgwNS3wsfYwda8vL/kOiAiKSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aW1wb3J0IGNzdgoKd2l0aCBvcGVuKCdEZW1vZ3JhcGhpY19TdGF0aXN0aWNzX0J5X1ppcF9Db2RlLmNzdicsbmV3bGluZT0nJylhcyBpbmZpbGU6CiAgICBkYXRhID0gbGlzdChjc3YucmVhZGVyKGluZmlsZSkpCgpkZWYgZ2V0X2Nzdl9yb3dJbnN0YW5jZShyb3dfbmFtZSk6CiAgICByb3dfaW5zdGFuY2UgPSBbXQogICAgcm93X2luZGV4ID0gZGF0YVswXS5pbmRleChyb3dfbmFtZSkKICAgIGZvciByb3cgaW4gZGF0YVsxOl06CiAgICAgICAgcm93X2luc3RhbmNlLmFwcGVuZChpbnQocm93W3Jvd19pbmRleF0pKQoKCgoKCgoKIyBjb3VudFBhcnRpY2lwYW50c0luZGV4ID0gZGF0YVswXS5pbmRleCgiQ09VTlQgUEFSVElDSVBBTlRTIikKIyBwcmludCgiVGhlIGluZGV4IG9mICdDT1VOVCBQQVJUSUNJUEFOVFMnOiAiK3N0cihjb3VudFBhcnRpY2lwYW50c0luZGV4KSkKCiMgY291bnRQYXJ0aWNpcGFudHMgPSBbXQojIGluZGV4ID0gMAoKIyBmb3Igcm93IGluIGRhdGFbMTpdOgojICAgICBjb3VudFBhcnRpY2lwYW50cy5hcHBlbmQoaW50KHJvd1tjb3VudFBhcnRpY2lwYW50c0luZGV4XSkpCgoKIyBjb2x1bSA9IL+tKLCht84pIC8vIHJvdyA9IMfgKLy8t84pCiMgZ2V0X2Nzdl9yb3dJbnN0YW5jZShyb3dfaW5kZXgpCiMgwNS3wjpyb3dfaW5kZXgKIyDD4rfCOnJvd19pbnN0YW5jZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfYWdlJzogaW5wdXQoIrOqwMy4piDA1LfCx9jB1ry8v+Q6ICIpLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHJldHVybiByb3dfaW5zdGFuY2UKCmRlZiBwcmludF9yb3cocm93X2luc3RhbmNlLCB0eXBlID0gJ2ludCcpOgogICAgaWYgdHlwZSA9PSAnaW50JzoKICAgICAgICBmb3IgaSBpbiByb3dfaW5zdGFuY2U6CiAgICAgICAgICAgIHByaW50KGludChpKSkKICAgIGVsaWYgdHlwZSA9PSAnZmxvYXQnOgogICAgICAgIGZvciBpIGluIHJvd19pbnN0YW5jZToKICAgICAgICAgICAgcHJpbnQoZmxvYXQoaSkpCiAgICBlbGlmIHR5cGUgPT0gJ3N0cic6CiAgICAgICAgZm9yIGkgaW4gcm93X2luc3RhbmNlOgogICAgICAgICAgICBwcmludChpKQoKZGVmIHByaW50X2NvbChjb2xfaW5zdGFuY2UpOgogICAgZm9yIGkgaW4gY29sX2luc3RhbmNlOgogICAgICAgIHByaW50KGksIGVuZD0nICcpCgpyb3dfaW5zdGFuY2UgPSBpbnB1dCgid3JpdGUgdGl0bGU6ICIpCnByaW50X3Jvdyhyb3dfaW5zdGFuY2Up</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfbmFtZSc6IGlucHV0KCLAzLinwLsgwNS3wsfYwda8vL/kOiAiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RvdGFsX2NvdXJzZV9pbmZvJzp7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfYWRkcmVzcyc6IGlucHV0KCLB1rzSuKYgwNS3wsfYwda8vL/kOiAiKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfYWdlJzogaW5wdXQoIrOqwMy4piDA1LfCx9jB1ry8v+Q6ICIpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfbmFtZSc6IGlucHV0KCLAzLinwLsgwNS3wsfYwda8vL/kOiAiKSwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfaWQnOiAiSVRUIiArICd7OjA9M30nLmZvcm1hdChsZW4oc3R1ZGVudF9JVFQpKzEwKSwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IyBzdHVkZW50WydzdHVkZW50X2lkJ10gPSAiSVRUIiArICd7OjA9M30nLmZvcm1hdChsZW4oc3R1ZGVudF9JVFQpKzEpCiAgICAgICAgIyBzdHVkZW50WydzdHVkZW50X25hbWUnXSA9IGlucHV0KCLAzLinwLsgwNS3wsfYwda8vL/kOiAiKQogICAgICAgICMgc3R1ZGVudFsnc3R1ZGVudF9hZ2UnXSA9IGlucHV0KCKzqsDMuKYgwNS3wsfYwda8vL/kOiAiKQogICAgICAgICMgc3R1ZGVudFsnc3R1ZGVudF9hZGRyZXNzJ10gPSBpbnB1dCgiwda80rimIMDUt8LH2MHWvLy/5DogIikKICAgICAgICAjCiAgICAgICAgIyBwcmludCgiPLz2sK3BpLq4PiIpCiAgICAgICAgIyBzdHVkZW50WydzdHVkZW50X2NsYXNzJ10gPSBpbnB1dCgisPqwxSC89rCtIMi9vPa4piDA1LfCx9jB1ry8v+Q6ICIpCiAgICAgICAgIyBsZWFybmluZ19jb3Vyc2VfaW5mb1snc3R1ZGVudF9jbGFzczInXSA9IGlucHV0KCKwrcDHxNq15bimIMDUt8LH2MHWvLy/5DogIikKICAgICAgICAjIGxlYXJuaW5nX2NvdXJzZV9pbmZvWydzdHVkZW50X2NsYXNzMyddID0gaW5wdXQoIrCtwMe47cC7IMDUt8LH2MHWvLy/5DogIikKICAgICAgICAjIGxlYXJuaW5nX2NvdXJzZV9pbmZvWydzdHVkZW50X3RlYWNoZXInXSA9IGlucHV0KCKwrbvnuO3AuyDA1LfCx9jB1ry8v+Q6ICIpCiAgICAgICAgIyBsZWFybmluZ19jb3Vyc2VfaW5mb1snc3RhcnQnXSA9IGlucHV0KCKws7CtwM/AuyDA1LfCx9jB1ry8v+Q6ICIpCiAgICAgICAgIyBsZWFybmluZ19jb3Vyc2VfaW5mb1snZmluaXNoJ10gPSBpbnB1dCgiwb634cDPwLsgwNS3wsfYwda8vL/kOiAiKQogICAgICAgICMKICAgICAgICAjIGxlYXJuaW5nLmFwcGVuZChsZWFybmluZ19jb3Vyc2VfaW5mbykKICAgICAgICAjIHN0dWRlbnRbJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ10gPSBsZWFybmluZwogICAgICAgICMgc3R1ZGVudF9JVFQuYXBwZW5kKHN0dWRlbnQpCiAgICAgICAgIyBwcmludChzdHVkZW50X0lUVCk=</text>
       </register>
-      <register name="7" type="4">
-        <text>learning.append(learning_course_info)
-    student['learning_course_info'] = learning</text>
-      </register>
-      <register name="8" type="4">
-        <text>[
-            {
-                    'student_class2':'IB171106',
-                    'student_class3':'IoT 빅데이터 실무',
-                    'student_teacher':'이현구',
-                    'start':'2017-11-06',
-                    'finish':'2018-09-05'
-            }
-        ]</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnbnVtX29mX2NvdXJzZV9sZWFybmVkJzowLAo=</text>
-      </register>
       <register name="-" type="4">
-        <text>learning</text>
+        <text />
       </register>
     </registers>
     <search>
