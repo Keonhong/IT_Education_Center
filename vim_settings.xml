@@ -66,6 +66,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516340048043" />
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
@@ -83,12 +84,12 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516339119042">
-        <mark key="'" line="77" column="39" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="40" column="55" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516340796691">
+        <mark key="'" line="79" column="39" />
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="41" />
+        <mark key="^" line="42" column="55" />
+        <mark key="." line="26" column="41" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -137,7 +138,7 @@
         # json_big_data = json.loads(json_string)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>student_ITT = []</text>
+        <text>'student_ITT'</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
@@ -198,7 +199,7 @@ def find_student():
         <text encoding="base64">d2hpbGUgMToKICAgIHN0dWRlbnRfSVRUID0gW10KICAgIHN0dWRlbnQgPSB7fQogICAgcHJpbnQoIiAgICA8PCBqc29useK53SDB1rzSt88gsPy4riDHwbfOsde3pSA+PiIpCiAgICBjb250ZW50ID0gaW50KGlucHV0KCIiIjEpIMfQu/0gwaS6uCDA1LfCKQoyKSDH0Lv9IMGkurggwbbIuCkKMykgx9C7/SDBpLq4ILz2waQpCjQpIMfQu/0gwaS6uCC76MGmKQo1KSDHwbfOsde3pSDBvrfhIiIiKSkKCiAgICBpZiBjb250ZW50ID09IDE6</text>
       </register>
       <register name="-" type="4">
-        <text>student_ITT = []</text>
+        <text>'student_ITT'</text>
       </register>
     </registers>
     <search>
