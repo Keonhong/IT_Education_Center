@@ -15,7 +15,7 @@
       <file name="/a.dummy" timestamp="1516150887219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver2T.py" timestamp="1516257779342">
+      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver2T.py" timestamp="1516326672132">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="49" column="33" />
         <mark key="." line="49" column="33" />
@@ -66,10 +66,10 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516260171824">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516326591463">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
@@ -88,12 +88,12 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516322883757">
-        <mark key="'" line="54" column="39" />
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="54" column="40" />
-        <mark key="^" line="16" column="55" />
-        <mark key="." line="54" column="40" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516324728307">
+        <mark key="'" line="62" column="39" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="24" column="55" />
+        <mark key="." line="10" column="8" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -135,21 +135,70 @@
         <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
       <register name="1" type="4">
+        <text>student_ITT = []
+input_student = {
+            'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1),
+            'student_name': input(&quot;이름을 입력해주세요: &quot;),
+            'student_age': input(&quot;나이를 입력해주세요: &quot;),
+            'student_address': input(&quot;주소를 입력해주세요: &quot;),
+            'total_course_info':{
+                'num_of_course_learned': input(&quot;과거 수강 횟수를 입력해주세요: &quot;),
+                'learning_course_info':[
+                    {
+                        'course_code': input(&quot;강의코드를 입력해주세요: &quot;),
+                        'course_name': input(&quot;강의명을 입력해주세요: &quot;),
+                        'teacher': input(&quot;강사명을 입력해주세요: &quot;),
+                        'start_date': input(&quot;개강일을 입력해주세요: &quot;),
+                        'finish_date': input(&quot;종료일을 입력해주세요: &quot;)
+                    }
+                ]
+            }
+        }
+student_ITT.append(input_student)
+print(student_ITT)
+print(student_ITT[0]['student_id'])</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>student_ITT = []
+input_student = {
+            'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1),
+            'student_name': input(&quot;이름을 입력해주세요: &quot;),
+            'student_age': input(&quot;나이를 입력해주세요: &quot;),
+            'student_address': input(&quot;주소를 입력해주세요: &quot;),
+            'total_course_info':{
+                'num_of_course_learned': input(&quot;과거 수강 횟수를 입력해주세요: &quot;),
+                'learning_course_info':[
+                    {
+                        'course_code': input(&quot;강의코드를 입력해주세요: &quot;),
+                        'course_name': input(&quot;강의명을 입력해주세요: &quot;),
+                        'teacher': input(&quot;강사명을 입력해주세요: &quot;),
+                        'start_date': input(&quot;개강일을 입력해주세요: &quot;),
+                        'finish_date': input(&quot;종료일을 입력해주세요: &quot;)
+                    }
+                ]
+            }
+        }
+student_ITT.append(input_student)
+print(student_ITT)
+print(student_ITT[0]['student_id'])</text>
+      </register>
+      <register name="2" type="4">
+        <text>try:
+            with open()</text>
+      </register>
+      <register name="3" type="4">
         <text>ef find_student():
         name = student_ITT[0]['student_name']
         return name</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>;
 
 print &quot;Start Len : %d&quot; % len(dict)
 dict.clear()
 print &quot;End Len : %d&quot; % len(dict)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text># def find_student():
 #     id = student_ITT[0]['student_id']
 #     return id
@@ -158,29 +207,19 @@ def find_student():
     name = student_ITT[0]['student_name']
     return name</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBpZiBjb250ZW50ID09IDI6CiAgICAgICAgdGVybXMgPSBpbnB1dCgiIiIgvu62siDBtrDHwLi3ziDBtsi4x8+9w7DavcC0z7HuPwogICAgMSnH0Lv9SUQgMinAzLinIDMps6rAzCA0KcHWvNIgNSmw+rDFvPawrci9vPYgNinH9sDnsK3Ax7imILz2sK3Hz7TCIMfQu/0gNynH9sDnsK3Ax7jtIDgpsK2757jtICIiIik=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">d2hpbGUgMToKICAgIHN0dWRlbnRfSVRUID0gW10KICAgIHN0dWRlbnQgPSB7fQogICAgcHJpbnQoIiAgICA8PCBqc29useK53SDB1rzSt88gsPy4riDHwbfOsde3pSA+PiIpCiAgICBjb250ZW50ID0gaW50KGlucHV0KCIiIjEpIMfQu/0gwaS6uCDA1LfCKQoyKSDH0Lv9IMGkurggwbbIuCkKMykgx9C7/SDBpLq4ILz2waQpCjQpIMfQu/0gwaS6uCC76MGmKQo1KSDHwbfOsde3pSDBvrfhIiIiKSkKCiAgICBpZiBjb250ZW50ID09IDE6</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>student_ITT = ()
 a = {'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1)}</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>learning = []
     learning_course_info = {}</text>
-      </register>
-      <register name="8" type="4">
-        <text># except:
-#     with open('ITT_Student.json','a',encoding='UTF8') as outfile:
-#         readable_result = json.dumps(student_ITT, indent=4, sort_keys=True, ensure_ascii=False)
-#         outfile.write(readable_result)
-#         print('ITT_Student.json SAVED')</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">x9i6uLy8v+QuCiMgc3R1ZGVudF9JVFTAxyC48LXnILCqwLsgw+K3wsfPtMIgx8G3zrHXt6UgwNu8usfYuri8vL/kLgojIHN0dWRlbnRfSVRULmFwcGVuZCgpIDw9IHZhbHVlv6Egtem+7rChtMIgsM3AuyC757/rwNogwNS3wsC7ILnevsa8rSC6r7z2v6EgwPrA5cfPv6kgYXBwZW5kx9i6uLy8v+QuCgojIHByaW50KCJFbmQpCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3N0dWRlbnRfaWQnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsnc3R1ZGVudF9uYW1lJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3N0dWRlbnRfYWdlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3N0dWRlbnRfYWRkcmVzcyddKQojIHByaW50KHN0dWRlbnRfSVRUWzBdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX2NvZGUnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX25hbWUnXSkKIyBwcmludChzdHVkZW50X0lUVFswXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsndGVhY2hlciddKQojIHByaW50KHN0dWRlbnRfSVRUWzBdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydsZWFybmluZ19jb3Vyc2VfaW5mbyddWzBdWydzdGFydF9kYXRlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMF1bJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3N0dWRlbnRfaWQnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsnc3R1ZGVudF9uYW1lJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3N0dWRlbnRfYWdlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3N0dWRlbnRfYWRkcmVzcyddKQojIHByaW50KHN0dWRlbnRfSVRUWzFdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX2NvZGUnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsnY291cnNlX25hbWUnXSkKIyBwcmludChzdHVkZW50X0lUVFsxXVsndG90YWxfY291cnNlX2luZm8nXVsnbGVhcm5pbmdfY291cnNlX2luZm8nXVswXVsndGVhY2hlciddKQojIHByaW50KHN0dWRlbnRfSVRUWzFdWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydsZWFybmluZ19jb3Vyc2VfaW5mbyddWzBdWydzdGFydF9kYXRlJ10pCiMgcHJpbnQoc3R1ZGVudF9JVFRbMV1bJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10p</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
