@@ -48,7 +48,6 @@
         <mark key="]" line="22" column="43" />
         <mark key="." line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/json/decoder.py" timestamp="1516327859081" />
       <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_Rank.py" timestamp="1515731791810">
         <mark key="[" line="23" column="11" />
       </file>
@@ -89,9 +88,12 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516328742123">
-        <mark key="'" line="83" column="39" />
-        <mark key="^" line="45" column="55" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516328947194">
+        <mark key="'" line="75" column="39" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -133,6 +135,12 @@
         <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
+      </register>
+      <register name="2" type="4">
         <text>student_ITT = []
 input_student = {
             'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1),
@@ -156,26 +164,23 @@ student_ITT.append(input_student)
 print(student_ITT)
 print(student_ITT[0]['student_id'])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>load</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>try:
             with open()</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>ef find_student():
         name = student_ITT[0]['student_name']
         return name</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>;
 
 print &quot;Start Len : %d&quot; % len(dict)
 dict.clear()
 print &quot;End Len : %d&quot; % len(dict)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text># def find_student():
 #     id = student_ITT[0]['student_id']
 #     return id
@@ -184,19 +189,15 @@ def find_student():
     name = student_ITT[0]['student_name']
     return name</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBpZiBjb250ZW50ID09IDI6CiAgICAgICAgdGVybXMgPSBpbnB1dCgiIiIgvu62siDBtrDHwLi3ziDBtsi4x8+9w7DavcC0z7HuPwogICAgMSnH0Lv9SUQgMinAzLinIDMps6rAzCA0KcHWvNIgNSmw+rDFvPawrci9vPYgNinH9sDnsK3Ax7imILz2sK3Hz7TCIMfQu/0gNynH9sDnsK3Ax7jtIDgpsK2757jtICIiIik=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">d2hpbGUgMToKICAgIHN0dWRlbnRfSVRUID0gW10KICAgIHN0dWRlbnQgPSB7fQogICAgcHJpbnQoIiAgICA8PCBqc29useK53SDB1rzSt88gsPy4riDHwbfOsde3pSA+PiIpCiAgICBjb250ZW50ID0gaW50KGlucHV0KCIiIjEpIMfQu/0gwaS6uCDA1LfCKQoyKSDH0Lv9IMGkurggwbbIuCkKMykgx9C7/SDBpLq4ILz2waQpCjQpIMfQu/0gwaS6uCC76MGmKQo1KSDHwbfOsde3pSDBvrfhIiIiKSkKCiAgICBpZiBjb250ZW50ID09IDE6</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>student_ITT = ()
 a = {'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1)}</text>
-      </register>
-      <register name="9" type="4">
-        <text>learning = []
-    learning_course_info = {}</text>
       </register>
       <register name="-" type="4">
         <text>load</text>
