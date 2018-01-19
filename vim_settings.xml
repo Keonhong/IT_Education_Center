@@ -66,7 +66,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516327706116">
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516330327885">
         <mark key="[" line="33" column="22" />
         <mark key="]" line="33" column="22" />
         <mark key="." line="33" column="22" />
@@ -88,12 +88,12 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516328947194">
-        <mark key="'" line="75" column="39" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="37" column="55" />
-        <mark key="." line="25" column="4" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516330510111">
+        <mark key="'" line="78" column="39" />
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="59" />
+        <mark key="^" line="40" column="55" />
+        <mark key="." line="23" column="59" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -138,7 +138,7 @@
         <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text>student_ITT = []
@@ -200,7 +200,7 @@ def find_student():
 a = {'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1)}</text>
       </register>
       <register name="-" type="4">
-        <text>load</text>
+        <text />
       </register>
     </registers>
     <search>
