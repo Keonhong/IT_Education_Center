@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1516328652275">
+      <file name="/Python Console" timestamp="1516331690784">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -48,6 +48,7 @@
         <mark key="]" line="22" column="43" />
         <mark key="." line="22" column="43" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/json/decoder.py" timestamp="1516331377520" />
       <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_Rank.py" timestamp="1515731791810">
         <mark key="[" line="23" column="11" />
       </file>
@@ -66,11 +67,6 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516330327885">
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
-      </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
@@ -83,17 +79,18 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
         <mark key="[" line="7" column="88" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/json/__init__.py" timestamp="1516331566678" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/Ver4.py" timestamp="1515731088501">
         <mark key="[" line="40" column="9" />
         <mark key="]" line="40" column="9" />
         <mark key="." line="40" column="9" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516330510111">
-        <mark key="'" line="78" column="39" />
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="59" />
-        <mark key="^" line="40" column="55" />
-        <mark key="." line="23" column="59" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516332171516">
+        <mark key="'" line="77" column="39" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="39" column="55" />
+        <mark key="." line="24" column="12" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -135,12 +132,23 @@
         <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
+        <text>if os.path.isfile('ITT_Student.json'):
+    with open('ITT_Student.json', encoding='UTF8') as json_file:pass
+        # json_object = json.load(json_file)
+        # json_string = json.dumps(json_object)
+        # json_big_data = json.loads(json_string)</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>if os.path.isfile('ITT_Student.json'):
+    with open('ITT_Student.json', encoding='UTF8') as json_file:pass
+        # json_object = json.load(json_file)
+        # json_string = json.dumps(json_object)
+        # json_big_data = json.loads(json_string)</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
+      </register>
+      <register name="3" type="4">
         <text>student_ITT = []
 input_student = {
             'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1),
@@ -164,23 +172,23 @@ student_ITT.append(input_student)
 print(student_ITT)
 print(student_ITT[0]['student_id'])</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>try:
             with open()</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ef find_student():
         name = student_ITT[0]['student_name']
         return name</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>;
 
 print &quot;Start Len : %d&quot; % len(dict)
 dict.clear()
 print &quot;End Len : %d&quot; % len(dict)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text># def find_student():
 #     id = student_ITT[0]['student_id']
 #     return id
@@ -189,18 +197,14 @@ def find_student():
     name = student_ITT[0]['student_name']
     return name</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBpZiBjb250ZW50ID09IDI6CiAgICAgICAgdGVybXMgPSBpbnB1dCgiIiIgvu62siDBtrDHwLi3ziDBtsi4x8+9w7DavcC0z7HuPwogICAgMSnH0Lv9SUQgMinAzLinIDMps6rAzCA0KcHWvNIgNSmw+rDFvPawrci9vPYgNinH9sDnsK3Ax7imILz2sK3Hz7TCIMfQu/0gNynH9sDnsK3Ax7jtIDgpsK2757jtICIiIik=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">d2hpbGUgMToKICAgIHN0dWRlbnRfSVRUID0gW10KICAgIHN0dWRlbnQgPSB7fQogICAgcHJpbnQoIiAgICA8PCBqc29useK53SDB1rzSt88gsPy4riDHwbfOsde3pSA+PiIpCiAgICBjb250ZW50ID0gaW50KGlucHV0KCIiIjEpIMfQu/0gwaS6uCDA1LfCKQoyKSDH0Lv9IMGkurggwbbIuCkKMykgx9C7/SDBpLq4ILz2waQpCjQpIMfQu/0gwaS6uCC76MGmKQo1KSDHwbfOsde3pSDBvrfhIiIiKSkKCiAgICBpZiBjb250ZW50ID09IDE6</text>
       </register>
-      <register name="9" type="4">
-        <text>student_ITT = ()
-a = {'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1)}</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text>print('ITT_Student.json SAVED'</text>
       </register>
     </registers>
     <search>
