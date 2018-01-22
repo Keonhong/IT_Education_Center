@@ -66,10 +66,10 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516588282878">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516589419736">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
@@ -134,15 +134,70 @@
         <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
+        <text>import json
+import os
+
+result = []
+input_result = {
+                'mykey':'my_value',
+                'MyKey': 'My_value'}
+result.append(input_result)
+
+while 1:
+    a = int(input(&quot;찾고싶은게? 1)이름 2)아이디&quot;))
+    if a == 1:
+        print(&quot;이름 : &quot; + input_result['MyKey'])
+    else:
+        break
+
+try:
+    os.path.isfile('test.json')
+    with open('test.json','a',encoding='UTF8') as outfile:
+        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
+        outfile.write(readable_result)
+        print('Test')
+except:
+    with open('test.json','w',encoding='UTF8') as outfile:
+        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
+        outfile.write(readable_result)
+        print(&quot;Test&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
+        <text>import json
+import os
+
+result = []
+input_result = {
+                'mykey':'my_value',
+                'MyKey': 'My_value'}
+result.append(input_result)
+
+while 1:
+    a = int(input(&quot;찾고싶은게? 1)이름 2)아이디&quot;))
+    if a == 1:
+        print(&quot;이름 : &quot; + input_result['MyKey'])
+    else:
+        break
+
+try:
+    os.path.isfile('test.json')
+    with open('test.json','a',encoding='UTF8') as outfile:
+        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
+        outfile.write(readable_result)
+        print('Test')
+except:
+    with open('test.json','w',encoding='UTF8') as outfile:
+        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
+        outfile.write(readable_result)
+        print(&quot;Test&quot;)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmlmIG9zLnBhdGguaXNmaWxlKCdJVFRfU3R1ZGVudC5qc29uJyk6CiAgICB3aXRoIG9wZW4oJ0lUVF9TdHVkZW50Lmpzb24nLCd3JyxlbmNvZGluZz0nVVRGOCcpIGFzIG91dGZpbGU6CiAgICAgICAgcmVhZGFibGVfcmVzdWx0ID0ganNvbi5kdW1wcyhzdHVkZW50X0lUVCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgb3V0ZmlsZS53cml0ZShyZWFkYWJsZV9yZXN1bHQpCiAgICAgICAgcHJpbnQoJ0lUVF9TdHVkZW50Lmpzb24gU0FWRUQnKQplbHNlOg==</text>
+        <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CmlmIG9zLnBhdGguaXNmaWxlKCdJVFRfU3R1ZGVudC5qc29uJyk6CiAgICB3aXRoIG9wZW4oJ0lUVF9TdHVkZW50Lmpzb24nLCd3JyxlbmNvZGluZz0nVVRGOCcpIGFzIG91dGZpbGU6CiAgICAgICAgcmVhZGFibGVfcmVzdWx0ID0ganNvbi5kdW1wcyhzdHVkZW50X0lUVCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgb3V0ZmlsZS53cml0ZShyZWFkYWJsZV9yZXN1bHQpCiAgICAgICAgcHJpbnQoJ0lUVF9TdHVkZW50Lmpzb24gU0FWRUQnKQplbHNlOg==</text>
+      </register>
+      <register name="4" type="4">
         <text>if os.path.isfile('ITT_Student.json'):
     with open('ITT_Student.json', encoding='UTF8') as json_file:
         json_object = json.load(json_file)
@@ -168,17 +223,17 @@ else:
             outfile.write(readable_result)
             print('ITT_Student.json SAVED')</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if os.path.isfile('ITT_Student.json'):
     with open('ITT_Student.json', encoding='UTF8') as json_file:pass
         # json_object = json.load(json_file)
         # json_string = json.dumps(json_object)
         # json_big_data = json.loads(json_string)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>student_ITT = []
 input_student = {
             'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1),
@@ -202,21 +257,14 @@ student_ITT.append(input_student)
 print(student_ITT)
 print(student_ITT[0]['student_id'])</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>try:
             with open()</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>ef find_student():
         name = student_ITT[0]['student_name']
         return name</text>
-      </register>
-      <register name="9" type="4">
-        <text>;
-
-print &quot;Start Len : %d&quot; % len(dict)
-dict.clear()
-print &quot;End Len : %d&quot; % len(dict)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3R1ZGVudF9JVFQg</text>
