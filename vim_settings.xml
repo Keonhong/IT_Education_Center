@@ -54,6 +54,11 @@
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile2.py" timestamp="1516598841539">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,9 +72,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516595417134">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="18" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
@@ -91,11 +96,8 @@
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516590270912">
         <mark key="[" line="21" column="2" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516588507232">
-        <mark key="[" line="65" column="15" />
-        <mark key="]" line="65" column="15" />
-        <mark key="^" line="31" column="5" />
-        <mark key="." line="65" column="15" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516599033306">
+        <mark key="^" line="32" column="5" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -138,6 +140,30 @@
       </register>
       <register name="1" type="4">
         <text>import json
+
+my_data =[
+    {
+        'key1':input(&quot;key1의 값을 입력하세요: &quot;)
+    }
+]
+# 9~14라인 사이에 1줄만 추가하면 되요.
+try:
+    with open('test.json', encoding='UTF8') as json_file:
+        json_object = json.load(json_file)
+        json_string = json.dumps(json_object)
+        json_big_data = json.loads(json_string)
+except: pass
+
+# 아래 코드를 절대로 바꾸지 말것
+with open('test.json', 'w', encoding='UTF8') as outfile:
+    readable_result = json.dumps(my_data, indent=4, sort_keys=True, ensure_ascii=False)
+    outfile.write(readable_result)</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>import json
 import os
 
 result = []
@@ -165,16 +191,13 @@ except:
         outfile.write(readable_result)
         print(&quot;Test&quot;)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CmlmIG9zLnBhdGguaXNmaWxlKCdJVFRfU3R1ZGVudC5qc29uJyk6CiAgICB3aXRoIG9wZW4oJ0lUVF9TdHVkZW50Lmpzb24nLCd3JyxlbmNvZGluZz0nVVRGOCcpIGFzIG91dGZpbGU6CiAgICAgICAgcmVhZGFibGVfcmVzdWx0ID0ganNvbi5kdW1wcyhzdHVkZW50X0lUVCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgb3V0ZmlsZS53cml0ZShyZWFkYWJsZV9yZXN1bHQpCiAgICAgICAgcHJpbnQoJ0lUVF9TdHVkZW50Lmpzb24gU0FWRUQnKQplbHNlOg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if os.path.isfile('ITT_Student.json'):
     with open('ITT_Student.json', encoding='UTF8') as json_file:
         json_object = json.load(json_file)
@@ -200,17 +223,17 @@ else:
             outfile.write(readable_result)
             print('ITT_Student.json SAVED')</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if os.path.isfile('ITT_Student.json'):
     with open('ITT_Student.json', encoding='UTF8') as json_file:pass
         # json_object = json.load(json_file)
         # json_string = json.dumps(json_object)
         # json_big_data = json.loads(json_string)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aW5wdXQoIiIiPDw8ICBqc29uxsTAz8C7IMOjwLsgvPYgvvi9wLTPtNkuICA+Pj4KMS7GxMDPsOa3zryxxcMgICAyLrv1t86/7iDGxMDPILv9vLoiIiIpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuICgnSVRUX1N0dWRlbnQuanNvbicsZW5jb2Rpbmc9J1VURjgnKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIGpzb25fb2JqZWN0ID0ganNvbi5sb2FkKGpzb25fZmlsZSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>student_ITT = []
 input_student = {
             'student_id': &quot;ITT&quot; + '{:0=3}'.format(len(student_ITT)+1),
@@ -234,17 +257,12 @@ student_ITT.append(input_student)
 print(student_ITT)
 print(student_ITT[0]['student_id'])</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>try:
             with open()</text>
       </register>
-      <register name="9" type="4">
-        <text>ef find_student():
-        name = student_ITT[0]['student_name']
-        return name</text>
-      </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text />
       </register>
     </registers>
     <search>
