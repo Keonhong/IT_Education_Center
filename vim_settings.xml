@@ -71,11 +71,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516601586339">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="18" />
-      </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516604059051" />
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
@@ -96,7 +92,7 @@
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516599051367">
         <mark key="[" line="1" column="2" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516601365011">
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516604345659">
         <mark key="[" line="64" column="26" />
         <mark key="]" line="64" column="26" />
         <mark key="." line="64" column="26" />
@@ -138,7 +134,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0dWRlbnRfSVRUID0gW10K</text>
+        <text encoding="base64">cHJpbnQoIrCtwMfE2rXlIDogIisgc3R1ZGVudF9JVFRbMF1bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bJ2NvdXJzZV9jb2RlJ10pCg==</text>
       </register>
       <register name="1" type="4">
         <text>&quot;&quot;&quot; 어떤 조건으로 조회하시겠습니까?
@@ -147,10 +143,7 @@
             print(&quot;이름: &quot; + student_ITT['student_name'])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;&quot; 어떤 조건으로 조회하시겠습니까?
-    1)학생ID 2)이름 3)나이 4)주소 5)과거수강횟수 6)현재강의를 수강하는 학생 7)현재강의명 8)강사명 &quot;&quot;&quot;))
-        if cheak == 2:
-            print(&quot;이름: &quot; + student_ITT['student_name'])</text>
+        <text>p</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAjIGVsaWYgY29udGVudCA9PSAzOgogICAgIwogICAgIyBlbGlmIGNvbnRlbnQgPT0gNDoKICAgICMgICAgIHdpdGggb3BlbignSVRUX1N0dWRlbnQuanNvbicsJ3InLGVuY29kaW5nPSdVVEY4JylhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJlYWRhYmxlX3Jlc3VsdCA9IGpzb24uZHVtcHMoc3R1ZGVudF9JVFQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgICAgIHN0dWRlbnRfSVRULmNsZWFyKCkKICAgICMgICAgICAgICBwcmludCgitNnB9r/8wL2kt6S3IikKICAgICMgZWxzZTo=</text>
@@ -248,7 +241,7 @@ else:
         # json_big_data = json.loads(json_string)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>p</text>
       </register>
     </registers>
     <search>
