@@ -66,10 +66,10 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516591442703">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516595417134">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
@@ -166,33 +166,7 @@ except:
         print(&quot;Test&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import json
-import os
-
-result = []
-input_result = {
-                'mykey':'my_value',
-                'MyKey': 'My_value'}
-result.append(input_result)
-
-while 1:
-    a = int(input(&quot;찾고싶은게? 1)이름 2)아이디&quot;))
-    if a == 1:
-        print(&quot;이름 : &quot; + input_result['MyKey'])
-    else:
-        break
-
-try:
-    os.path.isfile('test.json')
-    with open('test.json','a',encoding='UTF8') as outfile:
-        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(readable_result)
-        print('Test')
-except:
-    with open('test.json','w',encoding='UTF8') as outfile:
-        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(readable_result)
-        print(&quot;Test&quot;)</text>
+        <text>r</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
@@ -270,7 +244,7 @@ print(student_ITT[0]['student_id'])</text>
         return name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3R1ZGVudF9JVFQg</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
