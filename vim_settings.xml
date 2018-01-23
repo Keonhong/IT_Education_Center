@@ -93,10 +93,10 @@
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516599051367">
         <mark key="[" line="1" column="2" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516677143660">
-        <mark key="[" line="67" column="12" />
-        <mark key="]" line="67" column="12" />
-        <mark key="." line="67" column="12" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516681908086">
+        <mark key="[" line="85" column="11" />
+        <mark key="]" line="85" column="11" />
+        <mark key="." line="85" column="11" />
         <mark key="^" line="67" column="12" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
@@ -139,31 +139,34 @@
         <text encoding="base64">cHJpbnQoIrCtwMfE2rXlIDogIisgc3R1ZGVudF9JVFRbMF1bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bJ2NvdXJzZV9jb2RlJ10pCg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
+      </register>
+      <register name="2" type="4">
         <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['course_name'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['teacher'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['start_date'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Zm9yIGluZGV4IGluIHJhbmdlKDEsMTEpOgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>&quot;&quot;&quot; 어떤 조건으로 조회하시겠습니까?
     1)학생ID 2)이름 3)나이 4)주소 5)과거수강횟수 6)현재강의를 수강하는 학생 7)현재강의명 8)강사명 &quot;&quot;&quot;))
         if cheak == 2:
             print(&quot;이름: &quot; + student_ITT['student_name'])</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAjIGVsaWYgY29udGVudCA9PSAzOgogICAgIwogICAgIyBlbGlmIGNvbnRlbnQgPT0gNDoKICAgICMgICAgIHdpdGggb3BlbignSVRUX1N0dWRlbnQuanNvbicsJ3InLGVuY29kaW5nPSdVVEY4JylhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJlYWRhYmxlX3Jlc3VsdCA9IGpzb24uZHVtcHMoc3R1ZGVudF9JVFQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgICAgIHN0dWRlbnRfSVRULmNsZWFyKCkKICAgICMgICAgICAgICBwcmludCgitNnB9r/8wL2kt6S3IikKICAgICMgZWxzZTo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgoKd2hpbGUgMToKICAgIHByaW50KCIgICAgPDwganNvbg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>import json
 
 my_data =[
@@ -184,7 +187,7 @@ with open('test.json', 'w', encoding='UTF8') as outfile:
     readable_result = json.dumps(my_data, indent=4, sort_keys=True, ensure_ascii=False)
     outfile.write(readable_result)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>import json
 import os
 
@@ -213,11 +216,8 @@ except:
         outfile.write(readable_result)
         print(&quot;Test&quot;)</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CmlmIG9zLnBhdGguaXNmaWxlKCdJVFRfU3R1ZGVudC5qc29uJyk6CiAgICB3aXRoIG9wZW4oJ0lUVF9TdHVkZW50Lmpzb24nLCd3JyxlbmNvZGluZz0nVVRGOCcpIGFzIG91dGZpbGU6CiAgICAgICAgcmVhZGFibGVfcmVzdWx0ID0ganNvbi5kdW1wcyhzdHVkZW50X0lUVCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgb3V0ZmlsZS53cml0ZShyZWFkYWJsZV9yZXN1bHQpCiAgICAgICAgcHJpbnQoJ0lUVF9TdHVkZW50Lmpzb24gU0FWRUQnKQplbHNlOg==</text>
+        <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
