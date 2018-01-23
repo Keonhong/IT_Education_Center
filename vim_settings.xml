@@ -67,11 +67,11 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516673978438">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="69" column="4" />
-        <mark key="." line="69" column="4" />
-        <mark key="^" line="60" column="17" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516675409879">
+        <mark key="[" line="58" column="6" />
+        <mark key="]" line="58" column="3" />
+        <mark key="^" line="58" column="3" />
+        <mark key="." line="58" column="3" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
@@ -93,10 +93,11 @@
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516599051367">
         <mark key="[" line="1" column="2" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516670442730">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="64" column="26" />
-        <mark key="." line="64" column="26" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516675920875">
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="12" />
+        <mark key="." line="67" column="12" />
+        <mark key="^" line="67" column="12" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
         <mark key="[" line="43" column="49" />
@@ -145,11 +146,7 @@
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
       </register>
       <register name="&quot;" type="4">
-        <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['course_name'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['teacher'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['start_date'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
+        <text>)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Zm9yIGluZGV4IGluIHJhbmdlKDEsMTEpOgo=</text>
@@ -223,7 +220,7 @@ except:
         <text encoding="base64">CmlmIG9zLnBhdGguaXNmaWxlKCdJVFRfU3R1ZGVudC5qc29uJyk6CiAgICB3aXRoIG9wZW4oJ0lUVF9TdHVkZW50Lmpzb24nLCd3JyxlbmNvZGluZz0nVVRGOCcpIGFzIG91dGZpbGU6CiAgICAgICAgcmVhZGFibGVfcmVzdWx0ID0ganNvbi5kdW1wcyhzdHVkZW50X0lUVCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgb3V0ZmlsZS53cml0ZShyZWFkYWJsZV9yZXN1bHQpCiAgICAgICAgcHJpbnQoJ0lUVF9TdHVkZW50Lmpzb24gU0FWRUQnKQplbHNlOg==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
