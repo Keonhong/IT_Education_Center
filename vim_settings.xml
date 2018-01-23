@@ -54,9 +54,7 @@
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile2.py" timestamp="1516672175999">
-        <mark key="[" line="10" column="20" />
-      </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile2.py" timestamp="1516672298957" />
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,11 +67,17 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516673978438">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="69" column="4" />
+        <mark key="." line="69" column="4" />
+        <mark key="^" line="60" column="17" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516258874502">
-        <mark key="[" line="23" column="15" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516672263110">
+        <mark key="[" line="12" column="15" />
         <mark key="]" line="23" column="15" />
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="15" />
@@ -134,21 +138,35 @@
         <text encoding="base64">cHJpbnQoIrCtwMfE2rXlIDogIisgc3R1ZGVudF9JVFRbMF1bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bJ2NvdXJzZV9jb2RlJ10pCg==</text>
       </register>
       <register name="1" type="4">
+        <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['course_name'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['teacher'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['start_date'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['course_name'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['teacher'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['start_date'])
+    print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zm9yIGluZGV4IGluIHJhbmdlKDEsMTEpOgo=</text>
+      </register>
+      <register name="3" type="4">
         <text>&quot;&quot;&quot; 어떤 조건으로 조회하시겠습니까?
     1)학생ID 2)이름 3)나이 4)주소 5)과거수강횟수 6)현재강의를 수강하는 학생 7)현재강의명 8)강사명 &quot;&quot;&quot;))
         if cheak == 2:
             print(&quot;이름: &quot; + student_ITT['student_name'])</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgWydhYSdd</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAjIGVsaWYgY29udGVudCA9PSAzOgogICAgIwogICAgIyBlbGlmIGNvbnRlbnQgPT0gNDoKICAgICMgICAgIHdpdGggb3BlbignSVRUX1N0dWRlbnQuanNvbicsJ3InLGVuY29kaW5nPSdVVEY4JylhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJlYWRhYmxlX3Jlc3VsdCA9IGpzb24uZHVtcHMoc3R1ZGVudF9JVFQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgICAgIHN0dWRlbnRfSVRULmNsZWFyKCkKICAgICMgICAgICAgICBwcmludCgitNnB9r/8wL2kt6S3IikKICAgICMgZWxzZTo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgoKd2hpbGUgMToKICAgIHByaW50KCIgICAgPDwganNvbg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>import json
 
 my_data =[
@@ -169,7 +187,7 @@ with open('test.json', 'w', encoding='UTF8') as outfile:
     readable_result = json.dumps(my_data, indent=4, sort_keys=True, ensure_ascii=False)
     outfile.write(readable_result)</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>import json
 import os
 
@@ -198,47 +216,14 @@ except:
         outfile.write(readable_result)
         print(&quot;Test&quot;)</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmlmIG9zLnBhdGguaXNmaWxlKCdJVFRfU3R1ZGVudC5qc29uJyk6CiAgICB3aXRoIG9wZW4oJ0lUVF9TdHVkZW50Lmpzb24nLCd3JyxlbmNvZGluZz0nVVRGOCcpIGFzIG91dGZpbGU6CiAgICAgICAgcmVhZGFibGVfcmVzdWx0ID0ganNvbi5kdW1wcyhzdHVkZW50X0lUVCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgb3V0ZmlsZS53cml0ZShyZWFkYWJsZV9yZXN1bHQpCiAgICAgICAgcHJpbnQoJ0lUVF9TdHVkZW50Lmpzb24gU0FWRUQnKQplbHNlOg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if os.path.isfile('ITT_Student.json'):
-    with open('ITT_Student.json', encoding='UTF8') as json_file:
-        json_object = json.load(json_file)
-        json_string = json.dumps(json_object)
-        json_big_data = json.loads(json_string)
-else:
-    ITT = int(input(&quot;&quot;&quot; 경로에 파일이 없습니다. 어떻게 하시겠습니까?
-1. 경로를 입력합니다. 2. 기본 경로로 생성하겠습니다.
-메뉴를 선택하세요: &quot;&quot;&quot;))
-    if ITT == 1:
-        load = input(&quot;경로를 입력하세요: &quot;)
-        delimiter = &quot;\\&quot;
-        try:
-            with open(load+delimiter+'ITT_Student.json', encoding='UTF8') as json_file:
-                json_object = json.load(json_file)
-                json_string = json.dumps(json_object)
-                json_big_data = json.loads(json_string)
-        except:
-            print(&quot;경로를 잘못입력하였습니다.&quot;)
-    elif ITT == 2:
-        with open('ITT_Student.json','w',encoding='UTF8') as outfile:
-            readable_result = json.dumps(,indent=4, sort_keys=True, ensure_ascii=False)
-            outfile.write(readable_result)
-            print('ITT_Student.json SAVED')</text>
-      </register>
-      <register name="9" type="4">
-        <text>if os.path.isfile('ITT_Student.json'):
-    with open('ITT_Student.json', encoding='UTF8') as json_file:pass
-        # json_object = json.load(json_file)
-        # json_string = json.dumps(json_object)
-        # json_big_data = json.loads(json_string)</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgWydhYSdd</text>
+        <text>+</text>
       </register>
     </registers>
     <search>
