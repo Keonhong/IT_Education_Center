@@ -142,7 +142,7 @@
         <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="2" type="4">
         <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
@@ -220,7 +220,7 @@ except:
         <text encoding="base64">ICMgSWRfY2hlYWsgPSBpbnB1dCgpCgogICAgICAgICAgICAgICAgSURfcG9wID0gc3R1ZGVudF9JVFQucG9wKCkKICAgICAgICAgICAgICAgIHByaW50KElEX3BvcCk=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
     </registers>
     <search>
