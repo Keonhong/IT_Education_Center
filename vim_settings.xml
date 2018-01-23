@@ -37,11 +37,11 @@
         <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="D:/python_workspace/.idea/Test/data_save_test/김건홍_빅데이터_코딩테스트py.py" timestamp="1516686493524">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="61" column="4" />
+      <file name="D:/python_workspace/.idea/Test/data_save_test/김건홍_빅데이터_코딩테스트py.py" timestamp="1516688823072">
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="17" />
+        <mark key="." line="58" column="17" />
+        <mark key="^" line="71" column="22" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/ver2T.py" timestamp="1515630688655">
         <mark key="[" line="8" column="22" />
@@ -73,7 +73,6 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/.idea/Test/data_save_test/ITT_Studnet.json" timestamp="1516686922274" />
       <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516675409879">
         <mark key="[" line="58" column="6" />
         <mark key="]" line="58" column="3" />
@@ -143,53 +142,50 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoIrCtwMfE2rXlIDogIisgc3R1ZGVudF9JVFRbMF1bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bJ2NvdXJzZV9jb2RlJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCLH0Lv9IElEOiAiICtkaWN0X3N0dWRlbnRbJ3N0dWRlbnRfSUQnXSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>open('ITT_Studnet.json','w',encoding='UTF8') as outfile:
-            readable_result = json.dumps(Student_ITT, indent= 4, sort_keys=True, ensure_ascii= False)
-            outlife.write(readable_result)
-            print(&quot;ITT_Student.json SAVED&quot;)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGRpY3Rfc3R1ZGVudF9pbmZvIGluIHN0dWRlbnRfSVRUOgo=</text>
       </register>
       <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>open('ITT_Studnet.json','w',encoding='UTF8') as outfile:
             readable_result = json.dumps(Student_ITT, indent= 4, sort_keys=True, ensure_ascii= False)
             outlife.write(readable_result)
             print(&quot;ITT_Student.json SAVED&quot;)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICBpZiBwbHVzID09IDE6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgIAogICAgICAgICAgICBlbGlmIHBsdXMgPT0gMjo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['course_name'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['teacher'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['start_date'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Zm9yIGluZGV4IGluIHJhbmdlKDEsMTEpOgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>&quot;&quot;&quot; 어떤 조건으로 조회하시겠습니까?
     1)학생ID 2)이름 3)나이 4)주소 5)과거수강횟수 6)현재강의를 수강하는 학생 7)현재강의명 8)강사명 &quot;&quot;&quot;))
         if cheak == 2:
             print(&quot;이름: &quot; + student_ITT['student_name'])</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAjIGVsaWYgY29udGVudCA9PSAzOgogICAgIwogICAgIyBlbGlmIGNvbnRlbnQgPT0gNDoKICAgICMgICAgIHdpdGggb3BlbignSVRUX1N0dWRlbnQuanNvbicsJ3InLGVuY29kaW5nPSdVVEY4JylhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJlYWRhYmxlX3Jlc3VsdCA9IGpzb24uZHVtcHMoc3R1ZGVudF9JVFQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgICAgIHN0dWRlbnRfSVRULmNsZWFyKCkKICAgICMgICAgICAgICBwcmludCgitNnB9r/8wL2kt6S3IikKICAgICMgZWxzZTo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgoKd2hpbGUgMToKICAgIHByaW50KCIgICAgPDwganNvbg==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">PDw8ICAgIGpzb26x4rndIMHWvNK3zyCw/LiuIMfBt86x17elICAgID4+Pg==</text>
+        <text />
       </register>
     </registers>
     <search>
