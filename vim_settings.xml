@@ -37,8 +37,11 @@
         <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="D:/python_workspace/.idea/Test/data_save_test/김건홍_빅데이터_코딩테스트py.py" timestamp="1516684223678">
-        <mark key="[" line="9" column="4" />
+      <file name="D:/python_workspace/.idea/Test/data_save_test/김건홍_빅데이터_코딩테스트py.py" timestamp="1516686493524">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="61" column="4" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/ver2T.py" timestamp="1515630688655">
         <mark key="[" line="8" column="22" />
@@ -70,6 +73,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/.idea/Test/data_save_test/ITT_Studnet.json" timestamp="1516686922274" />
       <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516675409879">
         <mark key="[" line="58" column="6" />
         <mark key="]" line="58" column="3" />
@@ -142,88 +146,50 @@
         <text encoding="base64">cHJpbnQoIrCtwMfE2rXlIDogIisgc3R1ZGVudF9JVFRbMF1bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bJ2NvdXJzZV9jb2RlJ10pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoK</text>
+        <text>open('ITT_Studnet.json','w',encoding='UTF8') as outfile:
+            readable_result = json.dumps(Student_ITT, indent= 4, sort_keys=True, ensure_ascii= False)
+            outlife.write(readable_result)
+            print(&quot;ITT_Student.json SAVED&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoK</text>
+        <text>open('ITT_Studnet.json','w',encoding='UTF8') as outfile:
+            readable_result = json.dumps(Student_ITT, indent= 4, sort_keys=True, ensure_ascii= False)
+            outlife.write(readable_result)
+            print(&quot;ITT_Student.json SAVED&quot;)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
+        <text encoding="base64">ICBpZiBwbHVzID09IDE6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgIAogICAgICAgICAgICBlbGlmIHBsdXMgPT0gMjo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
+      </register>
+      <register name="5" type="4">
         <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['course_name'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['teacher'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['start_date'])
     print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Zm9yIGluZGV4IGluIHJhbmdlKDEsMTEpOgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>&quot;&quot;&quot; 어떤 조건으로 조회하시겠습니까?
     1)학생ID 2)이름 3)나이 4)주소 5)과거수강횟수 6)현재강의를 수강하는 학생 7)현재강의명 8)강사명 &quot;&quot;&quot;))
         if cheak == 2:
             print(&quot;이름: &quot; + student_ITT['student_name'])</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAjIGVsaWYgY29udGVudCA9PSAzOgogICAgIwogICAgIyBlbGlmIGNvbnRlbnQgPT0gNDoKICAgICMgICAgIHdpdGggb3BlbignSVRUX1N0dWRlbnQuanNvbicsJ3InLGVuY29kaW5nPSdVVEY4JylhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJlYWRhYmxlX3Jlc3VsdCA9IGpzb24uZHVtcHMoc3R1ZGVudF9JVFQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgICAgIHN0dWRlbnRfSVRULmNsZWFyKCkKICAgICMgICAgICAgICBwcmludCgitNnB9r/8wL2kt6S3IikKICAgICMgZWxzZTo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgoKd2hpbGUgMToKICAgIHByaW50KCIgICAgPDwganNvbg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import json
-
-my_data =[
-    {
-        'key1':input(&quot;key1의 값을 입력하세요: &quot;)
-    }
-]
-# 9~14라인 사이에 1줄만 추가하면 되요.
-try:
-    with open('test.json', encoding='UTF8') as json_file:
-        json_object = json.load(json_file)
-        json_string = json.dumps(json_object)
-        json_big_data = json.loads(json_string)
-except: pass
-
-# 아래 코드를 절대로 바꾸지 말것
-with open('test.json', 'w', encoding='UTF8') as outfile:
-    readable_result = json.dumps(my_data, indent=4, sort_keys=True, ensure_ascii=False)
-    outfile.write(readable_result)</text>
-      </register>
-      <register name="9" type="4">
-        <text>import json
-import os
-
-result = []
-input_result = {
-                'mykey':'my_value',
-                'MyKey': 'My_value'}
-result.append(input_result)
-
-while 1:
-    a = int(input(&quot;찾고싶은게? 1)이름 2)아이디&quot;))
-    if a == 1:
-        print(&quot;이름 : &quot; + input_result['MyKey'])
-    else:
-        break
-
-try:
-    os.path.isfile('test.json')
-    with open('test.json','a',encoding='UTF8') as outfile:
-        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(readable_result)
-        print('Test')
-except:
-    with open('test.json','w',encoding='UTF8') as outfile:
-        readable_result = json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(readable_result)
-        print(&quot;Test&quot;)</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">PDw8ICAgIGpzb26x4rndIMHWvNK3zyCw/LiuIMfBt86x17elICAgID4+Pg==</text>
       </register>
     </registers>
     <search>
