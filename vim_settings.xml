@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1516692016551">
+      <file name="/Python Console" timestamp="1516788033162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -23,7 +23,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/빅데이터 저장 평가과제.txt" timestamp="1515724921653">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/constant.py" timestamp="1516784035821">
+      <file name="D:/python_workspace/Jumptopy/보충수업/constant.py" timestamp="1516787147635">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="3" />
         <mark key="^" line="1" column="3" />
@@ -85,7 +85,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/Operator.py" timestamp="1516785587001">
+      <file name="D:/python_workspace/Jumptopy/보충수업/Operator.py" timestamp="1516786341586">
         <mark key="[" line="3" column="13" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516692800059">
@@ -123,6 +123,12 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="43" column="33" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1516788125458">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/기본코드_for_네이버실시간영화랭킹.py" timestamp="1515731610819">
         <mark key="[" line="11" column="53" />
         <mark key="]" line="11" column="53" />
@@ -156,42 +162,46 @@
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoJyJIZWxsbyBXb3JsZC4iIGhlIHNhaWQsJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>a = int(input(&quot;첫번째 값을 입력하세요: &quot;))
+b = int(input(&quot;두번째 값을 입력하세요: &quot;))</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoJyJIZWxsbyBXb3JsZC4iIGhlIHNhaWQsJykK</text>
+      <register name="&quot;" type="4">
+        <text>a = int(input(&quot;첫번째 값을 입력하세요: &quot;))
+b = int(input(&quot;두번째 값을 입력하세요: &quot;))</text>
       </register>
       <register name="2" type="4">
+        <text>while 1:
+    choice = int(input(&quot;&quot;&quot;메뉴를 선택하세요.
+1. 덧셈 2. 뺄셈 3.종료&quot;&quot;&quot;))
+    if choice == 1:</text>
+      </register>
+      <register name="3" type="4">
+        <text>a = int(input(&quot;첫번째 값을 입력하세요: &quot;))
+    b = int(input(&quot;두번째 값을 입력하세요: &quot;))
+    result = a + b
+    print(&quot;result: &quot;,result)</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgYnJlYWs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGRpY3Rfc3R1ZGVudF9pbmZvIGluIHN0dWRlbnRfSVRUOgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>open('ITT_Studnet.json','w',encoding='UTF8') as outfile:
             readable_result = json.dumps(Student_ITT, indent= 4, sort_keys=True, ensure_ascii= False)
             outlife.write(readable_result)
             print(&quot;ITT_Student.json SAVED&quot;)</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBpZiBwbHVzID09IDE6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgIAogICAgICAgICAgICBlbGlmIHBsdXMgPT0gMjo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGJyZWFrCiAgICAgICAgICAgIGJyZWFr</text>
-      </register>
-      <register name="8" type="4">
-        <text>print(&quot;강의코드 : &quot;+ i['total_course_info']['course_code'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['course_name'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['teacher'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['start_date'])
-    print(&quot;강의코드 : &quot;+ i['learning_course_info']['finish_date'])</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Zm9yIGluZGV4IGluIHJhbmdlKDEsMTEpOgo=</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
