@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/python_workspace/Jumptopy/BigData/jtbcnews_facebook_2018-01-24_2018-01-25.json" timestamp="1516848223654" />
-      <file name="/Python Console" timestamp="1516788033162">
+      <file name="D:/python_workspace/Jumptopy/BigData/jtbcnews_facebook_2018-01-24_2018-01-25.json" timestamp="1516850305477" />
+      <file name="/Python Console" timestamp="1516848645557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -128,6 +128,7 @@
       <file name="D:/python_workspace/Test/김건홍_nene_ver4.py" timestamp="1515739195154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/facebook_news_get_info.py" timestamp="1516850184294" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515717761189">
         <mark key="[" line="7" column="23" />
       </file>
@@ -149,43 +150,43 @@
         <text encoding="base64">cHJpbnQoJyJIZWxsbyBXb3JsZC4iIGhlIHNhaWQsJykK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIHByaW50KCKwrbvnuO0gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3RlYWNoZXInXSkKICAgIHByaW50KCKws7CtwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3N0YXJ0X2RhdGUnXSkKICAgIHByaW50KCLBvrfhwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10p</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoIr7GwMy18CA6ICIrZGF0YV9pbmZvWydzdHVkZW50X2lkJ10pCiAgICAjIHByaW50KCLIvbz2IDogIisgZGF0YV9pbmZvWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSk=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIHByaW50KCKwrbvnuO0gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3RlYWNoZXInXSkKICAgIHByaW50KCKws7CtwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3N0YXJ0X2RhdGUnXSkKICAgIHByaW50KCLBvrfhwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10p</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoIr7GwMy18CA6ICIrZGF0YV9pbmZvWydzdHVkZW50X2lkJ10pCiAgICAjIHByaW50KCLIvbz2IDogIisgZGF0YV9pbmZvWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSk=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHByaW50KCLAzLinIDogIisgc3R1ZGVudF9kaWN0WydzdHVkZW50X25hbWUnXSkKICAgIHByaW50KCKzqsDMIDogIisgc3R1ZGVudF9kaWN0WydzdHVkZW50X2FnZSddKQogICAgcHJpbnQoIsHWvNIgOiAiKyBzdHVkZW50X2RpY3RbJ3N0dWRlbnRfYWRkcmVzcyddKQ==</text>
+        <text encoding="base64">IHByaW50KCI9IiAqNTApCg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgIHByaW50KCKwrbvnuO0gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3RlYWNoZXInXSkKICAgIHByaW50KCKws7CtwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3N0YXJ0X2RhdGUnXSkKICAgIHByaW50KCLBvrfhwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10p</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHByaW50KCLAzLinIDogIisgc3R1ZGVudF9kaWN0WydzdHVkZW50X25hbWUnXSkKICAgIHByaW50KCKzqsDMIDogIisgc3R1ZGVudF9kaWN0WydzdHVkZW50X2FnZSddKQogICAgcHJpbnQoIsHWvNIgOiAiKyBzdHVkZW50X2RpY3RbJ3N0dWRlbnRfYWRkcmVzcyddKQ==</text>
+      </register>
+      <register name="5" type="4">
         <text># data = []
 
 print(getattr('comments'))</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">d2l0aCBvcGVuKCdqdGJjbmV3c19mYWNlYm9va18yMDE4LTAxLTI0XzEwMTgtMDEtMjUuanNvbicsIGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>a = int(input(&quot;첫번째 값을 입력하세요: &quot;))
 b = int(input(&quot;두번째 값을 입력하세요: &quot;))</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>while 1:
     choice = int(input(&quot;&quot;&quot;메뉴를 선택하세요.
 1. 덧셈 2. 뺄셈 3.종료&quot;&quot;&quot;))
     if choice == 1:</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>a = int(input(&quot;첫번째 값을 입력하세요: &quot;))
     b = int(input(&quot;두번째 값을 입력하세요: &quot;))
     result = a + b
     print(&quot;result: &quot;,result)</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgYnJlYWs=</text>
       </register>
       <register name="-" type="4">
         <text>data[0]</text>
