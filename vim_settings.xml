@@ -4,34 +4,17 @@
     <globalmarks />
     <filemarks>
       <file name="D:/python_workspace/Jumptopy/BigData/jtbcnews_facebook_2018-01-24_2018-01-25.json" timestamp="1516855608082" />
-      <file name="/Python Console" timestamp="1516848645557">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
         <mark key="[" line="2" column="47" />
       </file>
-      <file name="/fragment.py" timestamp="1516591339393">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1516846715271">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/빅데이터 저장 평가과제.txt" timestamp="1515724921653">
-        <mark key="[" line="2" column="63" />
       </file>
       <file name="D:/python_workspace/Jumptopy/보충수업/constant.py" timestamp="1516787147635">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="3" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/ITT_sample.py" timestamp="1516150791095">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/facebook_get_newsfile_json.py" timestamp="1516856033112">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_naver_realtime_movie_ranking.py" timestamp="1515738933487">
         <mark key="[" line="19" column="7" />
@@ -45,6 +28,71 @@
         <mark key="." line="58" column="17" />
         <mark key="^" line="71" column="22" />
       </file>
+      <file name="D:/python_workspace/Test/기본코드_for__nene치킨시험문제.py" timestamp="1515734691498">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/json_get_info.py" timestamp="1516846558265">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516692800059">
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="58" column="3" />
+        <mark key="^" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516672263110">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="15" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
+        <mark key="[" line="7" column="88" />
+      </file>
+      <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
+        <mark key="[" line="43" column="49" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+        <mark key="^" line="43" column="33" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/facebook1.py" timestamp="1516846653494">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1516788125458">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515717761189">
+        <mark key="[" line="7" column="23" />
+      </file>
+      <file name="/Python Console" timestamp="1516848645557">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1516591339393">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML/빅데이터 저장 평가과제.txt" timestamp="1515724921653">
+        <mark key="[" line="2" column="63" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/ITT_sample.py" timestamp="1516150791095">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/facebook_get_newsfile_json.py" timestamp="1516856047937">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Codding_Test/디버깅.py" timestamp="1516856111736" />
       <file name="D:/python_workspace/Jumptopy/Codding_Test/Multioples of 3 and 5.py" timestamp="1516855134983">
         <mark key="[" line="0" column="4" />
       </file>
@@ -66,84 +114,34 @@
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Test/기본코드_for__nene치킨시험문제.py" timestamp="1515734691498">
-        <mark key="[" line="2" column="0" />
-      </file>
+      <file name="D:/python_workspace/Jumptopy/Codding_Test/구구단출력.py" timestamp="1516856092181" />
       <file name="D:/python_workspace/Jumptopy/Codding_Test/name_massage.py" timestamp="1516855572471">
         <mark key="[" line="14" column="89" />
         <mark key="]" line="14" column="89" />
         <mark key="." line="14" column="89" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/json_get_info.py" timestamp="1516846558265">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/string.py" timestamp="1516785209853">
-        <mark key="y" line="0" column="0" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/보충수업/Operator.py" timestamp="1516786341586">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516692800059">
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="58" column="3" />
-        <mark key="^" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-      </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516672263110">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="15" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
-        <mark key="[" line="7" column="88" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516848397534">
         <mark key="[" line="1" column="2" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/naver_search.py" timestamp="1516860188303">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516848111310">
         <mark key="^" line="67" column="12" />
-      </file>
-      <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
-        <mark key="[" line="43" column="49" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/facebook1.py" timestamp="1516846653494">
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1516788125458">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver4.py" timestamp="1515739195154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/facebook_news_get_info.py" timestamp="1516853557902" />
-      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515717761189">
-        <mark key="[" line="7" column="23" />
-      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/facebook_news_get_info.py" timestamp="1516856139231" />
       <file name="D:/python_workspace/Test/기본코드_for_네이버실시간영화랭킹.py" timestamp="1515736718312">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="23" />
