@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1516868207612">
+      <file name="/Python Console" timestamp="1516873948341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
         <mark key="[" line="2" column="47" />
       </file>
-      <file name="/fragment.py" timestamp="1516591339393">
+      <file name="/fragment.py" timestamp="1516873986626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1516846715271">
@@ -103,17 +103,22 @@
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/test.py" timestamp="1516873415195">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
         <mark key="[" line="7" column="88" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516848397534">
         <mark key="[" line="1" column="2" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/naver_search.py" timestamp="1516868238962">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="54" column="23" />
+      <file name="D:/python_workspace/Jumptopy/BigData/naver_search.py" timestamp="1516927229141">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="8" />
+        <mark key="." line="57" column="8" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1516848111310">
         <mark key="^" line="67" column="12" />
@@ -129,11 +134,15 @@
         <mark key="]" line="33" column="17" />
         <mark key="." line="33" column="17" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1516788125458">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
+      <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516926738543">
+        <mark key="[" line="1" column="4" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1516875445047">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver4.py" timestamp="1515739195154">
         <mark key="[" line="0" column="0" />
@@ -153,45 +162,44 @@
       <jump line="4" column="71" filename="D:/python_workspace/Jumptopy/Python_XML/V2_Bigdata/Test.py" />
       <jump line="1" column="39" filename="D:/python_workspace/Jumptopy/Data_science/CSV_test.py" />
       <jump line="54" column="39" filename="D:/python_workspace/Jumptopy/Data_science/Data_design.py" />
+      <jump line="12" column="28" filename="D:/python_workspace/Jumptopy/보충수업/example.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoJyJIZWxsbyBXb3JsZC4iIGhlIHNhaWQsJykK</text>
+        <text encoding="base64">ICAgIGlmIGNob2ljZSA8IDU6Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHJpbnQoanNvblNlYXJjaFswXSkKICAgIGpzb25TZWFyY2hbJ2Rlc2NyaXB0aW9uJ10ucmVwbGFjZSgiJnF1b3Q7IiwiXFwiKQogICAganNvblNlYXJjaFsnZGVzY3JpcHRpb24nXS5yZXBsYWNlKCImbHQ7IiwiPCIpCiAgICBqc29uU2VhcmNoWydkZXNjcmlwdGlvbiddLnJlcGxhY2UoIiZndDsiLCI+Iik=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCB1cmxsaWIucmVxdWVzdAoKdGV4dCA9IHUnPDA6MTAtMS81NjYjNy8xNS8yPz4nCnBhcnNlID0gcmUuc3ViKCdbLT0uIy8/OiR9PD5dJywgJycsIHRleHQpCnByaW50KHBhcnNlKQoKYXBwX2lkID0gIjNlQ0p3UFNJRzE0SzYycmdRU1FsIgphcHBfcHcgPSAiNU9qT2Z0X3R4bSIKCmRlZiBnZXRfcmVxdWVzdF91cmwodXJsKToKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsKQogICAgcmVxLmFkZF9oZWFkZXIoIlgtTmF2ZXItQ2xpZW50LUlEIixhcHBfaWQpCiAgICByZXEuYWRkX2hlYWRlcigiWC1OYXZlci1DbGllbnQtU2VjcmV0IixhcHBfcHcpCgpkZWYgZ2V0TmF2ZXJTZWFyY2hSZXN1bHQoc05vZGUsc2VhcmNoX3RleHQscGFnZV9zdGFydCxkaXNwbGF5KToKICAgIGJhc2UgPSAiaHR0cHM6Ly9vcGVuYXBpLm5hdmVyLmNvbS92MS9zZWFyY2giCiAgICBub2RlID0gIi8lcy5qc29uIiVzTm9kZQogICAgcGFyYW1ldGVycyA9ICI/cXVlcnk9JXMmc3RhcnQ9JXMmZGlzcGxheT0lcyIlKHVybGxpYi5wYXJzZS5xdW90ZShzZWFyY2hfdGV4dCkscGFnZV9zdGFydCxkaXNwbGF5KQogICAgdXJsID0gYmFzZStub2RlK3BhcmFtZXRlcnMKICAgIHJldERhdGEgPSBnZXRfcmVxdWVzdF91cmwodXJsKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIGNob2ljZSA8IDU6CiAgICAgICAgYSA9IGludChpbnB1dCgiw7m5+MKwILCqwLsgwNS3wsfPvLy/5DogIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2RhZGRhc2Rhc2Rhc2Rhc2RkYXNkc2FkYXNkYXNkYXNkYXNkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICMgcHJpbnQoIr7GwMy18CA6ICIrZGF0YV9pbmZvWydzdHVkZW50X2lkJ10pCiAgICAjIHByaW50KCLIvbz2IDogIisgZGF0YV9pbmZvWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSk=</text>
+        <text encoding="base64">IGEgPSBpbnQoaW5wdXQoIsO5ufjCsCCwqsC7IMDUt8LHz7y8v+Q6ICIpKQogICAgICAgIGIgPSBpbnQoaW5wdXQoIrXOufjCsCCwqsC7IMDUt8LHz7y8v+Q6ICIpKQ==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHByaW50KCI9IiAqNTApCg==</text>
+        <text encoding="base64">cHJpbnQoanNvblNlYXJjaFswXSkKICAgIGpzb25TZWFyY2hbJ2Rlc2NyaXB0aW9uJ10ucmVwbGFjZSgiJnF1b3Q7IiwiXFwiKQogICAganNvblNlYXJjaFsnZGVzY3JpcHRpb24nXS5yZXBsYWNlKCImbHQ7IiwiPCIpCiAgICBqc29uU2VhcmNoWydkZXNjcmlwdGlvbiddLnJlcGxhY2UoIiZndDsiLCI+Iik=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgIHByaW50KCKwrbvnuO0gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3RlYWNoZXInXSkKICAgIHByaW50KCKws7CtwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ3N0YXJ0X2RhdGUnXSkKICAgIHByaW50KCLBvrfhwM8gOiAiKyBzdHVkZW50X2RpY3RbJ3RvdGFsX2NvdXJzZV9pbmZvJ11bJ2xlYXJuaW5nX2NvdXJzZV9pbmZvJ11bMF1bJ2ZpbmlzaF9kYXRlJ10p</text>
+        <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCB1cmxsaWIucmVxdWVzdAoKdGV4dCA9IHUnPDA6MTAtMS81NjYjNy8xNS8yPz4nCnBhcnNlID0gcmUuc3ViKCdbLT0uIy8/OiR9PD5dJywgJycsIHRleHQpCnByaW50KHBhcnNlKQoKYXBwX2lkID0gIjNlQ0p3UFNJRzE0SzYycmdRU1FsIgphcHBfcHcgPSAiNU9qT2Z0X3R4bSIKCmRlZiBnZXRfcmVxdWVzdF91cmwodXJsKToKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsKQogICAgcmVxLmFkZF9oZWFkZXIoIlgtTmF2ZXItQ2xpZW50LUlEIixhcHBfaWQpCiAgICByZXEuYWRkX2hlYWRlcigiWC1OYXZlci1DbGllbnQtU2VjcmV0IixhcHBfcHcpCgpkZWYgZ2V0TmF2ZXJTZWFyY2hSZXN1bHQoc05vZGUsc2VhcmNoX3RleHQscGFnZV9zdGFydCxkaXNwbGF5KToKICAgIGJhc2UgPSAiaHR0cHM6Ly9vcGVuYXBpLm5hdmVyLmNvbS92MS9zZWFyY2giCiAgICBub2RlID0gIi8lcy5qc29uIiVzTm9kZQogICAgcGFyYW1ldGVycyA9ICI/cXVlcnk9JXMmc3RhcnQ9JXMmZGlzcGxheT0lcyIlKHVybGxpYi5wYXJzZS5xdW90ZShzZWFyY2hfdGV4dCkscGFnZV9zdGFydCxkaXNwbGF5KQogICAgdXJsID0gYmFzZStub2RlK3BhcmFtZXRlcnMKICAgIHJldERhdGEgPSBnZXRfcmVxdWVzdF91cmwodXJsKQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHByaW50KCLAzLinIDogIisgc3R1ZGVudF9kaWN0WydzdHVkZW50X25hbWUnXSkKICAgIHByaW50KCKzqsDMIDogIisgc3R1ZGVudF9kaWN0WydzdHVkZW50X2FnZSddKQogICAgcHJpbnQoIsHWvNIgOiAiKyBzdHVkZW50X2RpY3RbJ3N0dWRlbnRfYWRkcmVzcyddKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">I2RhZGRhc2Rhc2Rhc2Rhc2RkYXNkc2FkYXNkYXNkYXNkYXNkCg==</text>
       </register>
       <register name="8" type="4">
-        <text># data = []
-
-print(getattr('comments'))</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoIr7GwMy18CA6ICIrZGF0YV9pbmZvWydzdHVkZW50X2lkJ10pCiAgICAjIHByaW50KCLIvbz2IDogIisgZGF0YV9pbmZvWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSk=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCdqdGJjbmV3c19mYWNlYm9va18yMDE4LTAxLTI0XzEwMTgtMDEtMjUuanNvbicsIGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHByaW50KCI9IiAqNTApCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
     </registers>
     <search>
