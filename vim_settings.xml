@@ -67,6 +67,12 @@
       <file name="D:/python_workspace/Jumptopy/보충수업/example3.py" timestamp="1516788611921">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/Tour_resource.py" timestamp="1516937366476">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="5" />
+        <mark key="^" line="38" column="30" />
+        <mark key="." line="42" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,7 +177,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGNob2ljZSA8IDU6Cg==</text>
+        <text encoding="base64">ICAgIGFkZHJDZCA9IDAgaWYgJ2FkZHJDZCcgbm90IGluIGl0ZW0ua2V5cygpIGVsc2UgaXRlbVsnYWRkckNkJ10K</text>
       </register>
       <register name="1" type="4">
         <text>test = &quot;quot = \\&quot;
@@ -180,10 +186,7 @@ print(test))
 print(test.replace(&quot;quot&quot;,&quot;\\&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>test = &quot;quot = \\&quot;
-print(test))
-
-print(test.replace(&quot;quot&quot;,&quot;\\&quot;)</text>
+        <text>= 0 if 'csForCnt' not in item.keys() else item['csForCnt']</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -210,7 +213,7 @@ print(test.replace(&quot;quot&quot;,&quot;\\&quot;)</text>
         <text encoding="base64">ICAgICMgcHJpbnQoIr7GwMy18CA6ICIrZGF0YV9pbmZvWydzdHVkZW50X2lkJ10pCiAgICAjIHByaW50KCLIvbz2IDogIisgZGF0YV9pbmZvWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSk=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>= 0 if 'csForCnt' not in item.keys() else item['csForCnt']</text>
       </register>
     </registers>
     <search>
