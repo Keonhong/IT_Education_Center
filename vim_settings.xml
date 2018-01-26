@@ -73,12 +73,12 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="21" column="111" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" timestamp="1516948849158">
+      <file name="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" timestamp="1516949937523">
         <mark key="'" line="20" column="32" />
-        <mark key="[" line="5" column="112" />
-        <mark key="]" line="78" column="40" />
-        <mark key="." line="78" column="40" />
-        <mark key="^" line="78" column="40" />
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="76" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
@@ -188,41 +188,41 @@
         <text encoding="base64">ICAgIHBhZ2VObyA9IDAgaWYgJ2NzTmF0Q250JyBub3QgaW4gaXRlbS5rZXlzKCkgZWxzZSBpdGVtWydjc05hdENudCddCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cGFyYW1ldGVycys9IiZSRVNfTk09JnBhZ2VObz0iK3N0cihuUGFnZW51bSkKICAgIHBhcmFtZXRlcnMrPSImbnVtT2ZSb3dzPSIrc3RyKG5JdGVtcyk=</text>
+        <text encoding="base64">IHBhcmFtZXRlcnMrPSImbmF0S29yTm09JnBhZ2VObz0iK3N0cihuUGFnZW51bSkKICAgIHBhcmFtZXRlcnMrPSImbnVtT2ZSb3dzPSIrc3RyKG5JdGVtcyk=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>,nPagenum,nItem</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">cGFyYW1ldGVycys9IiZSRVNfTk09JnBhZ2VObz0iK3N0cihuUGFnZW51bSkKICAgIHBhcmFtZXRlcnMrPSImbnVtT2ZSb3dzPSIrc3RyKG5JdGVtcyk=</text>
+      </register>
+      <register name="3" type="4">
         <text>getPchrgTrrsrtVisitorList&quot;
     p</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>test = &quot;quot = \\&quot;
 print(test))
 
 print(test.replace(&quot;quot&quot;,&quot;\\&quot;)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGNob2ljZSA8IDU6CiAgICAgICAgYSA9IGludChpbnB1dCgiw7m5+MKwILCqwLsgwNS3wsfPvLy/5DogIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIGNob2ljZSA8IDU6CiAgICAgICAgYSA9IGludChpbnB1dCgiw7m5+MKwILCqwLsgwNS3wsfPvLy/5DogIikpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGEgPSBpbnQoaW5wdXQoIsO5ufjCsCCwqsC7IMDUt8LHz7y8v+Q6ICIpKQogICAgICAgIGIgPSBpbnQoaW5wdXQoIrXOufjCsCCwqsC7IMDUt8LHz7y8v+Q6ICIpKQ==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHJpbnQoanNvblNlYXJjaFswXSkKICAgIGpzb25TZWFyY2hbJ2Rlc2NyaXB0aW9uJ10ucmVwbGFjZSgiJnF1b3Q7IiwiXFwiKQogICAganNvblNlYXJjaFsnZGVzY3JpcHRpb24nXS5yZXBsYWNlKCImbHQ7IiwiPCIpCiAgICBqc29uU2VhcmNoWydkZXNjcmlwdGlvbiddLnJlcGxhY2UoIiZndDsiLCI+Iik=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCB1cmxsaWIucmVxdWVzdAoKdGV4dCA9IHUnPDA6MTAtMS81NjYjNy8xNS8yPz4nCnBhcnNlID0gcmUuc3ViKCdbLT0uIy8/OiR9PD5dJywgJycsIHRleHQpCnByaW50KHBhcnNlKQoKYXBwX2lkID0gIjNlQ0p3UFNJRzE0SzYycmdRU1FsIgphcHBfcHcgPSAiNU9qT2Z0X3R4bSIKCmRlZiBnZXRfcmVxdWVzdF91cmwodXJsKToKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsKQogICAgcmVxLmFkZF9oZWFkZXIoIlgtTmF2ZXItQ2xpZW50LUlEIixhcHBfaWQpCiAgICByZXEuYWRkX2hlYWRlcigiWC1OYXZlci1DbGllbnQtU2VjcmV0IixhcHBfcHcpCgpkZWYgZ2V0TmF2ZXJTZWFyY2hSZXN1bHQoc05vZGUsc2VhcmNoX3RleHQscGFnZV9zdGFydCxkaXNwbGF5KToKICAgIGJhc2UgPSAiaHR0cHM6Ly9vcGVuYXBpLm5hdmVyLmNvbS92MS9zZWFyY2giCiAgICBub2RlID0gIi8lcy5qc29uIiVzTm9kZQogICAgcGFyYW1ldGVycyA9ICI/cXVlcnk9JXMmc3RhcnQ9JXMmZGlzcGxheT0lcyIlKHVybGxpYi5wYXJzZS5xdW90ZShzZWFyY2hfdGV4dCkscGFnZV9zdGFydCxkaXNwbGF5KQogICAgdXJsID0gYmFzZStub2RlK3BhcmFtZXRlcnMKICAgIHJldERhdGEgPSBnZXRfcmVxdWVzdF91cmwodXJsKQ==</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text>,nPagenum,nItem</text>
       </register>
     </registers>
     <search>
