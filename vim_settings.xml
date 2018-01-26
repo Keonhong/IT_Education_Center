@@ -67,11 +67,17 @@
       <file name="D:/python_workspace/Jumptopy/보충수업/example3.py" timestamp="1516788611921">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/Tour_resource.py" timestamp="1516937384183">
+      <file name="D:/python_workspace/Jumptopy/BigData/Tour_resource.py" timestamp="1516942241988">
         <mark key="[" line="42" column="5" />
         <mark key="]" line="42" column="5" />
         <mark key="^" line="38" column="30" />
         <mark key="." line="42" column="5" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" timestamp="1516943304147">
+        <mark key="'" line="20" column="32" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
@@ -174,46 +180,48 @@
       <jump line="1" column="39" filename="D:/python_workspace/Jumptopy/Data_science/CSV_test.py" />
       <jump line="54" column="39" filename="D:/python_workspace/Jumptopy/Data_science/Data_design.py" />
       <jump line="12" column="28" filename="D:/python_workspace/Jumptopy/보충수업/example.py" />
+      <jump line="20" column="32" filename="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZHJDZCA9IDAgaWYgJ2FkZHJDZCcgbm90IGluIGl0ZW0ua2V5cygpIGVsc2UgaXRlbVsnYWRkckNkJ10K</text>
       </register>
       <register name="1" type="4">
+        <text>getPchrgTrrsrtVisitorList&quot;
+    p</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>openapi.tour.go.kr/openapi/service/TourismResourceStatsService/getPchrgTrrsrtVisitorList</text>
+      </register>
+      <register name="2" type="4">
         <text>test = &quot;quot = \\&quot;
 print(test))
 
 print(test.replace(&quot;quot&quot;,&quot;\\&quot;)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>= 0 if 'csForCnt' not in item.keys() else item['csForCnt']</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGNob2ljZSA8IDU6CiAgICAgICAgYSA9IGludChpbnB1dCgiw7m5+MKwILCqwLsgwNS3wsfPvLy/5DogIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIGNob2ljZSA8IDU6CiAgICAgICAgYSA9IGludChpbnB1dCgiw7m5+MKwILCqwLsgwNS3wsfPvLy/5DogIikpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGEgPSBpbnQoaW5wdXQoIsO5ufjCsCCwqsC7IMDUt8LHz7y8v+Q6ICIpKQogICAgICAgIGIgPSBpbnQoaW5wdXQoIrXOufjCsCCwqsC7IMDUt8LHz7y8v+Q6ICIpKQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cHJpbnQoanNvblNlYXJjaFswXSkKICAgIGpzb25TZWFyY2hbJ2Rlc2NyaXB0aW9uJ10ucmVwbGFjZSgiJnF1b3Q7IiwiXFwiKQogICAganNvblNlYXJjaFsnZGVzY3JpcHRpb24nXS5yZXBsYWNlKCImbHQ7IiwiPCIpCiAgICBqc29uU2VhcmNoWydkZXNjcmlwdGlvbiddLnJlcGxhY2UoIiZndDsiLCI+Iik=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCB1cmxsaWIucmVxdWVzdAoKdGV4dCA9IHUnPDA6MTAtMS81NjYjNy8xNS8yPz4nCnBhcnNlID0gcmUuc3ViKCdbLT0uIy8/OiR9PD5dJywgJycsIHRleHQpCnByaW50KHBhcnNlKQoKYXBwX2lkID0gIjNlQ0p3UFNJRzE0SzYycmdRU1FsIgphcHBfcHcgPSAiNU9qT2Z0X3R4bSIKCmRlZiBnZXRfcmVxdWVzdF91cmwodXJsKToKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsKQogICAgcmVxLmFkZF9oZWFkZXIoIlgtTmF2ZXItQ2xpZW50LUlEIixhcHBfaWQpCiAgICByZXEuYWRkX2hlYWRlcigiWC1OYXZlci1DbGllbnQtU2VjcmV0IixhcHBfcHcpCgpkZWYgZ2V0TmF2ZXJTZWFyY2hSZXN1bHQoc05vZGUsc2VhcmNoX3RleHQscGFnZV9zdGFydCxkaXNwbGF5KToKICAgIGJhc2UgPSAiaHR0cHM6Ly9vcGVuYXBpLm5hdmVyLmNvbS92MS9zZWFyY2giCiAgICBub2RlID0gIi8lcy5qc29uIiVzTm9kZQogICAgcGFyYW1ldGVycyA9ICI/cXVlcnk9JXMmc3RhcnQ9JXMmZGlzcGxheT0lcyIlKHVybGxpYi5wYXJzZS5xdW90ZShzZWFyY2hfdGV4dCkscGFnZV9zdGFydCxkaXNwbGF5KQogICAgdXJsID0gYmFzZStub2RlK3BhcmFtZXRlcnMKICAgIHJldERhdGEgPSBnZXRfcmVxdWVzdF91cmwodXJsKQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">I2RhZGRhc2Rhc2Rhc2Rhc2RkYXNkc2FkYXNkYXNkYXNkYXNkCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICMgcHJpbnQoIr7GwMy18CA6ICIrZGF0YV9pbmZvWydzdHVkZW50X2lkJ10pCiAgICAjIHByaW50KCLIvbz2IDogIisgZGF0YV9pbmZvWyd0b3RhbF9jb3Vyc2VfaW5mbyddWydudW1fb2ZfY291cnNlX2xlYXJuZWQnXSk=</text>
-      </register>
       <register name="-" type="4">
-        <text>= 0 if 'csForCnt' not in item.keys() else item['csForCnt']</text>
+        <text>openapi.tour.go.kr/openapi/service/TourismResourceStatsService/getPchrgTrrsrtVisitorList</text>
       </register>
     </registers>
     <search>
