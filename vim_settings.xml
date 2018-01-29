@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/python_workspace/Jumptopy/embeded/Newproject.py" timestamp="1517186772423">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="25" column="40" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Newproject.py" timestamp="1517187971929">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/Python Console" timestamp="1516952118669">
         <mark key="[" line="0" column="0" />
@@ -192,13 +192,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCKzrbnmseIgu/PFwjogIixlbmQ9JycpCiAgICBpZihSYWRpYXRvciA9PSBUcnVlKTogcHJpbnQoIsDbtb8iKQogICAgZWxpZihSYWRpYXRvciA9PSBGYWxzZSk6IHByaW50KCLBpMH2IikK</text>
+        <text encoding="base64">ICAgIHByaW50KCIxLiCzrbnmseIiKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmRlZiBnZXROYXZlclNlYXJjaFJlc3VsdChzTm9kZSxzZWFyY2hfdGV4dCxwYWdlX3N0YXJ0LGRpc3BsYXkpOgogICAgYmFzZSA9ICJodHRwczovL29wZW5hcGkubmF2ZXIuY29tL3YxL3NlYXJjaCIKICAgIG5vZGUgPSAiLyVzLmpzb24iJXNOb2RlCiAgICBwYXJhbWV0ZXJzID0gIj9xdWVyeT0lcyZzdGFydD0lcyZkaXNwbGF5PSVzIiUodXJsbGliLnBhcnNlLnF1b3RlKHNlYXJjaF90ZXh0KSxwYWdlX3N0YXJ0LGRpc3BsYXkpCiAgICAjIHVybCA9IGJhc2Urbm9kZStwYXJhbWV0ZXJzCiAgICAjIHJldERhdGEgPSBnZXRfcmVxdWVzdF91cmwodXJsKQ==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCKzrbnmseIgu/PFwjogIixlbmQ9JycpCiAgICBpZihSYWRpYXRvciA9PSBUcnVlKTogcHJpbnQoIsDbtb8iKQogICAgZWxpZihSYWRpYXRvciA9PSBGYWxzZSk6IHByaW50KCLBpMH2IikK</text>
+        <text encoding="base64">ICAgIHByaW50KCIxLiCzrbnmseIiKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG1hdGgK</text>
