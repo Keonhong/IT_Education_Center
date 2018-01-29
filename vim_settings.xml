@@ -21,6 +21,7 @@
       <file name="/a.dummy" timestamp="1517191472196">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1432_날씨정보" timestamp="1517203943555" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/빅데이터 저장 평가과제.txt" timestamp="1515724921653">
         <mark key="[" line="2" column="63" />
       </file>
@@ -85,7 +86,7 @@
         <mark key="]" line="43" column="11" />
         <mark key="." line="43" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" timestamp="1517202670891">
+      <file name="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" timestamp="1517203765806">
         <mark key="'" line="52" column="75" />
         <mark key="[" line="24" column="11" />
         <mark key="]" line="3" column="0" />
@@ -111,7 +112,11 @@
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517203210107" />
+      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517203914398">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,6 +179,7 @@
       <file name="D:/python_workspace/Test/김건홍_nene_ver4.py" timestamp="1515739195154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/날씨정보.json" timestamp="1517203853900" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515717761189">
         <mark key="[" line="7" column="23" />
       </file>
@@ -197,35 +203,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDE6CiAgICAgICAgcHJpbnQoIsf2wOcgwM6w+MH2tMkguPC15TogIiwgZW5kPScnKQogICAgICAgIGlmIGdfQUlfTW9kZSA9PSBUcnVlOiBwcmludCgiwNu1vyIpCiAgICAgICAgZWxzZTogcHJpbnQoIsGkwfYiKQogICAgICAgIGdfQUlfTW9kZSA9IG5vdCBnX0FJX01vZGUK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBpZihyZXREYXRhID09IE5vbmUpOiByZXR1cm4gTm9uZQogICAgZWxzZToKICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhyZXREYXRhKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAjIGRlZiBtYWluKCk6CiAgICAjICAgICBqc29uUmVzdWx0ID0gW10KICAgICMKICAgICMgICAgIGZvciB5ZWFyIGluIHJhbmdlKG5TdGFydFllYXIsbkVuZFllYXIpOgogICAgIyAgICAgICAgIGZvciBtb250aCBpbiByYW5nZSgxLDEzKToKICAgICMgICAgICAgICAgICAgeXl5eW1tID0gInswfXsxOjA+Mn0iLmZvcm1hdChzdHIoeWVhciksc3RyKG1vbnRoKSkKICAgICMgICAgIGpzb25EYXRhID0gZ2V0Rm9yZWNhc3RUaW1lRGF0YVJlc3BvbnNlKCkKICAgICMKICAgICMgICAgIGlmKGpzb25EYXRhWydyZXNwb25zZSddWydoZWFkZXInXVsncmVzdWx0TXNnJ109PSdPSycpOgogICAgIyAgICAgICAgIGtyTmFtZSA9IGpzb25EYXRhWydyZXNwb25zZSddWydib2R5J11bJ2l0ZW1zJ11bJ2l0ZW0nXVsibmF0S29yTm0iXQogICAgIyAgICAgICAgIGlUb3RhbFZpc2l0ID0ganNvbkRhdGFbJ3Jlc3BvbnNlJ11bJ2JvZHknXVsnaXRlbXMnXVsnaXRlbSddWyJudW0iXQogICAgIwogICAgIyAgICAgICAgIGpzb25SZXN1bHQuYXBwZW5kKGdldEZvcmVjYXN0VGltZURhdGFSZXNwb25zZSgpKQogICAgIwogICAgIyAgICAgd2l0aCBvcGVuKCdPcGVuX0FQSV9XZWF0aGVyLmpzb24nKSwndycsZW5jb2Rpbmc9J1VURjgnKSBhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJldEpzb24gPSBqc29uLmR1bXBzKGpzb25SZXN1bHQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgb3V0ZmlsZS53cml0ZShyZXRKc29uKQogICAgIyAgICAgcHJpbnQoJ09wZW5fQVBJX1dlYXRoZXIuanNvbiBTQVZFRCcpCiAgICAjCiAgICAjICAgICBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>jsonData = getForecastTimeDataResponse()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAjIGRlZiBtYWluKCk6CiAgICAjICAgICBqc29uUmVzdWx0ID0gW10KICAgICMKICAgICMgICAgIGZvciB5ZWFyIGluIHJhbmdlKG5TdGFydFllYXIsbkVuZFllYXIpOgogICAgIyAgICAgICAgIGZvciBtb250aCBpbiByYW5nZSgxLDEzKToKICAgICMgICAgICAgICAgICAgeXl5eW1tID0gInswfXsxOjA+Mn0iLmZvcm1hdChzdHIoeWVhciksc3RyKG1vbnRoKSkKICAgICMgICAgIGpzb25EYXRhID0gZ2V0Rm9yZWNhc3RUaW1lRGF0YVJlc3BvbnNlKCkKICAgICMKICAgICMgICAgIGlmKGpzb25EYXRhWydyZXNwb25zZSddWydoZWFkZXInXVsncmVzdWx0TXNnJ109PSdPSycpOgogICAgIyAgICAgICAgIGtyTmFtZSA9IGpzb25EYXRhWydyZXNwb25zZSddWydib2R5J11bJ2l0ZW1zJ11bJ2l0ZW0nXVsibmF0S29yTm0iXQogICAgIyAgICAgICAgIGlUb3RhbFZpc2l0ID0ganNvbkRhdGFbJ3Jlc3BvbnNlJ11bJ2JvZHknXVsnaXRlbXMnXVsnaXRlbSddWyJudW0iXQogICAgIwogICAgIyAgICAgICAgIGpzb25SZXN1bHQuYXBwZW5kKGdldEZvcmVjYXN0VGltZURhdGFSZXNwb25zZSgpKQogICAgIwogICAgIyAgICAgd2l0aCBvcGVuKCdPcGVuX0FQSV9XZWF0aGVyLmpzb24nKSwndycsZW5jb2Rpbmc9J1VURjgnKSBhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJldEpzb24gPSBqc29uLmR1bXBzKGpzb25SZXN1bHQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgb3V0ZmlsZS53cml0ZShyZXRKc29uKQogICAgIyAgICAgcHJpbnQoJ09wZW5fQVBJX1dlYXRoZXIuanNvbiBTQVZFRCcpCiAgICAjCiAgICAjICAgICBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGkgPSAwCiAgICBmb3IgaXRlbSBpbiBqc29uUmVzdWx0OgogICAgICAgIGluZGV4LmFwcGVuZChpKQogICAgICAgIGNuVmlzaXQuYXBwZW5kKGl0ZW1bJ3Zpc2l0X2NudCddKQogICAgICAgIFZpc2l0WU0uYXBwZW5kKGl0ZW1bJ3l5eXltbSddKQogICAgICAgIGkgPSBpICsgMQ==</text>
+        <text encoding="base64">CiAgICBpZihyZXREYXRhID09IE5vbmUpOiByZXR1cm4gTm9uZQogICAgZWxzZToKICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhyZXREYXRhKQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgY25WaXNpdCA9IFtdCiAgICBWaXNpdFlNID0gW10KICAgIGluZGV4ID0gW10K</text>
+        <text encoding="base64">IGkgPSAwCiAgICBmb3IgaXRlbSBpbiBqc29uUmVzdWx0OgogICAgICAgIGluZGV4LmFwcGVuZChpKQogICAgICAgIGNuVmlzaXQuYXBwZW5kKGl0ZW1bJ3Zpc2l0X2NudCddKQogICAgICAgIFZpc2l0WU0uYXBwZW5kKGl0ZW1bJ3l5eXltbSddKQogICAgICAgIGkgPSBpICsgMQ==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IG5hdENkID0gIjExMiIKICAgIGVkQ2QgPSAnRSc=</text>
+        <text encoding="base64">ICAgY25WaXNpdCA9IFtdCiAgICBWaXNpdFlNID0gW10KICAgIGluZGV4ID0gW10K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CnByaW50KCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIMDMx/axuCAtIik=</text>
+        <text encoding="base64">IG5hdENkID0gIjExMiIKICAgIGVkQ2QgPSAnRSc=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgZWxpZiBnX0Rvb3IgPT0gRmFsc2U6IGdfRG9vciA9IFRydWU=</text>
+        <text encoding="base64">CnByaW50KCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIMDMx/axuCAtIik=</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgZWxpZiBnX0Rvb3IgPT0gRmFsc2U6IGdfRG9vciA9IFRydWU=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmRlZiBnZXROYXZlclNlYXJjaFJlc3VsdChzTm9kZSxzZWFyY2hfdGV4dCxwYWdlX3N0YXJ0LGRpc3BsYXkpOgogICAgYmFzZSA9ICJodHRwczovL29wZW5hcGkubmF2ZXIuY29tL3YxL3NlYXJjaCIKICAgIG5vZGUgPSAiLyVzLmpzb24iJXNOb2RlCiAgICBwYXJhbWV0ZXJzID0gIj9xdWVyeT0lcyZzdGFydD0lcyZkaXNwbGF5PSVzIiUodXJsbGliLnBhcnNlLnF1b3RlKHNlYXJjaF90ZXh0KSxwYWdlX3N0YXJ0LGRpc3BsYXkpCiAgICAjIHVybCA9IGJhc2Urbm9kZStwYXJhbWV0ZXJzCiAgICAjIHJldERhdGEgPSBnZXRfcmVxdWVzdF91cmwodXJsKQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG1hdGgK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCBkYXRldGltZQppbXBvcnQganNvbgoKYWNjZXNzX2tleT0iVk5IN1FlQm5oemFkJTJCNDVRUzRETWJJdkpwMHMlMkZ4MmlZOXZkS3hMWUpKSkVITUZGSERMcjhIWkpIdVBnZmpXUlRnMjJPa2xtQk91U1d6bk5lSmt0Z3VRJTNEJTNEIgoKZGVmIGdldF9yZXF1ZXN0X3VybCh1cmwpOgogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwpCgogICAgdHJ5OgogICAgICAgIHJlc3BvbnNlID0gdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEpCiAgICAgICAgaWYgcmVzcG9uc2UuZ2V0Y29kZSgpID09IDIwMDoKICAgICAgICAgICAgcHJpbnQoIlslc10gVXJsIFJlcXVlc3QgU3VjY2VzcyIlZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkpCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZS5yZWFkKCkuZGVjb2RlKCd1dGYtOCcpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZSkKICAgICAgICBwcmludCgiWyVzXSBFcnJvciBmb3IgVVJMOiVzIiUoZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCksdXJsKSkKICAgICAgICByZXR1cm4gTm9uZQoKI1tDT0RFIDFdCmRlZiBnZXROYXRWaXNpdG9yKHl5eXltbSxuYXRfY2QsZWRfY2QpOgogICAgZW5kX3BvaW50PSJodHRwOi8vb3BlbmFwaS50b3VyLmdvLmtyL29wZW5hcGkvc2VydmljZS9FZHJjbnRUb3VyaXNtU3RhdHNTZXJ2aWNlL2dldEVkcmNudFRvdXJpc21TdGF0c0xpc3QiCgoKICAgIHBhcmFtZXRlcnMgPSAiP190eXBlPWpzb24mc2VydmljZUtleT0iK2FjY2Vzc19rZXkKICAgIHBhcmFtZXRlcnMrPSImWU09Iit5eXl5bW0KICAgIHBhcmFtZXRlcnMrPSImTkFUX0NEPSIrbmF0X2NkCiAgICBwYXJhbWV0ZXJzKz0iJkVEX0NEPSIrZWRfY2QKCiAgICB1cmw9ZW5kX3BvaW50K3BhcmFtZXRlcnMKCiAgICByZXREYXRhID0gZ2V0X3JlcXVlc3RfdXJsKHVybCkKCiAgICBpZihyZXREYXRhID09IE5vbmUpOgogICAgICAgIHJldHVybiBOb25lCiAgICBlbHNlOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHJldERhdGEpCgpkZWYgbWFpbigpOgogICAganNvblJlc3VsdCA9IFtdCgogICAgIyDB37G5OjExMi/Az7q7OjEzMC+5zLG5OjI3NQogICAgbmF0aW9uYWxfY29kZT0iMTEyIgogICAgZWRfY2Q9IkUiCgogICAgblN0YXJ0WWVhciA9IDIwMTEKICAgIG5FbmRZZWFyID0gMjAxNwoKICAgIGZvciB5ZWFyIGluIHJhbmdlKG5TdGFydFllYXIsIG5FbmRZZWFyKToKICAgICAgICBmb3IgbW9udGggaW4gcmFuZ2UoMSwxMyk6CiAgICAgICAgICAgIHl5eXltbT0iezB9ezE6MD4yfSIuZm9ybWF0KHN0cih5ZWFyKSxzdHIobW9udGgpKQogICAgICAgICAgICBqc29uRGF0YSA9IGdldE5hdFZpc2l0b3IoeXl5eW1tLG5hdGlvbmFsX2NvZGUsZWRfY2QpCgogICAgICAgICAgICBpZihqc29uRGF0YVsncmVzcG9uc2UnXVsnaGVhZGVyJ11bJ3Jlc3VsdE1zZyddPT0nT0snKToKICAgICAgICAgICAgICAgIGtyTmFtZSA9IGpzb25EYXRhWydyZXNwb25zZSddWydib2R5J11bJ2l0ZW1zJ11bJ2l0ZW0nXVsibmF0S29yTm0iXQogICAgICAgICAgICAgICAga3JOYW1lID0ga3JOYW1lLnJlcGxhY2UoJyAnLCcnKQogICAgICAgICAgICAgICAgaVRvdGFsVmlzaXQ9anNvbkRhdGFbJ3Jlc3BvbnNlJ11bJ2JvZHknXVsnaXRlbXMnXVsnaXRlbSddWyJudW0iXQogICAgICAgICAgICAgICAgcHJpbnQoJyVzXyVzOiVzJyUoa3JOYW1lLHl5eXltbSxpVG90YWxWaXNpdCkpCiAgICAgICAgICAgICAgICBqc29uUmVzdWx0LmFwcGVuZCh7J25hdF9uYW1lJzprck5hbWUsJ25hdF9jZCc6bmF0aW9uYWxfY29kZSwneXl5eW1tJzp5eXl5bW0sJ3Zpc2l0X2NudCc6aVRvdGFsVmlzaXR9KQoKICAgIGNuVmlzaXQgPSBbXQogICAgVmlzaXRZTSA9IFtdCiAgICBpbmRleCA9IFtdCgogICAgaT0wCgogICAgZm9yIGl0ZW0gaW4ganNvblJlc3VsdDoKICAgICAgICBpbmRleC5hcHBlbmQoaSkKICAgICAgICBjblZpc2l0LmFwcGVuZChpdGVtWyd2aXNpdF9jbnQnXSkKICAgICAgICBWaXNpdFlNLmFwcGVuZChpdGVtWyd5eXl5bW0nXSkKICAgICAgICBpPWkrMQoKICAgIHdpdGggb3BlbignJXMoJXMpX8fYv9y55rmusLTBpLq4XyVkXyVkLmpzb24nJShrck5hbWUsbmF0aW9uYWxfY29kZSxuU3RhcnRZZWFyLG5FbmRZZWFyLTEpLCd3JyxlbmNvZGluZz0ndXRmOCcpIGFzIG91dGZpbGU6CiAgICAgICAgcmV0SnNvbiA9IGpzb24uZHVtcHMoanNvblJlc3VsdCxpbmRlbnQ9NCxzb3J0X2tleXM9VHJ1ZSxlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgb3V0ZmlsZS53cml0ZShyZXRKc29uKQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQ==</text>
       </register>
       <register name="-" type="4">
         <text>jsonData = getForecastTimeDataResponse()</text>
