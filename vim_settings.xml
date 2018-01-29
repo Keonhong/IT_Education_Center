@@ -10,7 +10,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/embeded/20180129_1432_날씨정보" timestamp="1517204940530" />
-      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1629_날씨정보" timestamp="1517210974865" />
+      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1629_날씨정보" timestamp="1517212029575" />
       <file name="D:/python_workspace/Jumptopy/보충수업/constant.py" timestamp="1516787147635">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="3" />
@@ -145,11 +145,7 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="21" column="111" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517211009423">
-        <mark key="[" line="67" column="40" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517212272427" />
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -209,8 +205,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">CmFjY2Vzc19rZXkgPSAiektYS0tuU2xGYnpRbFNvM1ZHTTdSU1dVVG5kandNMHN6U0poYkslMkY4NWhLbnZ0UHhVNnpCemF1ZG56UEZOTkhmNWoxYXpQbCUyQjdwNElmWU1XOCUyQmk0bGclM0QlM0Qi</text>
