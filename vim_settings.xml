@@ -3,110 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
-        <mark key="[" line="2" column="47" />
-      </file>
-      <file name="/a.dummy" timestamp="1517191472196">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1432_날씨정보" timestamp="1517204940530" />
-      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1629_날씨정보" timestamp="1517212029575" />
-      <file name="D:/python_workspace/Jumptopy/보충수업/constant.py" timestamp="1516787147635">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-      </file>
-      <file name="D:/python_workspace/Test/김건홍_naver_realtime_movie_ranking.py" timestamp="1515738933487">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="35" column="11" />
-        <mark key="." line="19" column="7" />
-      </file>
-      <file name="D:/python_workspace/.idea/Test/data_save_test/김건홍_빅데이터_코딩테스트py.py" timestamp="1516688823072">
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="17" />
-        <mark key="." line="58" column="17" />
-        <mark key="^" line="71" column="22" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/string_type_test.py" timestamp="1517215056650">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" timestamp="1517203765806">
-        <mark key="'" line="52" column="75" />
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517214707438">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="66" column="15" />
-      </file>
-      <file name="D:/python_workspace/Test/기본코드_for__nene치킨시험문제.py" timestamp="1515734691498">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/json_get_info.py" timestamp="1516846558265">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517206438151">
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Testfile.py" timestamp="1516692800059">
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="58" column="3" />
-        <mark key="^" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/json_sample.py" timestamp="1516672263110">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="15" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1650_날씨정보" timestamp="1517213247242" />
-      <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
-        <mark key="[" line="7" column="88" />
-      </file>
-      <file name="D:/python_workspace/Test/김건홍_nene_ver2.py" timestamp="1515735724823">
-        <mark key="[" line="43" column="49" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
-        <mark key="[" line="1" column="4" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1517214735198">
-        <mark key="'" line="13" column="28" />
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515717761189">
-        <mark key="[" line="7" column="23" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Newproject.py" timestamp="1517191428343">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1449_날씨정보" timestamp="1517205006201" />
       <file name="/Python Console" timestamp="1517213854445">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
+        <mark key="[" line="2" column="47" />
+      </file>
       <file name="/fragment.py" timestamp="1516948832904">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1517218960898">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/if_test.py" timestamp="1517220341325">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML/빅데이터 저장 평가과제.txt" timestamp="1515724921653">
         <mark key="[" line="2" column="63" />
@@ -131,42 +43,66 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_Rank.py" timestamp="1515731791810">
         <mark key="[" line="23" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/test.py" timestamp="1516954434782">
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="48" column="12" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="48" column="12" />
-      </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/보충수업/example3.py" timestamp="1516788611921">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/Tour_resource.py" timestamp="1517201780869">
-        <mark key="[" line="21" column="111" />
-        <mark key="]" line="21" column="111" />
-        <mark key="^" line="38" column="30" />
-        <mark key="." line="21" column="111" />
+      <file name="D:/python_workspace/Jumptopy/보충수업/string_type_test.py" timestamp="1517216541990">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="10" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517213401638">
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517287458589">
         <mark key="[" line="70" column="11" />
         <mark key="]" line="70" column="9" />
         <mark key="^" line="70" column="9" />
         <mark key="." line="70" column="9" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" timestamp="1517203765806">
+        <mark key="'" line="52" column="75" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517214707438">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="15" />
+        <mark key="." line="66" column="15" />
+      </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Test/기본코드_for__nene치킨시험문제.py" timestamp="1515734691498">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/json_get_info.py" timestamp="1516846558265">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517206438151">
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1528_날씨정보" timestamp="1517210080317" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/보충수업/Operator.py" timestamp="1516786341586">
         <mark key="[" line="3" column="13" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/Python_XML2/1987.html" timestamp="1515647885461">
+        <mark key="[" line="7" column="88" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516848397534">
         <mark key="[" line="1" column="2" />
@@ -177,16 +113,21 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
+        <mark key="[" line="1" column="4" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1517214735198">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver4.py" timestamp="1515739195154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/BigData/facebook_news_get_info.py" timestamp="1517209021514" />
-      <file name="D:/python_workspace/Jumptopy/embeded/20180129_1650_Weather.json" timestamp="1517213803655" />
-      <file name="D:/python_workspace/Test/기본코드_for_네이버실시간영화랭킹.py" timestamp="1515736718312">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="23" />
-        <mark key="^" line="29" column="6" />
-        <mark key="." line="29" column="23" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML/test.py" timestamp="1515717761189">
+        <mark key="[" line="7" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -200,13 +141,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDE6CiAgICAgICAgcHJpbnQoIsf2wOcgwM6w+MH2tMkguPC15TogIiwgZW5kPScnKQogICAgICAgIGlmIGdfQUlfTW9kZSA9PSBUcnVlOiBwcmludCgiwNu1vyIpCiAgICAgICAgZWxzZTogcHJpbnQoIsGkwfYiKQogICAgICAgIGdfQUlfTW9kZSA9IG5vdCBnX0FJX01vZGUK</text>
+        <text encoding="base64">c3RyID0gInswOjwxMH0iLmZvcm1hdCgiaGlhYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5eiIpCnByaW50KHN0cikK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19CYWxjb255X1dpbmRvd3NfQ29udHJvbF9fJzoKICAgIEJhbGNvbnlfV2luZG93c19Db250cm9sKCk=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>fsfsfdsfdsfdsfdsfdsf</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
@@ -234,7 +175,7 @@
         <text encoding="base64">IG5hdENkID0gIjExMiIKICAgIGVkQ2QgPSAnRSc=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>fsfsfdsfdsfdsfdsfdsf</text>
       </register>
     </registers>
     <search>
