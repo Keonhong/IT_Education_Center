@@ -55,11 +55,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517291504024">
-        <mark key="[" line="124" column="4" />
-        <mark key="]" line="124" column="36" />
-        <mark key="^" line="123" column="24" />
-        <mark key="." line="124" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517292983028">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="38" />
+        <mark key="^" line="120" column="25" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517214707438">
         <mark key="[" line="66" column="15" />
@@ -78,16 +78,16 @@
       <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517292027226">
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="34" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="61" column="33" />
+      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517292858272">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="21" />
+        <mark key="." line="61" column="21" />
+        <mark key="^" line="61" column="23" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517292048216" />
+      <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517292985914" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,13 +138,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXRKc29uWydjYXRlZ29yeSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZURhdGUnXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCI0LiCwrbz2v7m6uCC9w7nEt7nAzLzHIikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXRKc29uWydjYXRlZ29yeSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZURhdGUnXSkK</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19CYWxjb255X1dpbmRvd3NfQ29udHJvbF9fJzoKICAgIEJhbGNvbnlfV2luZG93c19Db250cm9sKCk=</text>
@@ -172,7 +172,7 @@
         <text encoding="base64">ICAgY25WaXNpdCA9IFtdCiAgICBWaXNpdFlNID0gW10KICAgIGluZGV4ID0gW10K</text>
       </register>
       <register name="-" type="4">
-        <text>fsfsfdsfdsfdsfdsfdsf</text>
+        <text>[</text>
       </register>
     </registers>
     <search>
