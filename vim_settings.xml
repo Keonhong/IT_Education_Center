@@ -55,11 +55,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517292983028">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="38" />
-        <mark key="^" line="120" column="25" />
-        <mark key="." line="125" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517296285904">
+        <mark key="[" line="159" column="11" />
+        <mark key="]" line="159" column="11" />
+        <mark key="^" line="159" column="11" />
+        <mark key="." line="159" column="11" />
       </file>
       <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517214707438">
         <mark key="[" line="66" column="15" />
@@ -78,16 +78,16 @@
       <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517292858272">
-        <mark key="[" line="61" column="21" />
-        <mark key="]" line="61" column="21" />
-        <mark key="." line="61" column="21" />
-        <mark key="^" line="61" column="23" />
+      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517295403116">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
+        <mark key="^" line="61" column="19" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517292985914" />
+      <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517293004230" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,7 +109,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1517291722814" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1517294602692" />
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -138,41 +138,41 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZURhdGUnXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCIzLiC9x73DsKMgseK788GkurggVXBkYXRlx8+x4iIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI0LiCwrbz2v7m6uCC9w7nEt7nAzLzHIikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyBkZWYgQmFsY29ueV9XaW5kb3dzX0NvbnRyb2woKToKIyAgICAgZ2xvYmFsIGdfQmFsY29ueV9XaW5kb3dzCiMgICAgIGJhc2VfZGF0ZSA9IHRpbWUuc3RyZnRpbWUoIiVZJW0lZCIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKIyAgICAgYmFzZV90aW1lID0gdGltZS5zdHJmdGltZSgiJUglTSIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKICAgICMgd2l0aCBvcGVuKCIlc18lc1+zr76+waS6uC5qc29uIiAlKGJhc2VfZGF0ZSxiYXNlX3RpbWUpLGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgogICAgIyAgICAganNvbl9vYmplY3QgPSBqc29uLmxvYWQoanNvbl9maWxlKQogICAgIyAgICAganNvbl9zdHJpbmcgPSBqc29uLmR1bXBzKGpzb25fb2JqZWN0KQogICAgIyAgICAgcmV0SnNvbiA9IGpzb24ubG9hZHMoanNvbl9zdHJpbmcpCiAgICAjIExHVCA9ILOrt9ogLy8gUk4xID0gMb3DsKMgsK289reuIC8vIFBUWSA9ILCtvPbH/MXCCiAgICAjICAgICBpZiByZXRKc29uWydjYXRlZ29yeSddWyJSTjEiXSA+IDA6CiAgICAjICAgICAgICAgaWYgZ19CYWxjb255X1dpbmRvd3MgPT0gVHJ1ZToKICAgICMgICAgICAgICAgICAgZ19CYWxjb255X1dpbmRvd3MgPSBub3QgZ19CYWxjb255X1dpbmRvd3MKICAgICMgICAgICAgICAgICAgcHJpbnQoIrrxsKEgv8Mgv7nBpMDMv8C0zyDDormuwLsgtN29wLTPtNkuIik=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZURhdGUnXSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyBkZWYgQmFsY29ueV9XaW5kb3dzX0NvbnRyb2woKToKIyAgICAgZ2xvYmFsIGdfQmFsY29ueV9XaW5kb3dzCiMgICAgIGJhc2VfZGF0ZSA9IHRpbWUuc3RyZnRpbWUoIiVZJW0lZCIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKIyAgICAgYmFzZV90aW1lID0gdGltZS5zdHJmdGltZSgiJUglTSIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKICAgICMgd2l0aCBvcGVuKCIlc18lc1+zr76+waS6uC5qc29uIiAlKGJhc2VfZGF0ZSxiYXNlX3RpbWUpLGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgogICAgIyAgICAganNvbl9vYmplY3QgPSBqc29uLmxvYWQoanNvbl9maWxlKQogICAgIyAgICAganNvbl9zdHJpbmcgPSBqc29uLmR1bXBzKGpzb25fb2JqZWN0KQogICAgIyAgICAgcmV0SnNvbiA9IGpzb24ubG9hZHMoanNvbl9zdHJpbmcpCiAgICAjIExHVCA9ILOrt9ogLy8gUk4xID0gMb3DsKMgsK289reuIC8vIFBUWSA9ILCtvPbH/MXCCiAgICAjICAgICBpZiByZXRKc29uWydjYXRlZ29yeSddWyJSTjEiXSA+IDA6CiAgICAjICAgICAgICAgaWYgZ19CYWxjb255X1dpbmRvd3MgPT0gVHJ1ZToKICAgICMgICAgICAgICAgICAgZ19CYWxjb255X1dpbmRvd3MgPSBub3QgZ19CYWxjb255X1dpbmRvd3MKICAgICMgICAgICAgICAgICAgcHJpbnQoIrrxsKEgv8Mgv7nBpMDMv8C0zyDDormuwLsgtN29wLTPtNkuIik=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19CYWxjb255X1dpbmRvd3NfQ29udHJvbF9fJzoKICAgIEJhbGNvbnlfV2luZG93c19Db250cm9sKCk=</text>
+        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZVRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydjYXRlZ29yeSddKQogICAgICAgIHByaW50KHJldEpzb25bJ2Zjc3REYXRlJ10pCiAgICAgICAgcHJpbnQocmV0SnNvblsnZmNzdFRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydmY3N0VmFsdWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydueCddKQogICAgICAgIHByaW50KHJldEpzb25bJ255J10pIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCI0LiCwrbz2v7m6uCC9w7nEt7nAzLzHIikK</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19CYWxjb255X1dpbmRvd3NfQ29udHJvbF9fJzoKICAgIEJhbGNvbnlfV2luZG93c19Db250cm9sKCk=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CmFjY2Vzc19rZXkgPSAiektYS0tuU2xGYnpRbFNvM1ZHTTdSU1dVVG5kandNMHN6U0poYkslMkY4NWhLbnZ0UHhVNnpCemF1ZG56UEZOTkhmNWoxYXpQbCUyQjdwNElmWU1XOCUyQmk0bGclM0QlM0Qi</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>if __name__ == '__main__':
     main()</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICAjIGRlZiBtYWluKCk6CiAgICAjICAgICBqc29uUmVzdWx0ID0gW10KICAgICMKICAgICMgICAgIGZvciB5ZWFyIGluIHJhbmdlKG5TdGFydFllYXIsbkVuZFllYXIpOgogICAgIyAgICAgICAgIGZvciBtb250aCBpbiByYW5nZSgxLDEzKToKICAgICMgICAgICAgICAgICAgeXl5eW1tID0gInswfXsxOjA+Mn0iLmZvcm1hdChzdHIoeWVhciksc3RyKG1vbnRoKSkKICAgICMgICAgIGpzb25EYXRhID0gZ2V0Rm9yZWNhc3RUaW1lRGF0YVJlc3BvbnNlKCkKICAgICMKICAgICMgICAgIGlmKGpzb25EYXRhWydyZXNwb25zZSddWydoZWFkZXInXVsncmVzdWx0TXNnJ109PSdPSycpOgogICAgIyAgICAgICAgIGtyTmFtZSA9IGpzb25EYXRhWydyZXNwb25zZSddWydib2R5J11bJ2l0ZW1zJ11bJ2l0ZW0nXVsibmF0S29yTm0iXQogICAgIyAgICAgICAgIGlUb3RhbFZpc2l0ID0ganNvbkRhdGFbJ3Jlc3BvbnNlJ11bJ2JvZHknXVsnaXRlbXMnXVsnaXRlbSddWyJudW0iXQogICAgIwogICAgIyAgICAgICAgIGpzb25SZXN1bHQuYXBwZW5kKGdldEZvcmVjYXN0VGltZURhdGFSZXNwb25zZSgpKQogICAgIwogICAgIyAgICAgd2l0aCBvcGVuKCdPcGVuX0FQSV9XZWF0aGVyLmpzb24nKSwndycsZW5jb2Rpbmc9J1VURjgnKSBhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJldEpzb24gPSBqc29uLmR1bXBzKGpzb25SZXN1bHQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgb3V0ZmlsZS53cml0ZShyZXRKc29uKQogICAgIyAgICAgcHJpbnQoJ09wZW5fQVBJX1dlYXRoZXIuanNvbiBTQVZFRCcpCiAgICAjCiAgICAjICAgICBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBpZihyZXREYXRhID09IE5vbmUpOiByZXR1cm4gTm9uZQogICAgZWxzZToKICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhyZXREYXRhKQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGkgPSAwCiAgICBmb3IgaXRlbSBpbiBqc29uUmVzdWx0OgogICAgICAgIGluZGV4LmFwcGVuZChpKQogICAgICAgIGNuVmlzaXQuYXBwZW5kKGl0ZW1bJ3Zpc2l0X2NudCddKQogICAgICAgIFZpc2l0WU0uYXBwZW5kKGl0ZW1bJ3l5eXltbSddKQogICAgICAgIGkgPSBpICsgMQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgY25WaXNpdCA9IFtdCiAgICBWaXNpdFlNID0gW10KICAgIGluZGV4ID0gW10K</text>
-      </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text />
       </register>
     </registers>
     <search>
