@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1517365917746">
+      <file name="D:/python_workspace/Jumptopy/보충수업/while_GUGUDAN.py" timestamp="1517391587999">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1517391504590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -12,7 +15,7 @@
       <file name="/fragment.py" timestamp="1516948832904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517218960898">
+      <file name="/a.dummy" timestamp="1517387720358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/보충수업/if_test.py" timestamp="1517220341325">
@@ -63,13 +66,16 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517386519152">
-        <mark key="[" line="107" column="3" />
-        <mark key="]" line="107" column="41" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517387475319">
+        <mark key="[" line="313" column="28" />
+        <mark key="]" line="313" column="28" />
         <mark key="^" line="106" column="3" />
-        <mark key="." line="107" column="0" />
+        <mark key="." line="313" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516156552573">
+      <file name="/Dummy.txt" timestamp="1517387687855">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/if_in.py" timestamp="1517387858572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Test/기본코드_for__nene치킨시험문제.py" timestamp="1515734691498">
@@ -90,12 +96,22 @@
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/GUGUDAN.py" timestamp="1517390229175">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517377165648" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/보충수업/Operator.py" timestamp="1516786341586">
         <mark key="[" line="3" column="13" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/for_ex.py" timestamp="1517388184338">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Jump_to_python/Chapter6/gugu.py" timestamp="1514964666881">
         <mark key="[" line="7" column="14" />
@@ -105,6 +121,9 @@
       </file>
       <file name="D:/python_workspace/Jumptopy/Data_science/ITT_Student.json" timestamp="1516848397534">
         <mark key="[" line="1" column="2" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/보충수업/for_for_ex.py" timestamp="1517389371704">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/BigData/naver_search.py" timestamp="1517291472332">
         <mark key="[" line="57" column="40" />
@@ -144,42 +163,44 @@
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
       </register>
       <register name="1" type="4">
+        <text>hile 1:
+    for i in (1,10):
+        for j in (2,10):
+            print(i*j)</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>def print_device_status2(device_name,devcie_status2):
     print(&quot;%s 상태: &quot;% device_name, end=&quot;&quot;)
     if devcie_status2 == True: print(&quot;작동&quot;)  # 장비에 맞는 상태 메세지를 출력할 것
     else: print(&quot;정지&quot;)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJjYXRlZ29yeSI6ICJSTjEiLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIyCwobvzwMcganNvbiDGxMDPwLsguLi16bDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBleClbeyJiYXNlRGF0ZSI6x/bA57OvwqUsImJhc2VUaW1lIjoix/bA573DsKMiLCJjYXRlZ29yeSI6IlJOMSIsImZjc3REYXRlIjrH9sDns6/CpSJmY3N0VGltZSI6MTAwMCwiZmNzdFZhbHVlIjoxMCwibngiOjg5LCJueSI6OTF9XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgwOW68SC788XCuKYgudmy27TZLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgvcO5xLe5wMy8xyC/6yBKc29uIMbEwM/AuyDA+sDlx9G02Q==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>def print_device_status1(device_name,devcie_status1):
     print(&quot;%s 상태: &quot;%device_name, end=&quot;&quot;)</text>
       </register>
-      <register name="9" type="4">
-        <text># 장비에 맞는 상태 메세지를 출력할 것
-    # else: print(&quot;정지&quot;)                      # 힌트] 메세지와 관련된 파라메터 추가</text>
-      </register>
       <register name="-" type="4">
-        <text>for retJson in retJson:</text>
+        <text />
       </register>
     </registers>
     <search>
