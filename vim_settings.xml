@@ -62,11 +62,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517367732584">
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="212" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517369373265">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
@@ -216,6 +216,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
