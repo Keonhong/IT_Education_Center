@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1517213854445">
+      <file name="/Python Console" timestamp="1517298430151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -46,6 +46,7 @@
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="/Smart_Home_System.py" timestamp="1517359489244" />
       <file name="D:/python_workspace/Jumptopy/보충수업/example3.py" timestamp="1516788611921">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,16 +56,14 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517298075568">
-        <mark key="[" line="161" column="5" />
-        <mark key="]" line="161" column="5" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517362836283">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
         <mark key="^" line="160" column="11" />
-        <mark key="." line="161" column="5" />
+        <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517214707438">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="66" column="15" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517362624530">
+        <mark key="[" line="68" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
@@ -78,7 +77,7 @@
       <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517297911561">
+      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517298254242">
         <mark key="[" line="62" column="8" />
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
@@ -87,7 +86,6 @@
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517293004230" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,7 +107,6 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1517294602692" />
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -140,41 +137,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCIzLiC9x73DsKMgseK788GkurggVXBkYXRlx8+x4iIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>ase_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
-    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ase_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
-    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IyBkZWYgQmFsY29ueV9XaW5kb3dzX0NvbnRyb2woKToKIyAgICAgZ2xvYmFsIGdfQmFsY29ueV9XaW5kb3dzCiMgICAgIGJhc2VfZGF0ZSA9IHRpbWUuc3RyZnRpbWUoIiVZJW0lZCIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKIyAgICAgYmFzZV90aW1lID0gdGltZS5zdHJmdGltZSgiJUglTSIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKICAgICMgd2l0aCBvcGVuKCIlc18lc1+zr76+waS6uC5qc29uIiAlKGJhc2VfZGF0ZSxiYXNlX3RpbWUpLGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgogICAgIyAgICAganNvbl9vYmplY3QgPSBqc29uLmxvYWQoanNvbl9maWxlKQogICAgIyAgICAganNvbl9zdHJpbmcgPSBqc29uLmR1bXBzKGpzb25fb2JqZWN0KQogICAgIyAgICAgcmV0SnNvbiA9IGpzb24ubG9hZHMoanNvbl9zdHJpbmcpCiAgICAjIExHVCA9ILOrt9ogLy8gUk4xID0gMb3DsKMgsK289reuIC8vIFBUWSA9ILCtvPbH/MXCCiAgICAjICAgICBpZiByZXRKc29uWydjYXRlZ29yeSddWyJSTjEiXSA+IDA6CiAgICAjICAgICAgICAgaWYgZ19CYWxjb255X1dpbmRvd3MgPT0gVHJ1ZToKICAgICMgICAgICAgICAgICAgZ19CYWxjb255X1dpbmRvd3MgPSBub3QgZ19CYWxjb255X1dpbmRvd3MKICAgICMgICAgICAgICAgICAgcHJpbnQoIrrxsKEgv8Mgv7nBpMDMv8C0zyDDormuwLsgtN29wLTPtNkuIik=</text>
+        <text>def save_json_file():
+    with open(&quot;Weather_info.json&quot;, encoding='UTF8') as json_file:
+        json_object = json.load(json_file)
+        json_string = json.dumps(json_object)
+        retJson = json.loads(json_string)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZVRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydjYXRlZ29yeSddKQogICAgICAgIHByaW50KHJldEpzb25bJ2Zjc3REYXRlJ10pCiAgICAgICAgcHJpbnQocmV0SnNvblsnZmNzdFRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydmY3N0VmFsdWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydueCddKQogICAgICAgIHByaW50KHJldEpzb25bJ255J10pIA==</text>
+        <text>with open(&quot;Weather_info.json&quot;, encoding='UTF8') as json_file:
+        json_object = json.load(json_file)
+        json_string = json.dumps(json_object)
+        retJson = json.loads(json_string)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI0LiCwrbz2v7m6uCC9w7nEt7nAzLzHIikK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBiYXNlX2RhdGUgPSB0aW1lLnN0cmZ0aW1lKCIlWSVtJWQiLCB0aW1lLmxvY2FsdGltZSh0aW1lLnRpbWUoKSkpCiAgICBiYXNlX3RpbWUgPSB0aW1lLnN0cmZ0aW1lKCIlSCVNIiwgdGltZS5sb2NhbHRpbWUodGltZS50aW1lKCkp</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19CYWxjb255X1dpbmRvd3NfQ29udHJvbF9fJzoKICAgIEJhbGNvbnlfV2luZG93c19Db250cm9sKCk=</text>
+        <text>ase_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
+    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IyBkZWYgQmFsY29ueV9XaW5kb3dzX0NvbnRyb2woKToKIyAgICAgZ2xvYmFsIGdfQmFsY29ueV9XaW5kb3dzCiMgICAgIGJhc2VfZGF0ZSA9IHRpbWUuc3RyZnRpbWUoIiVZJW0lZCIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKIyAgICAgYmFzZV90aW1lID0gdGltZS5zdHJmdGltZSgiJUglTSIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKICAgICMgd2l0aCBvcGVuKCIlc18lc1+zr76+waS6uC5qc29uIiAlKGJhc2VfZGF0ZSxiYXNlX3RpbWUpLGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgogICAgIyAgICAganNvbl9vYmplY3QgPSBqc29uLmxvYWQoanNvbl9maWxlKQogICAgIyAgICAganNvbl9zdHJpbmcgPSBqc29uLmR1bXBzKGpzb25fb2JqZWN0KQogICAgIyAgICAgcmV0SnNvbiA9IGpzb24ubG9hZHMoanNvbl9zdHJpbmcpCiAgICAjIExHVCA9ILOrt9ogLy8gUk4xID0gMb3DsKMgsK289reuIC8vIFBUWSA9ILCtvPbH/MXCCiAgICAjICAgICBpZiByZXRKc29uWydjYXRlZ29yeSddWyJSTjEiXSA+IDA6CiAgICAjICAgICAgICAgaWYgZ19CYWxjb255X1dpbmRvd3MgPT0gVHJ1ZToKICAgICMgICAgICAgICAgICAgZ19CYWxjb255X1dpbmRvd3MgPSBub3QgZ19CYWxjb255X1dpbmRvd3MKICAgICMgICAgICAgICAgICAgcHJpbnQoIrrxsKEgv8Mgv7nBpMDMv8C0zyDDormuwLsgtN29wLTPtNkuIik=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CmFjY2Vzc19rZXkgPSAiektYS0tuU2xGYnpRbFNvM1ZHTTdSU1dVVG5kandNMHN6U0poYkslMkY4NWhLbnZ0UHhVNnpCemF1ZG56UEZOTkhmNWoxYXpQbCUyQjdwNElmWU1XOCUyQmk0bGclM0QlM0Qi</text>
+        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZVRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydjYXRlZ29yeSddKQogICAgICAgIHByaW50KHJldEpzb25bJ2Zjc3REYXRlJ10pCiAgICAgICAgcHJpbnQocmV0SnNvblsnZmNzdFRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydmY3N0VmFsdWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydueCddKQogICAgICAgIHByaW50KHJldEpzb25bJ255J10pIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>if __name__ == '__main__':
-    main()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KCI0LiCwrbz2v7m6uCC9w7nEt7nAzLzHIikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBtYWluKCk6CiAgICAjICAgICBqc29uUmVzdWx0ID0gW10KICAgICMKICAgICMgICAgIGZvciB5ZWFyIGluIHJhbmdlKG5TdGFydFllYXIsbkVuZFllYXIpOgogICAgIyAgICAgICAgIGZvciBtb250aCBpbiByYW5nZSgxLDEzKToKICAgICMgICAgICAgICAgICAgeXl5eW1tID0gInswfXsxOjA+Mn0iLmZvcm1hdChzdHIoeWVhciksc3RyKG1vbnRoKSkKICAgICMgICAgIGpzb25EYXRhID0gZ2V0Rm9yZWNhc3RUaW1lRGF0YVJlc3BvbnNlKCkKICAgICMKICAgICMgICAgIGlmKGpzb25EYXRhWydyZXNwb25zZSddWydoZWFkZXInXVsncmVzdWx0TXNnJ109PSdPSycpOgogICAgIyAgICAgICAgIGtyTmFtZSA9IGpzb25EYXRhWydyZXNwb25zZSddWydib2R5J11bJ2l0ZW1zJ11bJ2l0ZW0nXVsibmF0S29yTm0iXQogICAgIyAgICAgICAgIGlUb3RhbFZpc2l0ID0ganNvbkRhdGFbJ3Jlc3BvbnNlJ11bJ2JvZHknXVsnaXRlbXMnXVsnaXRlbSddWyJudW0iXQogICAgIwogICAgIyAgICAgICAgIGpzb25SZXN1bHQuYXBwZW5kKGdldEZvcmVjYXN0VGltZURhdGFSZXNwb25zZSgpKQogICAgIwogICAgIyAgICAgd2l0aCBvcGVuKCdPcGVuX0FQSV9XZWF0aGVyLmpzb24nKSwndycsZW5jb2Rpbmc9J1VURjgnKSBhcyBvdXRmaWxlOgogICAgIyAgICAgICAgIHJldEpzb24gPSBqc29uLmR1bXBzKGpzb25SZXN1bHQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgIyAgICAgb3V0ZmlsZS53cml0ZShyZXRKc29uKQogICAgIyAgICAgcHJpbnQoJ09wZW5fQVBJX1dlYXRoZXIuanNvbiBTQVZFRCcpCiAgICAjCiAgICAjICAgICBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19CYWxjb255X1dpbmRvd3NfQ29udHJvbF9fJzoKICAgIEJhbGNvbnlfV2luZG93c19Db250cm9sKCk=</text>
       </register>
       <register name="-" type="4">
-        <text># Balcony_Windows_Control()</text>
+        <text>return None</text>
       </register>
     </registers>
     <search>
