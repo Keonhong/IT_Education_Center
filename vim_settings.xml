@@ -62,11 +62,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517365770239">
-        <mark key="[" line="80" column="19" />
-        <mark key="]" line="70" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517367732584">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
         <mark key="^" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="." line="212" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
@@ -141,45 +141,45 @@
         <text encoding="base64">ICAgIHByaW50KCIzLiC9x73DsKMgseK788GkurggVXBkYXRlx8+x4iIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgIGVsaWYgbWVudV9udW0gPT0gMjoK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVsaWYgbWVudV9udW0gPT0gMjoK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQoIr/Pt+EiKQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyk6CiAgICBwcmludCgiJXMgu/PFwjogIiVkZXZpY2VfbmFtZSwgZW5kPSIiKQogICAgaWYgZGV2Y2llX3N0YXR1cyA9PSBUcnVlOiBwcmludCgiwNu1vyIpICAjIEhLIENvbW1lbnRdIMDluvG/oSC4wrTCILvzxcIguN68vMH2uKYgw+K3wsfSILDNCiAgICAjIGVsaWYgZG9vcl9zdGF0dXMgPT0gVHJ1ZTogcHJpbnQoIr+tuLIiKQogICAgZWxzZTogcHJpbnQoIsGkwfYiKSA=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZGVmIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>def save_json_file():
     with open(&quot;Weather_info.json&quot;, encoding='UTF8') as json_file:
         json_object = json.load(json_file)
         json_string = json.dumps(json_object)
         retJson = json.loads(json_string)</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>with open(&quot;Weather_info.json&quot;, encoding='UTF8') as json_file:
         json_object = json.load(json_file)
         json_string = json.dumps(json_object)
         retJson = json.loads(json_string)</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBiYXNlX2RhdGUgPSB0aW1lLnN0cmZ0aW1lKCIlWSVtJWQiLCB0aW1lLmxvY2FsdGltZSh0aW1lLnRpbWUoKSkpCiAgICBiYXNlX3RpbWUgPSB0aW1lLnN0cmZ0aW1lKCIlSCVNIiwgdGltZS5sb2NhbHRpbWUodGltZS50aW1lKCkp</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>ase_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
     base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IyBkZWYgQmFsY29ueV9XaW5kb3dzX0NvbnRyb2woKToKIyAgICAgZ2xvYmFsIGdfQmFsY29ueV9XaW5kb3dzCiMgICAgIGJhc2VfZGF0ZSA9IHRpbWUuc3RyZnRpbWUoIiVZJW0lZCIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKIyAgICAgYmFzZV90aW1lID0gdGltZS5zdHJmdGltZSgiJUglTSIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKICAgICMgd2l0aCBvcGVuKCIlc18lc1+zr76+waS6uC5qc29uIiAlKGJhc2VfZGF0ZSxiYXNlX3RpbWUpLGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgogICAgIyAgICAganNvbl9vYmplY3QgPSBqc29uLmxvYWQoanNvbl9maWxlKQogICAgIyAgICAganNvbl9zdHJpbmcgPSBqc29uLmR1bXBzKGpzb25fb2JqZWN0KQogICAgIyAgICAgcmV0SnNvbiA9IGpzb24ubG9hZHMoanNvbl9zdHJpbmcpCiAgICAjIExHVCA9ILOrt9ogLy8gUk4xID0gMb3DsKMgsK289reuIC8vIFBUWSA9ILCtvPbH/MXCCiAgICAjICAgICBpZiByZXRKc29uWydjYXRlZ29yeSddWyJSTjEiXSA+IDA6CiAgICAjICAgICAgICAgaWYgZ19CYWxjb255X1dpbmRvd3MgPT0gVHJ1ZToKICAgICMgICAgICAgICAgICAgZ19CYWxjb255X1dpbmRvd3MgPSBub3QgZ19CYWxjb255X1dpbmRvd3MKICAgICMgICAgICAgICAgICAgcHJpbnQoIrrxsKEgv8Mgv7nBpMDMv8C0zyDDormuwLsgtN29wLTPtNkuIik=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgcHJpbnQocmV0SnNvblsnYmFzZVRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydjYXRlZ29yeSddKQogICAgICAgIHByaW50KHJldEpzb25bJ2Zjc3REYXRlJ10pCiAgICAgICAgcHJpbnQocmV0SnNvblsnZmNzdFRpbWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydmY3N0VmFsdWUnXSkKICAgICAgICBwcmludChyZXRKc29uWydueCddKQogICAgICAgIHByaW50KHJldEpzb25bJ255J10pIA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI0LiCwrbz2v7m6uCC9w7nEt7nAzLzHIikK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19CYWxjb255X1dpbmRvd3NfQ29udHJvbF9fJzoKICAgIEJhbGNvbnlfV2luZG93c19Db250cm9sKCk=</text>
-      </register>
       <register name="-" type="4">
-        <text>return None</text>
+        <text>pr</text>
       </register>
     </registers>
     <search>
