@@ -56,17 +56,16 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517365057174">
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517375144152">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517369373265">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="^" line="69" column="0" />
-        <mark key="." line="211" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517377204512">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
@@ -89,6 +88,7 @@
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517377165648" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,6 +110,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1517377145343" />
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -141,45 +142,39 @@
         <text encoding="base64">ICAgIHByaW50KCIzLiC9x73DsKMgseK788GkurggVXBkYXRlx8+x4iIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsaWYgbWVudV9udW0gPT0gMjoK</text>
+        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsaWYgbWVudV9udW0gPT0gMjoK</text>
+        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQoIr/Pt+EiKQo=</text>
+        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyk6CiAgICBwcmludCgiJXMgu/PFwjogIiVkZXZpY2VfbmFtZSwgZW5kPSIiKQogICAgaWYgZGV2Y2llX3N0YXR1cyA9PSBUcnVlOiBwcmludCgiwNu1vyIpICAjIEhLIENvbW1lbnRdIMDluvG/oSC4wrTCILvzxcIguN68vMH2uKYgw+K3wsfSILDNCiAgICAjIGVsaWYgZG9vcl9zdGF0dXMgPT0gVHJ1ZTogcHJpbnQoIr+tuLIiKQogICAgZWxzZTogcHJpbnQoIsGkwfYiKSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>def save_json_file():
-    with open(&quot;Weather_info.json&quot;, encoding='UTF8') as json_file:
-        json_object = json.load(json_file)
-        json_string = json.dumps(json_object)
-        retJson = json.loads(json_string)</text>
+        <text>def print_device_status1(device_name,devcie_status1):
+    print(&quot;%s 상태: &quot;%device_name, end=&quot;&quot;)</text>
       </register>
       <register name="6" type="4">
-        <text>with open(&quot;Weather_info.json&quot;, encoding='UTF8') as json_file:
-        json_object = json.load(json_file)
-        json_string = json.dumps(json_object)
-        retJson = json.loads(json_string)</text>
+        <text># 장비에 맞는 상태 메세지를 출력할 것
+    # else: print(&quot;정지&quot;)                      # 힌트] 메세지와 관련된 파라메터 추가</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBiYXNlX2RhdGUgPSB0aW1lLnN0cmZ0aW1lKCIlWSVtJWQiLCB0aW1lLmxvY2FsdGltZSh0aW1lLnRpbWUoKSkpCiAgICBiYXNlX3RpbWUgPSB0aW1lLnN0cmZ0aW1lKCIlSCVNIiwgdGltZS5sb2NhbHRpbWUodGltZS50aW1lKCkp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVsaWYgbWVudV9udW0gPT0gMjoK</text>
       </register>
-      <register name="8" type="4">
-        <text>ase_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
-    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQoIr/Pt+EiKQo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IyBkZWYgQmFsY29ueV9XaW5kb3dzX0NvbnRyb2woKToKIyAgICAgZ2xvYmFsIGdfQmFsY29ueV9XaW5kb3dzCiMgICAgIGJhc2VfZGF0ZSA9IHRpbWUuc3RyZnRpbWUoIiVZJW0lZCIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKIyAgICAgYmFzZV90aW1lID0gdGltZS5zdHJmdGltZSgiJUglTSIsIHRpbWUubG9jYWx0aW1lKHRpbWUudGltZSgpKSkKICAgICMgd2l0aCBvcGVuKCIlc18lc1+zr76+waS6uC5qc29uIiAlKGJhc2VfZGF0ZSxiYXNlX3RpbWUpLGVuY29kaW5nPSdVVEY4JykgYXMganNvbl9maWxlOgogICAgIyAgICAganNvbl9vYmplY3QgPSBqc29uLmxvYWQoanNvbl9maWxlKQogICAgIyAgICAganNvbl9zdHJpbmcgPSBqc29uLmR1bXBzKGpzb25fb2JqZWN0KQogICAgIyAgICAgcmV0SnNvbiA9IGpzb24ubG9hZHMoanNvbl9zdHJpbmcpCiAgICAjIExHVCA9ILOrt9ogLy8gUk4xID0gMb3DsKMgsK289reuIC8vIFBUWSA9ILCtvPbH/MXCCiAgICAjICAgICBpZiByZXRKc29uWydjYXRlZ29yeSddWyJSTjEiXSA+IDA6CiAgICAjICAgICAgICAgaWYgZ19CYWxjb255X1dpbmRvd3MgPT0gVHJ1ZToKICAgICMgICAgICAgICAgICAgZ19CYWxjb255X1dpbmRvd3MgPSBub3QgZ19CYWxjb255X1dpbmRvd3MKICAgICMgICAgICAgICAgICAgcHJpbnQoIrrxsKEgv8Mgv7nBpMDMv8C0zyDDormuwLsgtN29wLTPtNkuIik=</text>
+        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyk6CiAgICBwcmludCgiJXMgu/PFwjogIiVkZXZpY2VfbmFtZSwgZW5kPSIiKQogICAgaWYgZGV2Y2llX3N0YXR1cyA9PSBUcnVlOiBwcmludCgiwNu1vyIpICAjIEhLIENvbW1lbnRdIMDluvG/oSC4wrTCILvzxcIguN68vMH2uKYgw+K3wsfSILDNCiAgICAjIGVsaWYgZG9vcl9zdGF0dXMgPT0gVHJ1ZTogcHJpbnQoIr+tuLIiKQogICAgZWxzZTogcHJpbnQoIsGkwfYiKSA=</text>
       </register>
       <register name="-" type="4">
-        <text>pr</text>
+        <text># 장비에 맞는 상태 메세지를 출력할 것</text>
       </register>
     </registers>
     <search>
