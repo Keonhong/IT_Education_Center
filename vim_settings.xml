@@ -62,10 +62,10 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517377204512">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517378711855">
+        <mark key="[" line="163" column="29" />
+        <mark key="]" line="163" column="29" />
+        <mark key="." line="163" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1516156552573">
         <mark key="[" line="0" column="0" />
@@ -110,7 +110,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1517377145343" />
+      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1517377972319" />
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -141,40 +141,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCIzLiC9x73DsKMgseK788GkurggVXBkYXRlx8+x4iIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIyCwobvzwMcganNvbiDGxMDPwLsguLi16bDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBleClbeyJiYXNlRGF0ZSI6x/bA57OvwqUsImJhc2VUaW1lIjoix/bA573DsKMiLCJjYXRlZ29yeSI6IlJOMSIsImZjc3REYXRlIjrH9sDns6/CpSJmY3N0VGltZSI6MTAwMCwiZmNzdFZhbHVlIjoxMCwibngiOjg5LCJueSI6OTF9XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgwOW68SC788XCuKYgudmy27TZLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgvcO5xLe5wMy8xyC/6yBKc29uIMbEwM/AuyDA+sDlx9G02Q==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIyCwobvzwMcganNvbiDGxMDPwLsguLi16bDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBleClbeyJiYXNlRGF0ZSI6x/bA57OvwqUsImJhc2VUaW1lIjoix/bA573DsKMiLCJjYXRlZ29yeSI6IlJOMSIsImZjc3REYXRlIjrH9sDns6/CpSJmY3N0VGltZSI6MTAwMCwiZmNzdFZhbHVlIjoxMCwibngiOjg5LCJueSI6OTF9XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgwOW68SC788XCuKYgudmy27TZLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgvcO5xLe5wMy8xyC/6yBKc29uIMbEwM/AuyDA+sDlx9G02Q==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>def print_device_status1(device_name,devcie_status1):
     print(&quot;%s 상태: &quot;%device_name, end=&quot;&quot;)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text># 장비에 맞는 상태 메세지를 출력할 것
     # else: print(&quot;정지&quot;)                      # 힌트] 메세지와 관련된 파라메터 추가</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVsaWYgbWVudV9udW0gPT0gMjoK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbnQoIr/Pt+EiKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyk6CiAgICBwcmludCgiJXMgu/PFwjogIiVkZXZpY2VfbmFtZSwgZW5kPSIiKQogICAgaWYgZGV2Y2llX3N0YXR1cyA9PSBUcnVlOiBwcmludCgiwNu1vyIpICAjIEhLIENvbW1lbnRdIMDluvG/oSC4wrTCILvzxcIguN68vMH2uKYgw+K3wsfSILDNCiAgICAjIGVsaWYgZG9vcl9zdGF0dXMgPT0gVHJ1ZTogcHJpbnQoIr+tuLIiKQogICAgZWxzZTogcHJpbnQoIsGkwfYiKSA=</text>
-      </register>
       <register name="-" type="4">
-        <text># 장비에 맞는 상태 메세지를 출력할 것</text>
+        <text>for retJson in retJson:</text>
       </register>
     </registers>
     <search>
