@@ -8,7 +8,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517452032355">
+      <file name="/Python Console" timestamp="1517462177490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -66,11 +66,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517455201007">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
-        <mark key="^" line="316" column="16" />
-        <mark key="." line="53" column="4" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517462012895">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="336" column="16" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
         <mark key="[" line="0" column="0" />
@@ -87,11 +87,8 @@
       <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517298254242">
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="8" />
-        <mark key="." line="62" column="8" />
-        <mark key="^" line="62" column="19" />
+      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517462186909">
+        <mark key="[" line="66" column="33" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
@@ -130,7 +127,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517454744270">
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517460282183">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
@@ -171,7 +168,7 @@
                 check_device_status()</text>
       </register>
       <register name="&quot;" type="4">
-        <text># HK Comment] JSON 데이터 분석하는 코드를 작성할 것</text>
+        <text>#HK Comment] 가스밸브 열림/닫힘으로 표시</text>
       </register>
       <register name="2" type="4">
         <text>elif g_Balcony_Windows  == True:
@@ -209,7 +206,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text># HK Comment] JSON 데이터 분석하는 코드를 작성할 것</text>
+        <text>#HK Comment] 가스밸브 열림/닫힘으로 표시</text>
       </register>
     </registers>
     <search>
