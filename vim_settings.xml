@@ -8,7 +8,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517393376761">
+      <file name="/Python Console" timestamp="1517447168323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -66,11 +66,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517446070125">
-        <mark key="[" line="248" column="16" />
-        <mark key="]" line="248" column="16" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517447816705">
+        <mark key="[" line="75" column="44" />
+        <mark key="]" line="75" column="44" />
         <mark key="^" line="106" column="3" />
-        <mark key="." line="248" column="16" />
+        <mark key="." line="75" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
         <mark key="[" line="0" column="0" />
@@ -160,44 +160,48 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="1" type="4">
+        <text>elif g_humidifier and g_dehumidifier and g_Balcony_Windows == False:
+                print(&quot;\n***화창한 날씨이므로 창문을 열겠습니다.***&quot;)
+                g_Balcony_Windows = not g_Balcony_Windows
+                check_device_status()</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dz</text>
+        <text># 장비에 맞는 상태 메세지를 출력할 것</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
+      <register name="2" type="4">
+        <text>g_dehumidifier = not g_dehumidifier
+                g_humidifier = not g_humidifier</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAxOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGopCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSAxOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGopCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGogKz0gMQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>hile 1:
     for i in (1,10):
         for j in (2,10):
             print(i*j)</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>def print_device_status2(device_name,devcie_status2):
     print(&quot;%s 상태: &quot;% device_name, end=&quot;&quot;)
     if devcie_status2 == True: print(&quot;작동&quot;)  # 장비에 맞는 상태 메세지를 출력할 것
     else: print(&quot;정지&quot;)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjYXRlZ29yeSI6ICJSTjEiLAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIyCwobvzwMcganNvbiDGxMDPwLsguLi16bDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBleClbeyJiYXNlRGF0ZSI6x/bA57OvwqUsImJhc2VUaW1lIjoix/bA573DsKMiLCJjYXRlZ29yeSI6IlJOMSIsImZjc3REYXRlIjrH9sDns6/CpSJmY3N0VGltZSI6MTAwMCwiZmNzdFZhbHVlIjoxMCwibngiOjg5LCJueSI6OTF9XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgwOW68SC788XCuKYgudmy27TZLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgvcO5xLe5wMy8xyC/6yBKc29uIMbEwM/AuyDA+sDlx9G02Q==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dz</text>
+        <text># 장비에 맞는 상태 메세지를 출력할 것</text>
       </register>
     </registers>
     <search>
