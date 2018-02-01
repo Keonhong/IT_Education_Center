@@ -60,17 +60,17 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517375144152">
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_System.py" timestamp="1517455228245">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517453272309">
-        <mark key="[" line="332" column="60" />
-        <mark key="]" line="332" column="60" />
-        <mark key="^" line="334" column="16" />
-        <mark key="." line="332" column="60" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517455201007">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="4" />
+        <mark key="^" line="316" column="16" />
+        <mark key="." line="53" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
         <mark key="[" line="0" column="0" />
@@ -130,7 +130,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517453058276">
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517454744270">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
@@ -165,43 +165,51 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dzCg==</text>
+      <register name="1" type="4">
+        <text>elif g_humidifier or g_dehumidifier == False:
+                print(&quot;\n***화창한 날씨가 예상되므로 밀린 빨래를 하면 좋을 것 같습니다.***&quot;)
+                check_device_status()</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID09IEZhbHM=</text>
+        <text># HK Comment] JSON 데이터 분석하는 코드를 작성할 것</text>
       </register>
       <register name="2" type="4">
+        <text>elif g_Balcony_Windows  == True:
+                print(&quot;\n***습도가 높으므로 열려있는 창문을 닫고, 제습기를 가동하겠습니다.***&quot;)
+                g_Balcony_Windows = not g_Balcony_Windows
+                g_dehumidifier = not g_dehumidifier
+                check_device_status()</text>
+      </register>
+      <register name="3" type="4">
+        <text>elif g_Balcony_Windows  == True:
+                print(&quot;\n***습도가 낮으므로 가습기를 가동하겠습니다.***&quot;)
+                g_humidifier = not g_humidifier</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dzCg==</text>
+      </register>
+      <register name="5" type="4">
         <text># if g_humidifier and g_dehumidifier or g_Balcony_Windows == False:
 #     print(&quot;실행&quot;)</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>elif g_humidifier and g_dehumidifier and g_Balcony_Windows == False:
                 print(&quot;\n***화창한 날씨이므로 창문을 열겠습니다.***&quot;)
                 g_Balcony_Windows = not g_Balcony_Windows
                 check_device_status()</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>g_dehumidifier = not g_dehumidifier
                 g_humidifier = not g_humidifier</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAxOgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGopCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGogKz0gMQo=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID09IEZhbHM=</text>
+        <text># HK Comment] JSON 데이터 분석하는 코드를 작성할 것</text>
       </register>
     </registers>
     <search>
