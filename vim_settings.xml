@@ -66,11 +66,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517387475319">
-        <mark key="[" line="313" column="28" />
-        <mark key="]" line="313" column="28" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517446070125">
+        <mark key="[" line="248" column="16" />
+        <mark key="]" line="248" column="16" />
         <mark key="^" line="106" column="3" />
-        <mark key="." line="313" column="28" />
+        <mark key="." line="248" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
         <mark key="[" line="0" column="0" />
@@ -163,8 +163,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dz</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
@@ -197,7 +197,7 @@
         <text encoding="base64">ICAgIyCwobvzwMcganNvbiDGxMDPwLsguLi16bDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBleClbeyJiYXNlRGF0ZSI6x/bA57OvwqUsImJhc2VUaW1lIjoix/bA573DsKMiLCJjYXRlZ29yeSI6IlJOMSIsImZjc3REYXRlIjrH9sDns6/CpSJmY3N0VGltZSI6MTAwMCwiZmNzdFZhbHVlIjoxMCwibngiOjg5LCJueSI6OTF9XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgwOW68SC788XCuKYgudmy27TZLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgvcO5xLe5wMy8xyC/6yBKc29uIMbEwM/AuyDA+sDlx9G02Q==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dz</text>
       </register>
     </registers>
     <search>
