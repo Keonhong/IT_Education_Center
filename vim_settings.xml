@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/python_workspace/Jumptopy/보충수업/while_GUGUDAN.py" timestamp="1517391587999">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/python_workspace/Jumptopy/보충수업/while_GUGUDAN.py" timestamp="1517393407183">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517391504590">
+      <file name="/Python Console" timestamp="1517393376761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -34,7 +36,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Python_XML/Ver3.py" timestamp="1517379988776" />
       <file name="D:/python_workspace/Jumptopy/Codding_Test/Multioples of 3 and 5.py" timestamp="1516855134983">
         <mark key="[" line="0" column="4" />
       </file>
@@ -50,7 +51,6 @@
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="/Smart_Home_System.py" timestamp="1517359489244" />
       <file name="D:/python_workspace/Jumptopy/보충수업/example3.py" timestamp="1516788611921">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,12 +96,11 @@
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/GUGUDAN.py" timestamp="1517390229175">
+      <file name="D:/python_workspace/Jumptopy/보충수업/GUGUDAN.py" timestamp="1517444168467">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/weather_info.json" timestamp="1517377165648" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,7 +130,6 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/Data_science/Data_design.py" timestamp="1517377972319" />
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -162,42 +160,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSAxOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGopCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGogKz0gMQo=</text>
+      </register>
+      <register name="6" type="4">
         <text>hile 1:
     for i in (1,10):
         for j in (2,10):
             print(i*j)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>def print_device_status2(device_name,devcie_status2):
     print(&quot;%s 상태: &quot;% device_name, end=&quot;&quot;)
     if devcie_status2 == True: print(&quot;작동&quot;)  # 장비에 맞는 상태 메세지를 출력할 것
     else: print(&quot;정지&quot;)</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJjYXRlZ29yeSI6ICJSTjEiLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIyCwobvzwMcganNvbiDGxMDPwLsguLi16bDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBleClbeyJiYXNlRGF0ZSI6x/bA57OvwqUsImJhc2VUaW1lIjoix/bA573DsKMiLCJjYXRlZ29yeSI6IlJOMSIsImZjc3REYXRlIjrH9sDns6/CpSJmY3N0VGltZSI6MTAwMCwiZmNzdFZhbHVlIjoxMCwibngiOjg5LCJueSI6OTF9XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgwOW68SC788XCuKYgudmy27TZLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgvcO5xLe5wMy8xyC/6yBKc29uIMbEwM/AuyDA+sDlx9G02Q==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIlcyC788XCOiAiJWRldmljZV9uYW1lLCBlbmQ9IiIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVmIHByaW50X2RldmljZV9zdGF0dXMoZGV2aWNlX25hbWUsZGV2Y2llX3N0YXR1cyxkZXZpY2VfbmFtZSxkZXZjaWVfc3RhdHVzMSk6Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text>def print_device_status1(device_name,devcie_status1):
-    print(&quot;%s 상태: &quot;%device_name, end=&quot;&quot;)</text>
+        <text encoding="base64">ICAgIyCwobvzwMcganNvbiDGxMDPwLsguLi16bDNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBleClbeyJiYXNlRGF0ZSI6x/bA57OvwqUsImJhc2VUaW1lIjoix/bA573DsKMiLCJjYXRlZ29yeSI6IlJOMSIsImZjc3REYXRlIjrH9sDns6/CpSJmY3N0VGltZSI6MTAwMCwiZmNzdFZhbHVlIjoxMCwibngiOjg5LCJueSI6OTF9XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgwOW68SC788XCuKYgudmy27TZLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgvcO5xLe5wMy8xyC/6yBKc29uIMbEwM/AuyDA+sDlx9G02Q==</text>
       </register>
       <register name="-" type="4">
         <text />
