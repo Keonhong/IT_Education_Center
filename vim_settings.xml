@@ -8,7 +8,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517462177490">
+      <file name="/Python Console" timestamp="1517463788206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -66,11 +66,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517462012895">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="336" column="16" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517463980839">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="^" line="341" column="16" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
         <mark key="[" line="0" column="0" />
@@ -87,8 +87,10 @@
       <file name="D:/python_workspace/Jumptopy/BigData/facebook.py" timestamp="1516844923621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517462186909">
-        <mark key="[" line="66" column="33" />
+      <file name="D:/python_workspace/Jumptopy/embeded/OpenAPI_weather.py" timestamp="1517463611051">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Codding_Test/마름모 made 쌤님.py" timestamp="1514965771600">
         <mark key="[" line="32" column="11" />
@@ -163,50 +165,52 @@
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
       </register>
       <register name="1" type="4">
+        <text>base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
+        base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
+    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
+    base_Time = int(base_time) - 100</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGlmIChqc29uRGF0YVsncmVzcG9uc2UnXVsnaGVhZGVyJ11bJ3Jlc3VsdE1zZyddID09ICdPSycpOgogICAgICAgICAgICBmb3IgaSBpbiAoanNvbkRhdGFbJ3Jlc3BvbnNlJ11bJ2JvZHknXVsnaXRlbXMnXVsnaXRlbSddKToKICAgICAgICAgICAgICAgIGpzb25SZXN1bHQuYXBwZW5kKHsnYmFzZURhdGUnOmlbJ2Jhc2VEYXRlJ10sJ2Jhc2VUaW1lJzppWydiYXNlVGltZSddLCdjYXRlZ29yeSc6aVsiY2F0ZWdvcnkiXSwnZmNzdERhdGUnOmlbJ2Zjc3REYXRlJ10sJ2Zjc3RUaW1lJzppWydmY3N0VGltZSddLCdmY3N0VmFsdWUnOmlbJ2Zjc3RWYWx1ZSddLCdueCc6aVsnbngnXSwnbnknOmlbJ255J119KQoKICAgICAgICBwcmludCgiJXNfJXNfV2VhdGhlci5qc29uIiAlKGJhc2VfZGF0ZSxiYXNlX3RpbWUpKQoKICAgICAgICB3aXRoIG9wZW4oIiVzXyVzX1dlYXRoZXIuanNvbiIgJShiYXNlX2RhdGUsYmFzZV90aW1lKSwndycsZW5jb2Rpbmc9J3V0ZjgnKWFzIG91dGZpbGU6CiAgICAgICAgICAgIHJldEpzb24gPSBqc29uLmR1bXBzKGpzb25SZXN1bHQsIGluZGVudD00LCBzb3J0X2tleXM9VHJ1ZSxlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgICAgIG91dGZpbGUud3JpdGUocmV0SnNvbik=</text>
+      </register>
+      <register name="4" type="4">
         <text>elif g_humidifier or g_dehumidifier == False:
                 print(&quot;\n***화창한 날씨가 예상되므로 밀린 빨래를 하면 좋을 것 같습니다.***&quot;)
                 check_device_status()</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#HK Comment] 가스밸브 열림/닫힘으로 표시</text>
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>elif g_Balcony_Windows  == True:
                 print(&quot;\n***습도가 높으므로 열려있는 창문을 닫고, 제습기를 가동하겠습니다.***&quot;)
                 g_Balcony_Windows = not g_Balcony_Windows
                 g_dehumidifier = not g_dehumidifier
                 check_device_status()</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>elif g_Balcony_Windows  == True:
                 print(&quot;\n***습도가 낮으므로 가습기를 가동하겠습니다.***&quot;)
                 g_humidifier = not g_humidifier</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dzCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text># if g_humidifier and g_dehumidifier or g_Balcony_Windows == False:
 #     print(&quot;실행&quot;)</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>elif g_humidifier and g_dehumidifier and g_Balcony_Windows == False:
                 print(&quot;\n***화창한 날씨이므로 창문을 열겠습니다.***&quot;)
                 g_Balcony_Windows = not g_Balcony_Windows
                 check_device_status()</text>
       </register>
-      <register name="7" type="4">
-        <text>g_dehumidifier = not g_dehumidifier
-                g_humidifier = not g_humidifier</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>#HK Comment] 가스밸브 열림/닫힘으로 표시</text>
+        <text />
       </register>
     </registers>
     <search>
