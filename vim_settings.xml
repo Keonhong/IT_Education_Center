@@ -66,11 +66,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517447816705">
-        <mark key="[" line="75" column="44" />
-        <mark key="]" line="75" column="44" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517450519975">
+        <mark key="[" line="328" column="28" />
+        <mark key="]" line="328" column="28" />
         <mark key="^" line="106" column="3" />
-        <mark key="." line="75" column="44" />
+        <mark key="." line="328" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
         <mark key="[" line="0" column="0" />
@@ -130,10 +130,10 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517449508518">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517451035842">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
@@ -172,7 +172,7 @@
                 check_device_status()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
         <text>g_dehumidifier = not g_dehumidifier
@@ -206,7 +206,7 @@
     else: print(&quot;정지&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
