@@ -8,7 +8,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517449455656">
+      <file name="/Python Console" timestamp="1517452032355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -66,11 +66,11 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517450519975">
-        <mark key="[" line="328" column="28" />
-        <mark key="]" line="328" column="28" />
-        <mark key="^" line="106" column="3" />
-        <mark key="." line="328" column="28" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517453272309">
+        <mark key="[" line="332" column="60" />
+        <mark key="]" line="332" column="60" />
+        <mark key="^" line="334" column="16" />
+        <mark key="." line="332" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
         <mark key="[" line="0" column="0" />
@@ -130,10 +130,10 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517451035842">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517453058276">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
@@ -165,48 +165,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdfQmFsY29ueV9XaW5kb3dzID0gbm90IGdfQmFsY29ueV9XaW5kb3dzCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID09IEZhbHM=</text>
+      </register>
+      <register name="2" type="4">
+        <text># if g_humidifier and g_dehumidifier or g_Balcony_Windows == False:
+#     print(&quot;실행&quot;)</text>
+      </register>
+      <register name="3" type="4">
         <text>elif g_humidifier and g_dehumidifier and g_Balcony_Windows == False:
                 print(&quot;\n***화창한 날씨이므로 창문을 열겠습니다.***&quot;)
                 g_Balcony_Windows = not g_Balcony_Windows
                 check_device_status()</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>g_dehumidifier = not g_dehumidifier
                 g_humidifier = not g_humidifier</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgaiA8IDk6Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSAxOgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGopCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGogKz0gMQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>hile 1:
-    for i in (1,10):
-        for j in (2,10):
-            print(i*j)</text>
-      </register>
-      <register name="9" type="4">
-        <text>def print_device_status2(device_name,devcie_status2):
-    print(&quot;%s 상태: &quot;% device_name, end=&quot;&quot;)
-    if devcie_status2 == True: print(&quot;작동&quot;)  # 장비에 맞는 상태 메세지를 출력할 것
-    else: print(&quot;정지&quot;)</text>
-      </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IGdfQmFsY29ueV9XaW5kb3dzID09IEZhbHM=</text>
       </register>
     </registers>
     <search>
