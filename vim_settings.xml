@@ -8,7 +8,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517447168323">
+      <file name="/Python Console" timestamp="1517449455656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -130,6 +130,11 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517449508518">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -167,7 +172,7 @@
                 check_device_status()</text>
       </register>
       <register name="&quot;" type="4">
-        <text># 장비에 맞는 상태 메세지를 출력할 것</text>
+        <text>False</text>
       </register>
       <register name="2" type="4">
         <text>g_dehumidifier = not g_dehumidifier
@@ -201,7 +206,7 @@
     else: print(&quot;정지&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text># 장비에 맞는 상태 메세지를 출력할 것</text>
+        <text>False</text>
       </register>
     </registers>
     <search>
