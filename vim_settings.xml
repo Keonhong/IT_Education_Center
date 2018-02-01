@@ -48,6 +48,9 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_Rank.py" timestamp="1515731791810">
         <mark key="[" line="23" column="11" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Test3.py" timestamp="1517472804807">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
         <mark key="[" line="4" column="0" />
       </file>
@@ -126,11 +129,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517460282183">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-      </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517473075603" />
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -164,8 +163,8 @@
       <register name="1" type="2">
         <text encoding="base64">IyC9x73DsKMgvve1pcDMxq69wyBSRUggsKrAuyDIsL/rx8+/qSDA+8GkIL3AtbW/zSC68bGzx8+/qSDBpr3AseIvsKG9wLHiuKYgwaa+7iDH0rDNCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyC9x73DsKMgvve1pcDMxq69wyBSRUggsKrAuyDIsL/rx8+/qSDA+8GkIL3AtbW/zSC68bGzx8+/qSDBpr3AseIvsKG9wLHiuKYgwaa+7iDH0rDNCg==</text>
+      <register name="&quot;" type="4">
+        <text>def controlr():</text>
       </register>
       <register name="2" type="4">
         <text>with open('Sunny_Day_simulator.json','w',encoding='UTF8') as outfile:
@@ -216,7 +215,7 @@
         <text encoding="base64">ICAgICJiYXNlRGF0ZSI6IGJhc2VfZGF0ZSwKICAgICAgICAiYmFzZVRpbWUiOiBiYXNlX3RpbWUsCiAgICAgICAgImNhdGVnb3J5IjogIlJFSCIsCiAgICAgICAgImZjc3REYXRlIjogYmFzZV9kYXRlLAogICAgICAgICJmY3N0VGltZSI6IGJhc2VfdGltZSwKICAgICAgICAiZmNzdFZhbHVlIjogMzAsCiAgICAgICAgIm54IjogODksCiAgICAgICAgIm55IjogOTEKICAgIH0KICAgIHJldEpzb24uYXBwZW5kKGpzb25SZXN1bHQ=</text>
       </register>
       <register name="-" type="4">
-        <text>f not os.path.isfile('Sunny_Day_simulator.json</text>
+        <text>def controlr():</text>
       </register>
     </registers>
     <search>
