@@ -17,8 +17,12 @@
       <file name="/fragment.py" timestamp="1517464737811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/WeatherInfo.py" timestamp="1517554740050">
-        <mark key="[" line="0" column="33" />
+      <file name="D:/python_workspace/Jumptopy/embeded/WeatherInfo.py" timestamp="1517555964451">
+        <mark key="'" line="20" column="30" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1517548690979">
         <mark key="[" line="0" column="0" />
@@ -104,7 +108,7 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_Network_System.py" timestamp="1517554676760" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_Network_System.py" timestamp="1517555347427" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,21 +160,25 @@
       <jump line="12" column="28" filename="D:/python_workspace/Jumptopy/보충수업/example.py" />
       <jump line="20" column="32" filename="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" />
       <jump line="70" column="75" filename="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" />
+      <jump line="20" column="30" filename="D:/python_workspace/Jumptopy/embeded/WeatherInfo.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcmFtZXRlcnMgKz0gIiZfdHlwZT1qc29uJnNlcnZpY2VLZXk9IiArIGFjY2Vzc19rZXkgKyAiJnBhZ2VObz0yIgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmRlZiBUcnlfYW5kX0V4Y2VwdCgpOgogICAg</text>
+        <text encoding="base64">cGFyYW1ldGVycyArPSAiJm54PSIgIAogICAgcGFyYW1ldGVycyArPSAiJm55PSIgIAogICAgcGFyYW1ldGVycyArPSAiJl90eXBlPWpzb24mc2VydmljZUtleT0iIAogICAgcGFyYW1ldGVycyArPSAiJm51bU9mUm93cz0yNSI=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmRlZiBUcnlfYW5kX0V4Y2VwdCgpOgogICAg</text>
+        <text>.request</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgZ19kZWh1bWlkaWZpZXIgPT0gVHJ1ZToKICAgICAgICAgICAgICAgICAgICBwcmludCgiKioqvcC1tbChILP0wLi5x7fOKMf2wOclcyUlKSDBpr3AseKwoSDA27W/wd/A1LTPtNkuKioqIiVzdHIocmV0SnNvblsnZmNzdFZhbHVlJ10pKQogICAgICAgICAgICAgICAgICAgIGNoZWNrX2RldmljZV9zdGF0dXMoKQogICAgICAgICAgICAgICAgICAgIGJyZWFr</text>
+        <text encoding="base64">CmRlZiBUcnlfYW5kX0V4Y2VwdCgpOgogICAg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgZ19kZWh1bWlkaWZpZXIgPT0gVHJ1ZToKICAgICAgICAgICAgICAgICAgICBwcmludCgiKioqvcC1tbChILP0wLi5x7fOKMf2wOclcyUlKSDBpr3AseKwoSDA27W/wd/A1LTPtNkuKioqIiVzdHIocmV0SnNvblsnZmNzdFZhbHVlJ10pKQogICAgICAgICAgICAgICAgICAgIGNoZWNrX2RldmljZV9zdGF0dXMoKQogICAgICAgICAgICAgICAgICAgIGJyZWFr</text>
+      </register>
+      <register name="4" type="4">
         <text>def main():
         try:
             jsonResult = []
@@ -207,7 +215,7 @@
                 retJson = json.dumps(jsonResult, indent=4, sort_keys=True,ensure_ascii=False)
                 outfile.write(retJson)</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>jsonResult = []
     base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
     base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
@@ -224,30 +232,26 @@
         retJson = json.dumps(jsonResult, indent=4, sort_keys=True,ensure_ascii=False)
         outfile.write(retJson)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiNISyBDb21tZW50XSCwob26ueu66iC/rbiyL7TdyPvAuLfOIMelvcM=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyC9x73DsKMgvve1pcDMxq69wyBSRUggsKrAuyDIsL/rx8+/qSDA+8GkIL3AtbW/zSC68bGzx8+/qSDBpr3AseIvsKG9wLHiuKYgwaa+7iDH0rDNCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>with open('Sunny_Day_simulator.json','w',encoding='UTF8') as outfile:
         readable_result = json.dumps(retJson,indent=4, sort_keys=True, ensure_ascii=False)
         outfile.write(readable_result)
         print('Sunny_Day_simulator.json SAVED')</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>ith open('Damp_simulator.json','w',encoding='UTF8') as outfile:
         readable_result = json.dumps(retJson,indent=4, sort_keys=True, ensure_ascii=False)
         outfile.write(readable_result)
         print('Damp_simulator.json SAVED')</text>
       </register>
-      <register name="9" type="4">
-        <text>base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
-    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text>.request</text>
       </register>
     </registers>
     <search>
