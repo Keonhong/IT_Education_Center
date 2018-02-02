@@ -48,7 +48,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_Rank.py" timestamp="1515731791810">
         <mark key="[" line="23" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test3.py" timestamp="1517472804807">
+      <file name="D:/python_workspace/Jumptopy/embeded/Test3.py" timestamp="1517531681963">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
@@ -69,7 +69,7 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517471528621">
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517532147254">
         <mark key="^" line="252" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
@@ -129,7 +129,7 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517473075603" />
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517532871295" />
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
       </file>
@@ -160,29 +160,49 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyC9x73DsKMgvve1pcDMxq69wyBSRUggsKrAuyDIsL/rx8+/qSDA+8GkIL3AtbW/zSC68bGzx8+/qSDBpr3AseIvsKG9wLHiuKYgwaa+7iDH0rDNCg==</text>
+      <register name="1" type="4">
+        <text>jsonResult = []
+    base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
+    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
+    nx = &quot;89&quot;
+    ny = &quot;91&quot;
+    jsonData = getForecastTimeDataResponse(base_date,base_time,nx,ny)
+
+    if (jsonData['response']['header']['resultMsg'] == 'OK'):
+        for i in (jsonData['response']['body']['items']['item']):
+            jsonResult.append({'baseDate':i['baseDate'],'baseTime':i['baseTime'],'category':i[&quot;category&quot;],'fcstDate':i['fcstDate'],'fcstTime':i['fcstTime'],'fcstValue':i['fcstValue'],'nx':i['nx'],'ny':i['ny']})
+    print(&quot;%s_%s_Weather.json&quot; %(base_date,base_time))
+
+    with open(&quot;%s_%s_Weather.json&quot; %(base_date,base_time),'w',encoding='utf8')as outfile:
+        retJson = json.dumps(jsonResult, indent=4, sort_keys=True,ensure_ascii=False)
+        outfile.write(retJson)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>def controlr():</text>
+        <text># 실시간 업데이트시 REH 값을 활용하여 적정 습도와 비교하여 제습기/가습기를 제어 할것</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiNISyBDb21tZW50XSCwob26ueu66iC/rbiyL7TdyPvAuLfOIMelvcM=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyC9x73DsKMgvve1pcDMxq69wyBSRUggsKrAuyDIsL/rx8+/qSDA+8GkIL3AtbW/zSC68bGzx8+/qSDBpr3AseIvsKG9wLHiuKYgwaa+7iDH0rDNCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>with open('Sunny_Day_simulator.json','w',encoding='UTF8') as outfile:
         readable_result = json.dumps(retJson,indent=4, sort_keys=True, ensure_ascii=False)
         outfile.write(readable_result)
         print('Sunny_Day_simulator.json SAVED')</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>ith open('Damp_simulator.json','w',encoding='UTF8') as outfile:
         readable_result = json.dumps(retJson,indent=4, sort_keys=True, ensure_ascii=False)
         outfile.write(readable_result)
         print('Damp_simulator.json SAVED')</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
     base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>try:
         retJson = []
         base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
@@ -201,21 +221,14 @@
                 json_string = json.dumps(json_object)
                 retJson = json.loads(json_string)</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBiYXNlX3RpbWUgPSB0aW1lLnN0cmZ0aW1lKCIlSCVNIiwgdGltZS5sb2NhbHRpbWUodGltZS50aW1lKCkpKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHJpbnQoIlJFSC8vZmNzdFZhbHVlID0gIiArIHN0cihyZXRKc29uWzBdWydmY3N0VmFsdWUnXSkpCiAgICAgICAgaWYgcmV0SnNvblswXVsnZmNzdFZhbHVlJ10gPCA0MDoKICAgICAgICAgICAgaWYgZ19odW1pZGlmaWVyID09IEZhbHNlOgogICAgICAgICAgICAgICAgcHJpbnQoIlxuKioqvcC1tbChILO3wLi5x7fOILChvcCx4rimILChtb/Hz7DavcC0z7TZLioqKiIpCiAgICAgICAgICAgICAgICBnX2h1bWlkaWZpZXIgPSBub3QgZ19odW1pZGlmaWVyCiAgICAgICAgICAgICAgICBjaGVja19kZXZpY2Vfc3RhdHVzKCkKICAgICAgICAgICAgZWxpZiBnX2h1bWlkaWZpZXIgPT0gVHJ1ZToKICAgICAgICAgICAgICAgIHByaW50KCIqKiq9wLW1sKEgs7fAuLnHt84gsKG9wLHisKEgwNu1v8HfwNS0z7TZLioqKiIp</text>
       </register>
-      <register name="8" type="4">
-        <text>__name__ == '__main__':
-    m</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICJiYXNlRGF0ZSI6IGJhc2VfZGF0ZSwKICAgICAgICAiYmFzZVRpbWUiOiBiYXNlX3RpbWUsCiAgICAgICAgImNhdGVnb3J5IjogIlJFSCIsCiAgICAgICAgImZjc3REYXRlIjogYmFzZV9kYXRlLAogICAgICAgICJmY3N0VGltZSI6IGJhc2VfdGltZSwKICAgICAgICAiZmNzdFZhbHVlIjogMzAsCiAgICAgICAgIm54IjogODksCiAgICAgICAgIm55IjogOTEKICAgIH0KICAgIHJldEpzb24uYXBwZW5kKGpzb25SZXN1bHQ=</text>
-      </register>
       <register name="-" type="4">
-        <text>def controlr():</text>
+        <text># 실시간 업데이트시 REH 값을 활용하여 적정 습도와 비교하여 제습기/가습기를 제어 할것</text>
       </register>
     </registers>
     <search>
