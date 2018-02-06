@@ -8,7 +8,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517468931075">
+      <file name="/Python Console" timestamp="1517538590299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/Python_XML2/BS.py" timestamp="1515650358192">
@@ -17,7 +17,12 @@
       <file name="/fragment.py" timestamp="1517464737811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517387720358">
+      <file name="D:/python_workspace/Jumptopy/embeded/WeatherInfo.py" timestamp="1517796575477">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1517548690979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/python_workspace/Jumptopy/보충수업/if_test.py" timestamp="1517220341325">
@@ -48,7 +53,7 @@
       <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie_Rank.py" timestamp="1515731791810">
         <mark key="[" line="23" column="11" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test3.py" timestamp="1517472804807">
+      <file name="D:/python_workspace/Jumptopy/embeded/Test3.py" timestamp="1517531681963">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver3.py" timestamp="1515736319746">
@@ -69,7 +74,7 @@
         <mark key="^" line="160" column="11" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517471528621">
+      <file name="D:/python_workspace/Jumptopy/embeded/Test.py" timestamp="1517532147254">
         <mark key="^" line="252" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1517387687855">
@@ -100,6 +105,7 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Smart_Home_Network_System.py" timestamp="1517817173106" />
       <file name="D:/python_workspace/Jumptopy/Python_XML/mkdir.py" timestamp="1515571326413">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,16 +135,20 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517473075603" />
+      <file name="D:/python_workspace/Jumptopy/Python_XML2/Naver_Movie.py" timestamp="1517798187214">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Test2.py" timestamp="1517548666029">
+        <mark key="^" line="34" column="10" />
+      </file>
+      <file name="D:/python_workspace/Jumptopy/embeded/Test4.py" timestamp="1517817149408">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+      </file>
       <file name="D:/python_workspace/Jumptopy/BigData/이명박_naver_news.json" timestamp="1516928404862">
         <mark key="[" line="1" column="4" />
-      </file>
-      <file name="D:/python_workspace/Jumptopy/보충수업/example.py" timestamp="1517214735198">
-        <mark key="'" line="13" column="28" />
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
       </file>
       <file name="D:/python_workspace/Test/김건홍_nene_ver4.py" timestamp="1515739195154">
         <mark key="[" line="0" column="0" />
@@ -155,67 +165,93 @@
       <jump line="12" column="28" filename="D:/python_workspace/Jumptopy/보충수업/example.py" />
       <jump line="20" column="32" filename="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" />
       <jump line="70" column="75" filename="D:/python_workspace/Jumptopy/BigData/Tour_statistic.py" />
+      <jump line="20" column="30" filename="D:/python_workspace/Jumptopy/embeded/WeatherInfo.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG1lbnVfbnVtID09IDQ6IGdfRG9vciA9IG5vdCBnX0Rvb3IK</text>
+        <text encoding="base64">ICAgIHBhcmFtZXRlcnMgKz0gIiZfdHlwZT1qc29uJnNlcnZpY2VLZXk9IiArIGFjY2Vzc19rZXkgKyAiJnBhZ2VObz0yIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyC9x73DsKMgvve1pcDMxq69wyBSRUggsKrAuyDIsL/rx8+/qSDA+8GkIL3AtbW/zSC68bGzx8+/qSDBpr3AseIvsKG9wLHiuKYgwaa+7iDH0rDNCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bgoKbyA9IHhtbHRvZGljdC5wYXJzZSgnPGU+IDxhPnRleHQ8L2E+IDxhPnRleHQ8L2E+IDwvZT4nKQpqc29uLmR1bXBzKG8p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>def controlr():</text>
+        <text encoding="base64">bgoKbyA9IHhtbHRvZGljdC5wYXJzZSgnPGU+IDxhPnRleHQ8L2E+IDxhPnRleHQ8L2E+IDwvZT4nKQpqc29uLmR1bXBzKG8p</text>
       </register>
       <register name="2" type="4">
-        <text>with open('Sunny_Day_simulator.json','w',encoding='UTF8') as outfile:
-        readable_result = json.dumps(retJson,indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(readable_result)
-        print('Sunny_Day_simulator.json SAVED')</text>
+        <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCBqc29uCmltcG9ydCBkYXRldGltZQoKCmRlZiBnZXRfd2VhdGhlcl9kYXRhKCkgOgogICAgYXBpX2RhdGUsIGFwaV90aW1lID0gZ2V0X2FwaV9kYXRlKCkKICAgIHVybCA9ICJodHRwOi8vbmV3c2t5Mi5rbWEuZ28ua3Ivc2VydmljZS9TZWNuZFNydHBkRnJjc3RJbmZvU2VydmljZTIvRm9yZWNhc3RTcGFjZURhdGE/IgogICAga2V5ID0gInNlcnZpY2VLZXk9IiArIGJpbGwua2V5CiAgICBkYXRlID0gIiZiYXNlX2RhdGU9IiArIGFwaV9kYXRlCiAgICB0aW1lID0gIiZiYXNlX3RpbWU9IiArIGFwaV90aW1lCiAgICBueCA9ICImbng9OTciCiAgICBueSA9ICImbnk9NzYiCiAgICBudW1PZlJvd3MgPSAiJm51bU9mUm93cz0xMDAiCiAgICB0eXBlID0gIiZfdHlwZT1qc29uIgogICAgYXBpX3VybCA9IHVybCArIGtleSArIGRhdGUgKyB0aW1lICsgbnggKyBueSArIG51bU9mUm93cyArIHR5cGUKCiAgICBkYXRhID0gdXJsbGliLnJlcXVlc3QudXJsb3BlbihhcGlfdXJsKS5yZWFkKCkuZGVjb2RlKCd1dGY4JykKICAgIGRhdGFfanNvbiA9IGpzb24ubG9hZHMoZGF0YSkKICAgIHByaW50KGRhdGFfanNvbikKCmRlZiBnZXRfYXBpX2RhdGUoKSA6CiAgICBzdGFuZGFyZF90aW1lID0gWzIsIDUsIDgsIDExLCAxNCwgMTcsIDIwLCAyM10gI2FwaSByZXNwb25zZSB0aW1lCiAgICB0aW1lX25vdyA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdyh0ej10aW1lem9uZSgnQXNpYS9TZW91bCcpKS5zdHJmdGltZSgnJUgnKSAjZ2V0IGhvdXIKICAgIGNoZWNrX3RpbWUgPSBpbnQodGltZV9ub3cpIC0gMQogICAgZGF5X2NhbGlicmF0ZSA9IDAKICAgICNob3VyIHRvIGFwaSB0aW1lCiAgICB3aGlsZSBub3QgY2hlY2tfdGltZSBpbiBzdGFuZGFyZF90aW1lIDoKICAgICAgICBjaGVja190aW1lIC09IDEKICAgICAgICBpZiBjaGVja190aW1lIDwgMiA6CiAgICAgICAgICAgIGRheV9jYWxpYnJhdGUgPSAxICMgeWVzdGVyZGF5CiAgICAgICAgICAgIGNoZWNrX3RpbWUgPSAyMwoKICAgIGRhdGVfbm93ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KHR6PXB5dHoudGltZXpvbmUoJ0FzaWEvU2VvdWwnKSkuc3RyZnRpbWUoJyVZJW0lZCcpICNnZXQgZGF0ZQogICAgY2hlY2tfZGF0ZSA9IGludChkYXRlX25vdykgLSBkYXlfY2FsaWJyYXRlCgogICAgcmV0dXJuIChzdHIoY2hlY2tfZGF0ZSksIChzdHIoY2hlY2tfdGltZSkgKyAnMDAnKSkgI3JldHVybiBkYXRlKHl5eXltbWRkKSwgdHQwMApkZWYgZ2V0X2FwaV9kYXRlKCkgOgogICAgc3RhbmRhcmRfdGltZSA9IFsyLCA1LCA4LCAxMSwgMTQsIDE3LCAyMCwgMjNdCiAgICB0aW1lX25vdyA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdyh0ej1weXR6LnRpbWV6b25lKCdBc2lhL1Nlb3VsJykpLnN0cmZ0aW1lKCclSCcpCiAgICBjaGVja190aW1lID0gaW50KHRpbWVfbm93KSAtIDEKICAgIGRheV9jYWxpYnJhdGUgPSAwCiAgICB3aGlsZSBub3QgY2hlY2tfdGltZSBpbiBzdGFuZGFyZF90aW1lIDoKICAgICAgICBjaGVja190aW1lIC09IDEKICAgICAgICBpZiBjaGVja190aW1lIDwgMiA6CiAgICAgICAgICAgIGRheV9jYWxpYnJhdGUgPSAxCiAgICAgICAgICAgIGNoZWNrX3RpbWUgPSAyMwoKICAgIGRhdGVfbm93ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KHR6PXB5dHoudGltZXpvbmUoJ0FzaWEvU2VvdWwnKSkuc3RyZnRpbWUoJyVZJW0lZCcpCiAgICBjaGVja19kYXRlID0gaW50KGRhdGVfbm93KSAtIGRheV9jYWxpYnJhdGUKCiAgICByZXR1cm4gKHN0cihjaGVja19kYXRlKSwgKHN0cihjaGVja190aW1lKSArICcwMCcpKQoKZGVmIGdldF93ZWF0aGVyX2RhdGEoKSA6CiAgICBhcGlfZGF0ZSwgYXBpX3RpbWUgPSBnZXRfYXBpX2RhdGUoKQogICAgdXJsID0gImh0dHA6Ly9uZXdza3kyLmttYS5nby5rci9zZXJ2aWNlL1NlY25kU3J0cGRGcmNzdEluZm9TZXJ2aWNlMi9Gb3JlY2FzdFNwYWNlRGF0YT8iCiAgICBrZXkgPSAic2VydmljZUtleT0iICsgYmlsbC5rZXkKICAgIGRhdGUgPSAiJmJhc2VfZGF0ZT0iICsgYXBpX2RhdGUKICAgIHRpbWUgPSAiJmJhc2VfdGltZT0iICsgYXBpX3RpbWUKICAgIG54ID0gIiZueD05NyIKICAgIG55ID0gIiZueT03NiIKICAgIG51bU9mUm93cyA9ICImbnVtT2ZSb3dzPTEwMCIKICAgIHR5cGUgPSAiJl90eXBlPWpzb24iCiAgICBhcGlfdXJsID0gdXJsICsga2V5ICsgZGF0ZSArIHRpbWUgKyBueCArIG55ICsgbnVtT2ZSb3dzICsgdHlwZQoKICAgIGRhdGEgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKGFwaV91cmwpLnJlYWQoKS5kZWNvZGUoJ3V0ZjgnKQogICAgZGF0YV9qc29uID0ganNvbi5sb2FkcyhkYXRhKQoKICAgIHBhcnNlZF9qc29uID0gZGF0YV9qc29uWydyZXNwb25zZSddWydib2R5J11bJ2l0ZW1zJ11bJ2l0ZW0nXQoKICAgIHRhcmdldF9kYXRlID0gcGFyc2VkX2pzb25bMF1bJ2Zjc3REYXRlJ10gICMgZ2V0IGRhdGUgYW5kIHRpbWUKICAgIHRhcmdldF90aW1lID0gcGFyc2VkX2pzb25bMF1bJ2Zjc3RUaW1lJ10KCiAgICBkYXRlX2NhbGlicmF0ZSA9IHRhcmdldF9kYXRlICNkYXRlIG9mIFRNWCwgVE1OCiAgICBpZiB0YXJnZXRfdGltZSA+ICcxMzAwJzoKICAgICAgICBkYXRlX2NhbGlicmF0ZSA9IHN0cihpbnQodGFyZ2V0X2RhdGUpICsgMSkKCiAgICBwYXNzaW5nX2RhdGEgPSB7fQogICAgZm9yIG9uZV9wYXJzZWQgaW4gcGFyc2VkX2pzb246CiAgICAgICAgaWYgb25lX3BhcnNlZFsnZmNzdERhdGUnXSA9PSB0YXJnZXRfZGF0ZSBhbmQgb25lX3BhcnNlZFsnZmNzdFRpbWUnXSA9PSB0YXJnZXRfdGltZTogI2dldCB0b2RheSdzIGRhdGEKICAgICAgICAgICAgcGFzc2luZ19kYXRhW29uZV9wYXJzZWRbJ2NhdGVnb3J5J11dID0gb25lX3BhcnNlZFsnZmNzdFZhbHVlJ10KCiAgICAgICAgaWYgb25lX3BhcnNlZFsnZmNzdERhdGUnXSA9PSBkYXRlX2NhbGlicmF0ZSBhbmQgKAogICAgICAgICAgICAgICAgb25lX3BhcnNlZFsnY2F0ZWdvcnknXSA9PSAnVE1YJyBvciBvbmVfcGFyc2VkWydjYXRlZ29yeSddID09ICdUTU4nKTogI1RNWCwgVE1OIGF0IGNhbGlicmF0ZWQgZGF5CiAgICAgICAgICAgIHBhc3NpbmdfZGF0YVtvbmVfcGFyc2VkWydjYXRlZ29yeSddXSA9IG9uZV9wYXJzZWRbJ2Zjc3RWYWx1ZSddCgogICAgcmV0dXJuIHBhc3NpbmdfZGF0YQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHByaW50KGdldF93ZWF0aGVyX2RhdGEoKSk=</text>
       </register>
       <register name="3" type="4">
-        <text>ith open('Damp_simulator.json','w',encoding='UTF8') as outfile:
-        readable_result = json.dumps(retJson,indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(readable_result)
-        print('Damp_simulator.json SAVED')</text>
+        <text>import bill
+import pytz</text>
       </register>
       <register name="4" type="4">
-        <text>base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
-    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))</text>
+        <text encoding="base64">cGFyYW1ldGVycyArPSAiJm54PSIgIAogICAgcGFyYW1ldGVycyArPSAiJm55PSIgIAogICAgcGFyYW1ldGVycyArPSAiJl90eXBlPWpzb24mc2VydmljZUtleT0iIAogICAgcGFyYW1ldGVycyArPSAiJm51bU9mUm93cz0yNSI=</text>
       </register>
       <register name="5" type="4">
-        <text>try:
-        retJson = []
-        base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
-        base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
-        with open(&quot;%s_%s_Weather.json&quot; %(base_date,base_time), encoding='UTF8') as json_file:
-            json_object = json.load(json_file)
-            json_string = json.dumps(json_object)
-            retJson = json.loads(json_string)
-
-    except FileNotFoundError:
-        base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
-        base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
-        base_Time = int(base_time)-100
-        with open(&quot;%s_%s_Weather.json&quot; % (base_date,base_Time), encoding='UTF8') as json_file:
-                json_object = json.load(json_file)
-                json_string = json.dumps(json_object)
-                retJson = json.loads(json_string)</text>
+        <text encoding="base64">CmRlZiBUcnlfYW5kX0V4Y2VwdCgpOgogICAg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX3RpbWUgPSB0aW1lLnN0cmZ0aW1lKCIlSCVNIiwgdGltZS5sb2NhbHRpbWUodGltZS50aW1lKCkpKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgZ19kZWh1bWlkaWZpZXIgPT0gVHJ1ZToKICAgICAgICAgICAgICAgICAgICBwcmludCgiKioqvcC1tbChILP0wLi5x7fOKMf2wOclcyUlKSDBpr3AseKwoSDA27W/wd/A1LTPtNkuKioqIiVzdHIocmV0SnNvblsnZmNzdFZhbHVlJ10pKQogICAgICAgICAgICAgICAgICAgIGNoZWNrX2RldmljZV9zdGF0dXMoKQogICAgICAgICAgICAgICAgICAgIGJyZWFr</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cHJpbnQoIlJFSC8vZmNzdFZhbHVlID0gIiArIHN0cihyZXRKc29uWzBdWydmY3N0VmFsdWUnXSkpCiAgICAgICAgaWYgcmV0SnNvblswXVsnZmNzdFZhbHVlJ10gPCA0MDoKICAgICAgICAgICAgaWYgZ19odW1pZGlmaWVyID09IEZhbHNlOgogICAgICAgICAgICAgICAgcHJpbnQoIlxuKioqvcC1tbChILO3wLi5x7fOILChvcCx4rimILChtb/Hz7DavcC0z7TZLioqKiIpCiAgICAgICAgICAgICAgICBnX2h1bWlkaWZpZXIgPSBub3QgZ19odW1pZGlmaWVyCiAgICAgICAgICAgICAgICBjaGVja19kZXZpY2Vfc3RhdHVzKCkKICAgICAgICAgICAgZWxpZiBnX2h1bWlkaWZpZXIgPT0gVHJ1ZToKICAgICAgICAgICAgICAgIHByaW50KCIqKiq9wLW1sKEgs7fAuLnHt84gsKG9wLHisKEgwNu1v8HfwNS0z7TZLioqKiIp</text>
+        <text>def main():
+        try:
+            jsonResult = []
+            base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
+            base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
+            nx = &quot;89&quot;
+            ny = &quot;91&quot;
+            jsonData = getForecastTimeDataResponse(base_date,base_time,nx,ny)
+            if (jsonData['response']['header']['resultMsg'] == 'OK'):
+                for i in (jsonData['response']['body']['items']['item']):
+                    jsonResult.append({'baseDate':i['baseDate'],'baseTime':i['baseTime'],'category':i[&quot;category&quot;],'fcstDate':i['fcstDate'],'fcstTime':i['fcstTime'],'fcstValue':i['fcstValue'],'nx':i['nx'],'ny':i['ny']})
+
+            print(&quot;%s_%s_Weather.json&quot; %(base_date,base_time))
+
+            with open(&quot;%s_%s_Weather.json&quot; %(base_date,base_time),'w',encoding='utf8')as outfile:
+                retJson = json.dumps(jsonResult, indent=4, sort_keys=True,ensure_ascii=False)
+                outfile.write(retJson)
+        except TypeError:
+            jsonResult = []
+            base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
+            base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
+            base_Time = int(base_time) - 100
+            nx = &quot;89&quot;
+            ny = &quot;91&quot;
+            jsonData = getForecastTimeDataResponse(base_date,str(base_Time),nx,ny)
+
+            if (jsonData['response']['header']['resultMsg'] == 'OK'):
+                for i in (jsonData['response']['body']['items']['item']):
+                    jsonResult.append({'baseDate':i['baseDate'],'baseTime':i['baseTime'],'category':i[&quot;category&quot;],'fcstDate':i['fcstDate'],'fcstTime':i['fcstTime'],'fcstValue':i['fcstValue'],'nx':i['nx'],'ny':i['ny']})
+
+            print(&quot;%s_%s_Weather.json&quot; % (base_date,base_Time))
+
+            with open(&quot;%s_%s_Weather.json&quot; % (base_date,base_Time),'w',encoding='utf8')as outfile:
+                retJson = json.dumps(jsonResult, indent=4, sort_keys=True,ensure_ascii=False)
+                outfile.write(retJson)</text>
       </register>
       <register name="8" type="4">
-        <text>__name__ == '__main__':
-    m</text>
+        <text>jsonResult = []
+    base_date = time.strftime(&quot;%Y%m%d&quot;, time.localtime(time.time()))
+    base_time = time.strftime(&quot;%H%M&quot;, time.localtime(time.time()))
+    nx = &quot;89&quot;
+    ny = &quot;91&quot;
+    jsonData = getForecastTimeDataResponse(base_date,base_time,nx,ny)
+
+    if (jsonData['response']['header']['resultMsg'] == 'OK'):
+        for i in (jsonData['response']['body']['items']['item']):
+            jsonResult.append({'baseDate':i['baseDate'],'baseTime':i['baseTime'],'category':i[&quot;category&quot;],'fcstDate':i['fcstDate'],'fcstTime':i['fcstTime'],'fcstValue':i['fcstValue'],'nx':i['nx'],'ny':i['ny']})
+    print(&quot;%s_%s_Weather.json&quot; %(base_date,base_time))
+
+    with open(&quot;%s_%s_Weather.json&quot; %(base_date,base_time),'w',encoding='utf8')as outfile:
+        retJson = json.dumps(jsonResult, indent=4, sort_keys=True,ensure_ascii=False)
+        outfile.write(retJson)</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICJiYXNlRGF0ZSI6IGJhc2VfZGF0ZSwKICAgICAgICAiYmFzZVRpbWUiOiBiYXNlX3RpbWUsCiAgICAgICAgImNhdGVnb3J5IjogIlJFSCIsCiAgICAgICAgImZjc3REYXRlIjogYmFzZV9kYXRlLAogICAgICAgICJmY3N0VGltZSI6IGJhc2VfdGltZSwKICAgICAgICAiZmNzdFZhbHVlIjogMzAsCiAgICAgICAgIm54IjogODksCiAgICAgICAgIm55IjogOTEKICAgIH0KICAgIHJldEpzb24uYXBwZW5kKGpzb25SZXN1bHQ=</text>
+        <text encoding="base64">CiNISyBDb21tZW50XSCwob26ueu66iC/rbiyL7TdyPvAuLfOIMelvcM=</text>
       </register>
       <register name="-" type="4">
-        <text>def controlr():</text>
+        <text>import pandas as pd</text>
       </register>
     </registers>
     <search>
